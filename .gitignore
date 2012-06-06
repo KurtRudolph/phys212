@@ -8,3 +8,7 @@
 .Trashes
 
 temp/*
+
+
+# vim swap files
+*.swp

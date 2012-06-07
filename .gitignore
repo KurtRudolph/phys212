@@ -9,6 +9,5 @@
 
 temp/*
 
-
-# vim swap files
+# Vim
 *.swp

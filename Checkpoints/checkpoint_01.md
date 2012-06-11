@@ -4,6 +4,7 @@
 * Two Charges \[ q = + 1 \mu \text{C} \] and \[ Q = +10 \mu \text{C}\] are placed near each other as shown in the figure ![figure](https://dl.dropbox.com/u/11444220/00/Screen%20Shot%202012-06-10%20at%2010.04.03%20PM.png)1) Which of the following diagrams best depicts the forces acting on the charges?
    * C
        * Charge \[q\] is \[frac{ 1}{ 10}\] the magnitude of charge \[Q\] but the charges have an equal and oposite effect on one another.  Therefore, the \[F_{qQ} = F_{Qq}\]
+
 ## Compare Forces
 * Consider the two cases shown below. In both cases a central charge q has two charges of equal magnitude at equal distances above and below it. In Case 1 the signs of the two outer charges is opposite, and in Case 2 they are both positive. You are not told the sign of the charge in the center q.  ![figure](https://dl.dropbox.com/u/11444220/00/Screen%20Shot%202012-06-11%20at%202.14.27%20AM.png)   In which Case is the magnitude of the net force on the center charge bigger?
    * Case 1

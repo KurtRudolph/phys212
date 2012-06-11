@@ -6,9 +6,9 @@
   * \[ {\overrightarrow F_{ Net}} = {\sum\limits_i F_i}\]
 
 * SI Unis
-  * \[Charge \Rightarrow Coulombs } (C)\] 
-  * \[Distance \Rightarrow meters \meter (m)\] 
-  * \[Force \Rightarrow Newtons \newton (N)\] 
+  * \[Charge \Rightarrow \text{Coulombs} (\text{C})\] 
+  * \[Distance \Rightarrow \text{meters} (\text{m})\] 
+  * \[Force \Rightarrow \text{Newtons}  (\text{N})\] 
 
 * Building Blocks of Matter
   * \[ \left| Q_{proton} \right| = \left| Q_{electron} \right| \] 

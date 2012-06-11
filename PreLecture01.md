@@ -8,9 +8,10 @@
   * \[ \left| Q_{proton} \right| = \left| Q_{electron} \right| \] 
   * \[ N_{protons} = N_{electrons} \]
   * The magnitude of the charge of the proton is exactly equal to the magnitude of the charge on the electron. Since there are equal numbers of electrons and protons in an atom, atoms are electrically neutral.
-
-* Conductor
-  * Charge carriers [the electrons] are totally free to move.
-  * Materials such as Metals
-* Insulator
-  * Charges are fixed and cannot move.
+  * Types of material
+     * Conductor
+       * Charge carriers [the electrons] are totally free to move.
+       * Materials such as metals
+     * Insulator
+       * Charges are fixed and cannot move.
+       * Materials such as plastics

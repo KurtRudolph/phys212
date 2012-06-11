@@ -1,4 +1,5 @@
-* Coulomb's Law: \[ {\overrightarrow F_{ 12}} = k \frac{ {{q_1}{q_2}}}{ {r_{ 12}^2}} {\hat r_{ 12}}\]
+* Coulomb's Law
+  * \[ {\overrightarrow F_{ 12}} = k \frac{ {{q_1}{q_2}}}{ {r_{ 12}^2}} {\hat r_{ 12}}\]
   * \[ F_{ 12} \Rightarrow \] froce by \[q_1\] on \[q_2\]
 
 * Superposition Principle:

@@ -4,6 +4,7 @@
 
 * Superposition Principle
   * \[ {\overrightarrow F_{ Net}} = {\sum\limits_i F_i}\]
+  * The total electric force on a charge is just the vector sum of the electric forces on it exerted by all other charges.
 
 * SI Unis
   * \[Charge \Rightarrow \text{Coulombs} (\text{C})\] 

@@ -33,4 +33,7 @@
          * Materials such as plastics
 
 * Questions
-   * The nucleus of a Helium atom has a charge equal to twice the proton's charge. Let \[F_N\] denote the magnitude of the force the Helium nucleus exerts on one of the electrons in a Helium atom, and let Fe denote the magnitude of the force one electron in the Helium atom exerts on the Helium nucleus.
+  * The nucleus of a Helium atom has a charge equal to twice the proton's charge. Let \[F_N\] denote the magnitude of the force the Helium nucleus exerts on one of the electrons in a Helium atom, and let \[F_e\] denote the magnitude of the force one electron in the Helium atom exerts on the Helium nucleus.
+     * \[F_N = F_e \]
+     * Even though the charges are not the same, the magnitude of the forces must be equal. The dominant force between the nucleus and the electron is the Coulomb force and this force is proportional to the product of the charges. Therefore, the magnitudes of \[F_N\] and \[F_e\] must be equal since the order in the multiplication doesn't matter.
+There is a more general reason that these forces must be equal, however: they comprise a Newton's third law interaction pair which means that their magnitudes are the same and their directions are opposite.

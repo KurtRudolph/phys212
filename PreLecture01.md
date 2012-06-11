@@ -10,6 +10,11 @@
   * \[Distance \Rightarrow \text{meters} (\text{m})\] 
   * \[Force \Rightarrow \text{Newtons}  (\text{N})\] 
 
+* Constants
+  * \[ e = -1.6 \times 10^{-19} \text{C}\]
+  * \[ k = \frac{ 1}{ 4 \pi \epsilon_o} = 9 \times 10^9 \frac{ \text{N} \dot \text{m}^2}{ \text{C}^2}\]
+
+
 * Building Blocks of Matter
   * \[ \left| Q_{proton} \right| = \left| Q_{electron} \right| \] 
   * \[ N_{protons} = N_{electrons} \]

@@ -10,8 +10,8 @@
   * The magnitude of the charge of the proton is exactly equal to the magnitude of the charge on the electron. Since there are equal numbers of electrons and protons in an atom, atoms are electrically neutral.
   * Types of material
      * Conductor
-       * Charge carriers [the electrons] are totally free to move.
-       * Materials such as metals
+        * Charge carriers [the electrons] are totally free to move.
+        * Materials such as metals
      * Insulator
-       * Charges are fixed and cannot move.
-       * Materials such as plastics
+        * Charges are fixed and cannot move.
+        * Materials such as plastics

@@ -31,3 +31,6 @@
      * Insulator
          * Charges are fixed and cannot move.
          * Materials such as plastics
+
+* Questions
+   * The nucleus of a Helium atom has a charge equal to twice the proton's charge. Let \[F_N\] denote the magnitude of the force the Helium nucleus exerts on one of the electrons in a Helium atom, and let Fe denote the magnitude of the force one electron in the Helium atom exerts on the Helium nucleus.

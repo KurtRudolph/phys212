@@ -47,4 +47,4 @@ There is a more general reason that these forces must be equal, however: they co
 
   * Two Charges \[ q = + 1 \mu \text{C} \] and \[ Q = +10 \mu \text{C}\] are placed near each other as shown in the figure ![figure](https://dl.dropbox.com/u/11444220/00/Screen%20Shot%202012-06-10%20at%2010.04.03%20PM.png)1) Which of the following diagrams best depicts the forces acting on the charges?
      * C
-        * Charge \[q\] is \[frac{ 1}{ 10}\] the magnitude of charge \[Q\] but the charges have an equal and oposite effect on one another.  Therefore, the \[F_{qQ} = F_{Qq}\]
+         * Charge \[q\] is \[frac{ 1}{ 10}\] the magnitude of charge \[Q\] but the charges have an equal and oposite effect on one another.  Therefore, the \[F_{qQ} = F_{Qq}\]

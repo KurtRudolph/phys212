@@ -9,11 +9,16 @@
   * \[Charge \Rightarrow \text{Coulombs} (\text{C})\] 
   * \[Distance \Rightarrow \text{meters} (\text{m})\] 
   * \[Force \Rightarrow \text{Newtons}  (\text{N})\] 
-
+ 
 * Constants
   * \[ e = -1.6 \times 10^{-19} \text{C}\]
+     * Electric Charge
   * \[ k = \frac{ 1}{ 4 \pi \epsilon_o} = 9 \times 10^9 \frac{ \text{N} \cdot \text{m}^2}{ \text{C}^2}\]
-
+  * \[ G = 6.67 \times 10^{-11} \frac{ \text{N} \cdot \text{m}^2}{ \text{kg}}\]
+  * \[ m_e = 9.1 \times 10^{-31} \text{kg}\]
+     * Electron Mass
+  * \[ m_p = 1.6 \times 10^{-27} \text{kg} \]
+     * Proton Mass
 
 * Building Blocks of Matter
   * \[ \left| Q_{proton} \right| = \left| Q_{electron} \right| \] 

@@ -4,5 +4,13 @@
 * Superposition Principle:
 \[ {\overrightarrow F_{ Net}} = {\sum\limits_i F_i}\]
 
-* \[ \left| Q_{proton} \right| = \left| Q_{electron} \right| \]
+* Building Blocks of Matter
+  * \[ \left| Q_{proton} \right| = \left| Q_{electron} \right| \] 
+  * \[ N_{protons} = N_{electrons} \]
   * The magnitude of the charge of the proton is exactly equal to the magnitude of the charge on the electron. Since there are equal numbers of electrons and protons in an atom, atoms are electrically neutral.
+
+* Conductor
+  * Charge carriers [the electrons] are totally free to move.
+  * Materials such as Metals
+* Insulator
+  * Charges are fixed and cannot move.

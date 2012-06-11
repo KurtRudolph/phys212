@@ -38,3 +38,8 @@
      * \[F_N = F_e \]
      * Even though the charges are not the same, the magnitude of the forces must be equal. The dominant force between the nucleus and the electron is the Coulomb force and this force is proportional to the product of the charges. Therefore, the magnitudes of \[F_N\] and \[F_e\] must be equal since the order in the multiplication doesn't matter.
 There is a more general reason that these forces must be equal, however: they comprise a Newton's third law interaction pair which means that their magnitudes are the same and their directions are opposite.
+  * Three charges are fixed in place as shown below. The +q charge is equidistant from the +2q and -q charges. ![physprob](https://dl.dropbox.com/u/11444220/00/Screen%20Shot%202012-06-10%20at%209.55.16%20PM.png) Which of the vectors shown most closely represents the total force on the +q charge?
+     * b
+     * To find the total force on \[+q\] charge we need to add the force on it from the \[+2q\] charge (\[F_2\]) and the force on it from the \[-q\] charge (\[F_1\]) as shown in the diagram below.[physprob_ans](https://dl.dropbox.com/u/11444220/00/Screen%20Shot%202012-06-10%20at%209.55.27%20PM.png)
+        * Note that \[F_2\] is twice as long as F1 since the distances from \[+q\] to \[+2q\] and to \[-q\] are the same, but the magnitude of \[+2q\] is twice that of \[-q\]. \[F_2\] points to the right since \[+2q\] exerts a repulsive force on \[+q\]. \[F_1\] points down since \[-q\] exerts an attractive force on \[+q\]. The total force (\[F_2\]) on \[+q\] is found by taking the vector sum as shown.
+  

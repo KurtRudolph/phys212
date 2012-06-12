@@ -1,4 +1,4 @@
-# Lecture 01
+# Tue Jun 11 08:16:29 CDT 2012
 
 # Coulomb's Law:w
 * Coulomb's Law

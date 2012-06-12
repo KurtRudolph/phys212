@@ -31,7 +31,7 @@ In the diagrams below, the magnitude and direction of the electric field is repr
 by the length and direction of the blue arrows. Which of the diagrams best represents 
 the electric field from a **negative charge**?
 
-![figure](http://public.kurtrudolph.net/00/Screen%20Shot%202012-06-11%20at%2010.46.19%20PM.png)
+![figure](/images/prelecture_02_q1.png)
 
 * (d)
   * The only difference between the field from the positive charge and the negative 
@@ -56,7 +56,7 @@ electric field at a point \[P\] on the \[y\] axis is as shown by the green arrow
 If the bottom charge is removed, which of the following best describes what happens 
 to the electric field at \[P\]?
 
-![figure](http://public.kurtrudolph.net/00/Screen%20Shot%202012-06-11%20at%2011.19.12%20PM.png)
+![figure](/images/prelecture_02_q2.png)
 
 * The magnitude increases and the direction stays the same.
   * Since both charges have the same magnitude, and since point \[P\] is closer to 

@@ -27,6 +27,16 @@
 
 ## Question 1
 
-In the diagrams below, the magnitude and direction of the electric field is represented by the length and direction of the blue arrows. Which of the diagrams best represents the electric field from a negative charge?
+In the diagrams below, the magnitude and direction of the electric field is represented 
+by the length and direction of the blue arrows. Which of the diagrams best represents 
+the electric field from a **negative charge**?
 
 ![figure](http://public.kurtrudolph.net/00/Screen%20Shot%202012-06-11%20at%2010.46.19%20PM.png)
+
+* (d)
+  * The only difference between the field from the positive charge and the negative 
+charge is that the direction changes. Namely, the field always points away from the 
+positive charge, since the force it would exert on another positive charge would be 
+repulsive, directed away from the initial charge. The field always points towards 
+from the negative charge, since the force it would exert on a positive charge would 
+be attractive, directed towards the initial charge.

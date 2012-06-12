@@ -36,3 +36,34 @@ In which of the two cases is the magnitude of the electric field at the point la
     pulled along the negative \[y\] axis by \[-Q\].  Case 2, the charge is being pushed along
     the postive \[x\] axis by the upper right \[+Q\] charge and pushed along the positive
     \[y\] axis by the bottom right \[+Q\] charge.
+
+## Motion of Test Charge
+
+[[images/checkpoint_02_motion_of_test_charge.png]]
+
+A positive test charge \[q\] is released from rest at distance \[r\] away from \[a\] charge 
+of \[+Q\] and a distance \[2r\] away from a charge of \[+2Q\].
+
+How will the test charge move immediately after being released?
+
+* To the right
+  * \[ \frac{ Q}{ r^2} > \frac{ 2Q}{ 4r^2} = \frac{ Q}{ 2r} \]
+
+## Electric Fields
+
+Two infinite lines of charge 
+
+[[images/checkpoint_02_two_lines_of_charge.png]]
+
+Both lines have identical charge densities \[+ \lambda \frac{ C}{ m}. Point \[A\] is 
+equidistant from both lines and Point \[B\] is located above the top line as shown.
+
+How does \[E_A\], the magnitude of the electric field at point \[A\], compare to \[E_B\], 
+the magnitude of the electric field at point \[B\]?
+
+* \[E_A < \[E_B\]
+  * Since all force along the \[x\] axis is zero in th field produced by
+    infinite line of charge, both lines of chage have an identical charge density,
+    and point \[A\] is equidiestant from both lines the magnitude of the force
+    at point \[A\] is zero.  The magnitude of the force at point \[B\] is greater
+    than zero and therefore \[E_A < \[E_B\].

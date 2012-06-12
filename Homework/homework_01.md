@@ -9,15 +9,16 @@ Another point charge \[q_2 = 6.6 \mu C\] is located along the \[x\]-axis at a di
 
 ### 1)
 
-What is \[F_{12}_x\], the value of the \[x\] component of the force that \[q_1\] exerts on \[q_2\]?
+What is \[F_{12,x}\], the value of the \[x\] component of the force that \[q_1\] exerts on \[q_2\]?
 
 * \[F_{ij} = \kappa \frac{ q_i q_j}{ r^2} \hat r\]
   * \[ \kappa = \frac{ 1}{ 4 \pi \epsilon_0} = 8.99 \times 10^9 \frac{ Nm^2}{ C^2} \]
+  * \[ \mu = 10^{-6}\]
 * Let:
   * \[q_1 = q_i = -3.4 \mu C\]
   * \[q_2 = q_j = 6.7 \mu C \]
   * \[r = 9.5 cm = .095 m\]
 
 
-* \[F_{ij}_x = \kappa \frac{ q_i q_j}{ r^2}\]
-
+* \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2}\]
+  * \[ 8.99 \times 10^9 \frac{ (-3.4)(6.7) \mu^2}{ .095^2}\]

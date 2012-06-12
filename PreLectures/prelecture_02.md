@@ -2,9 +2,9 @@
 
 ## Overview
 * Coulomb's Law
-  * \[ {\overrightarrow F_{ iq}} = k \frac{ {{Q_i}{q}}}{ {r_{ iq}^2}} {\hat r_{ iq}}\]
+  * \[ {\vec F_{ iq}} = k \frac{ {{Q_i}{q}}}{ {r_{ iq}^2}} {\hat r_{ iq}}\]
 * Superpossition
-  * \[ {\overrightarrow F = {\sum\limits_i \overrightarrow F_{iq}} = kq {\sum\limits_i \frac{ Q_i}{ r_{iq}^2} \hat r_{iq}\]
+  * \[ {\vec F = {\sum\limits_i \vec F_{iq}} = kq {\sum\limits_i \frac{ Q_i}{ r_{iq}^2} \hat r_{iq}\]
 * Point Charge
   * \[ E = k \frac{ Q}{ r^2} \]
 * Infinite Line of Charge
@@ -12,13 +12,13 @@
 
 ## Electric Fields
 * Electric Field
-  * \[{\overrightarrow E \equiv \frac{ \overrightarrow F}{ q} \]
-  * \[{\overrightarrow E_1 \equiv \frac{ \overrightarrow F_{12}}{ q_2} = k \frac{ q_1}{ r^2} \hat r\]
-  * \[{\overrightarrow E_Q \equiv \frac{ \overrightarrow F}{ q} = k \frac{Q}{ r^2} \hat r\]
+  * \[{\vec E \equiv \frac{ \vec F}{ q} \]
+  * \[{\vec E_1 \equiv \frac{ \vec F_{12}}{ q_2} = k \frac{ q_1}{ r^2} \hat r\]
+  * \[{\vec E_Q \equiv \frac{ \vec F}{ q} = k \frac{Q}{ r^2} \hat r\]
 
 ## Example: A point Charge
 * Electric Field
-  * \[{\overrightarrow E_Q \equiv \frac{ \overrightarrow F}{ q} = k \frac{Q}{ r^2} \hat r\]
+  * \[{\vec E_Q \equiv \frac{ \vec F}{ q} = k \frac{Q}{ r^2} \hat r\]
 
 * A single point charge creates a perfectly cylindrically symmetrical field.
 
@@ -87,6 +87,6 @@ the \[x\]-axis a distance \[a\] to the left of the origin?
 ## Summary 
 
 * Descrete Distribution
-  * \[ \overrightarrow E \equiv \frac{ \overrightarrow F}{ q} = \frac{ 1}{ q} \sum\limits_i{ \overrightarrow F_{iq}} = k \sum\limits_i{ \frac{ Q_i}{ r_{iq}^2} \hat r_{iq}}\]
+  * \[ \vec E \equiv \frac{ \vec F}{ q} = \frac{ 1}{ q} \sum\limits_i{ \vec F_{iq}} = k \sum\limits_i{ \frac{ Q_i}{ r_{iq}^2} \hat r_{iq}}\]
 * Continuous Distribution
-  * \[ \overrightarrow E \equiv \frac{ \overrightarrow F}{ q} = \frac{ 1}{ q} \int{ d \overrightarrow F} = k \int{ \frac{ d Q}{ r^2} \hat r}\]
+  * \[ \vec E \equiv \frac{ \vec F}{ q} = \frac{ 1}{ q} \int{ d \vec F} = k \int{ \frac{ d Q}{ r^2} \hat r}\]

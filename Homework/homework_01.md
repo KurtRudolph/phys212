@@ -21,4 +21,5 @@ What is \[F_{12,x}\], the value of the \[x\] component of the force that \[q_1\]
 
 
 * \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2}\]
-  * \[ 8.99 \times 10^9 \frac{ (-3.4)(6.7) \mu^2}{ .095^2}\]
+  * \[ 8.99 \times 10^9 \frac{ (-3.4)(6.7) \mu^2}{ .095^2} = -2.5241 \times 10^{-9}\]
+     * I don't know why but this is incorrect.

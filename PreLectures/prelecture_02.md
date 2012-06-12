@@ -66,3 +66,5 @@ to the electric field at \[P\]?
   * Since the contributions to the field at \[P\] from the positive and negative 
     charges partially cancel when both chargs are present, removing the bottom 
     charge will increase the total field.
+
+[[images/prelecture_02_q2a.png]]

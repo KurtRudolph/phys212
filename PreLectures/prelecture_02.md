@@ -10,3 +10,8 @@
   * \[ E = k \frac{ Q}{ r^2} \]
 * Infinite Line of Charge
   * \[ E = 2k \frac{\lambda }{ r} \]
+
+## Electric Fields
+
+* Electric Field
+  * \[{\overrightarrow E_1 \equiv \frac{ \overrightarrow F_{12}}{ q_2} = k \frac{ q_1}{ r^2} \hat r\]

@@ -78,7 +78,7 @@ the \[x\]-axis a distance \[a\] to the left of the origin?
 
 
 * \[ E_x = - \int\limits_0^L { k \frac{ Q}{ L(a+x)^2}}dx \]
-  * \[Q\] times \[frac{ dx}{ L} represents the element of charge dq contained by a small 
+  * \[Q\] times \[frac{ dx}{ L}\] represents the element of charge dq contained by a small 
     segment of the line of length \[dx\], and \[(a+x)^2\] is the square of the 
     distance from the point of interest to the element of charge at location 
     \[x\]. The integral therefore sums up the quantity \[k \frac{dq}{ r^2} for the entire 

@@ -40,3 +40,8 @@ positive charge, since the force it would exert on another positive charge would
 repulsive, directed away from the initial charge. The field always points towards 
 from the negative charge, since the force it would exert on a positive charge would 
 be attractive, directed towards the initial charge.
+
+## The Electric Dipole
+
+* Calculate the electric fields separately at some point \[p\] and then take the
+vector sum.

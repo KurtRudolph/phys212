@@ -42,6 +42,18 @@ from the negative charge, since the force it would exert on a positive charge wo
 be attractive, directed towards the initial charge.
 
 ## The Electric Dipole
-
-* Calculate the electric fields separately at some point \[p\] and then take the
+* Two opposite charges of equal magnitude.
+* Determinign the force at some point \[P\].
+  * Calculate the electric fields separately at point \[P\] and then take the
 vector sum.
+
+## Question 2
+
+An electric dipole (two opposite charges of equal magnitude) is oriented along the 
+\[y\] axis as shown. You are not told which charge is positive, but you know the 
+electric field at a point \[P\] on the \[y\] axis is as shown by the green arrow.
+
+If the bottom charge is removed, which of the following best describes what happens 
+to the electric field at \[P\]?
+
+![figure](http://public.kurtrudolph.net/00/Screen%20Shot%202012-06-11%20at%2011.19.12%20PM.png)

@@ -87,6 +87,6 @@ the \[x\]-axis a distance \[a\] to the left of the origin?
 ## Summary 
 
 * Descrete Distribution
-  * \[ \overrightarrow E \eqiv \frac{ \overrightarrow F}{ q} = \frac{ 1}{ q} \sum\limits_i{ \overrightarrow F_{iq}} = k \sum\limits_i{ \frac{ Q_i}{ r_{iq}^2} \hat r_{iq}}\]
+  * \[ \overrightarrow E \equiv \frac{ \overrightarrow F}{ q} = \frac{ 1}{ q} \sum\limits_i{ \overrightarrow F_{iq}} = k \sum\limits_i{ \frac{ Q_i}{ r_{iq}^2} \hat r_{iq}}\]
 * Continuous Distribution
-  * \[ \overrightarrow E \eqiv \frac{ \overrightarrow F}{ q} = \frac{ 1}{ q} \int{ d \overrightarrow F} = k \int{ \frac{ d Q}{ r^2} \hat r}\]
+  * \[ \overrightarrow E \equiv \frac{ \overrightarrow F}{ q} = \frac{ 1}{ q} \int{ d \overrightarrow F} = k \int{ \frac{ d Q}{ r^2} \hat r}\]

@@ -22,4 +22,5 @@ the unoccupied corner of the square?
 * (A) - Up and to the right.
   * The \[-q\] charge is \[r = sqrt{ 2d^2}\] from \[P\] and
     acts on the point with a force of magnitude
-    \[\sqrt{ E_x_{-q}^2 + E_y_{-q}^2} = k \frac{ q}{ r} \cos{ \frac{ \pi}{ 4}  + \frac{ q}{ r} \sine{ \frac{ \pi}{ 4}\] 
+    \[\sqrt{ E_x_{-q}^2 + E_y_{-q}^2} = k \left(\frac{ q}{ r} 
+    \cos{ \frac{ \pi}{ 4}}  + \frac{ q}{ r} \sin{ \frac{ \pi}{ 4}} \right)\] 

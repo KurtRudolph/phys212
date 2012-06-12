@@ -1,7 +1,6 @@
 # Electric Fields
 
 ## Overview
-
 * Coulomb's Law
   * \[ {\overrightarrow F_{ iq}} = k \frac{ {{Q_i}{q}}}{ {r_{ iq}^2}} {\hat r_{ iq}}\]
 * Superpossition
@@ -12,21 +11,18 @@
   * \[ E = 2k \frac{\lambda }{ r} \]
 
 ## Electric Fields
-
 * Electric Field
   * \[{\overrightarrow E \equiv \frac{ \overrightarrow F}{ q} \]
   * \[{\overrightarrow E_1 \equiv \frac{ \overrightarrow F_{12}}{ q_2} = k \frac{ q_1}{ r^2} \hat r\]
   * \[{\overrightarrow E_Q \equiv \frac{ \overrightarrow F}{ q} = k \frac{Q}{ r^2} \hat r\]
 
 ## Example: A point Charge
-
 * Electric Field
   * \[{\overrightarrow E_Q \equiv \frac{ \overrightarrow F}{ q} = k \frac{Q}{ r^2} \hat r\]
 
 * A single point charge creates a perfectly cylindrically symmetrical field.
 
 ## Question 1
-
 In the diagrams below, the magnitude and direction of the electric field is represented 
 by the length and direction of the blue arrows. Which of the diagrams best represents 
 the electric field from a **negative charge**?
@@ -48,7 +44,6 @@ be attractive, directed towards the initial charge.
 vector sum.
 
 ## Question 2
-
 An electric dipole (two opposite charges of equal magnitude) is oriented along the 
 \[y\] axis as shown. You are not told which charge is positive, but you know the 
 electric field at a point \[P\] on the \[y\] axis is as shown by the green arrow.
@@ -68,3 +63,23 @@ to the electric field at \[P\]?
     charge will increase the total field.
 
 [[images/prelecture_02_q2a.png]]
+
+## Infinite Line of Charge
+
+* \[ E_y = 2k \frac{\lambda }{ r} \]
+
+## Question 3
+A thin rod with length L has a total charge of Q distributed uniformly along 
+it’s length is located on the x-axis with one end at the origin as shown.
+
+Which expression represents the electric field due to this rod at a point on 
+the \[x\]-axis a distance \[a\] to the left of the origin?
+
+
+
+* \[ E_x = - \int\limits_0^L { k \frac{ Q}{ L(a+x)^2}}dx \]
+  * \[Q\] times \[frac{ dx}{ L} represents the element of charge dq contained by a small 
+    segment of the line of length \[dx\], and \[(a+x)^2\] is the square of the 
+    distance from the point of interest to the element of charge at location 
+    \[x\]. The integral therefore sums up the quantity \[k \frac{dq}{ r^2} for the entire 
+    line of charge, which is precisely what we need.

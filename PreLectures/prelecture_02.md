@@ -57,3 +57,12 @@ If the bottom charge is removed, which of the following best describes what happ
 to the electric field at \[P\]?
 
 ![figure](http://public.kurtrudolph.net/00/Screen%20Shot%202012-06-11%20at%2011.19.12%20PM.png)
+
+* The magnitude increases and the direction stays the same.
+  * Since both charges have the same magnitude, and since point \[P\] is closer to 
+    the top charge than to the bottom charge, the direction of \[E\] at point \[P\] tells 
+    us that the top charge is positve and the bottom charge and that their field 
+    add as shown to give the total field at \[P\]:
+  * Since the contributions to the field at \[P\] from the positive and negative 
+    charges partially cancel when both chargs are present, removing the bottom 
+    charge will increase the total field.

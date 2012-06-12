@@ -10,3 +10,5 @@ Another point charge \[q_2 = 6.6 \mu C\] is located along the \[x\]-axis at a di
 ### 1)
 
 What is \[F_{12}_x\], the value of the \[x\] component of the force that \[q_1\] exerts on \[q_2\]?
+
+* \[F_{12}_x = \kappa \frac{ q_1*q_2}{ x_2^2}\]

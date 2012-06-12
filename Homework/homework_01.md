@@ -5,7 +5,7 @@ A point chare \[q_1 = -3.4 \mu C \] is located at the origin of a coordinate sys
 Another point charge \[q_2 = 6.6 \mu C\] is located along the \[x\]-axis at a distance
 \[x_2 = 9.5 cm\] from \[q_1\].
 
-[[images/homework_01_point_charges_in_one_dimension.md]]
+[[images/homework_01_point_charges_in_one_dimension.png]]
 
 ### 1)
 

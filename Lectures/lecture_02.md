@@ -20,7 +20,12 @@ What is the direction of the electric field at point \[P\],
 the unoccupied corner of the square?
 
 * (A) - Up and to the right.
-  * The \[-q\] charge is \[r = sqrt{ 2d^2}\] from \[P\] and
+  * \[-q\]
+     * \[r = \sqrt{ 2d^2}\]
+     * \[\sqrt{ E_x_{-q}^2 + E_y_{-q}^2} = k \left(\frac{ q}{ 2d^2} 
+    \cos{ \frac{ \pi}{ 4}}\right)  + k \left(\frac{ q}{ 2d^2} \sin{ \frac{ \pi}{ 4}} \right)\] 
+  * \[+q\]s
+    * \[
+    
+  * The \[-q\] charge is \[r = \sqrt{ 2d^2}\] from \[P\] and
     acts on the point with a force of magnitude
-    \[\sqrt{ E_x_{-q}^2 + E_y_{-q}^2} = k \left(\frac{ q}{ r} 
-    \cos{ \frac{ \pi}{ 4}}  + \frac{ q}{ r} \sin{ \frac{ \pi}{ 4}} \right)\] 

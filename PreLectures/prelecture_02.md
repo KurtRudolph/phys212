@@ -14,4 +14,6 @@
 ## Electric Fields
 
 * Electric Field
+  * \[{\overrightarrow E \equiv \frac{ \overrightarrow F}{ q} \]
   * \[{\overrightarrow E_1 \equiv \frac{ \overrightarrow F_{12}}{ q_2} = k \frac{ q_1}{ r^2} \hat r\]
+  * \[{\overrightarrow E_Q \equiv \frac{ \overrightarrow F}{ q} = k \frac{Q}{ r^2} \hat r\]

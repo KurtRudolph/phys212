@@ -28,6 +28,19 @@ side \[d = 9.5 cm\] as shown.
 
 What is \[F_{3,y}\], the value of the \[y\]-component of the net force on \[q_3\]?
 
+* \[F_{ij} = \kappa \frac{ q_i q_j}{ r^2} \hat r\]
+  * \[ \kappa = \frac{ 1}{ 4 \pi \epsilon_0} = 8.99 \times 10^9 \frac{ Nm^2}{ C^2} \]
+  * \[ \mu = 10^{-6}\]
+* Let:
+  * \[ i = q_1 = 5.9 \mu C\]
+  * \[ j = q_2 = -4.3 \mu C \]
+  * \[ k = q_3 = 3.6 \mu C \]
+  * \[ d = 0.095 m \]
+  * \[ a = \left( \frac{ d}{ 2} \right) = .0475 m\]
+  * \[ b = \sqrt{d^2 - a^2} = .0822\]
+  * \[ \theta = \arctan{ \left( \frac{ a}{ b} \right)} = 30 \]
+* \[ F_{k,y} = \kappa \frac{ q_i q_k}{ d^2} \sin{ \left( \theta \right)} - \kappa \frac{ q_j q_k}{ d^2} \sin{ \left( \theta \right)} = 4.96896 N\]
+
 ## 3)
 
 [[images/homework_01_point_charges_in_two_dimensions_3.png]]

@@ -62,3 +62,5 @@ What do we know about the signs of the charges from looking at the picture?
 Compare the magnitudes of the electric fields at points \[A\] and \[B\].
 
 * \[ |E_A| < |E_B| \]
+  * The filed at point \[B\] is more dense with electric field lines, indicating
+    a higher magnitude than point \[A\].

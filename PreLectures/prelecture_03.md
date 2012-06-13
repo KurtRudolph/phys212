@@ -69,6 +69,15 @@ Compare the electric flux through each of the spheres.
 
 Three point charges are fixed at the vertices of an equilateral triangle of 
 side \[d\] as shown. Two of the charges are positive (\[+1 \mu C\] and \[+2 \mu C\]) 
-and one is negative (\[-1 \mu C\]). Consider a sphere of radius \[R = \frac{ d}{ 2} 
+and one is negative (\[-1 \mu C\]). Consider a sphere of radius \[R = \frac{ d}{ 2}\]
 centered on the equilateral triangle as shown. What is the sign of the total electric 
 flux through this sphere produced by the fields of the three charges?
+
+* The flux is zero.
+  * The flux through the sphere is zero since the enclosed charge is zero; all charges 
+    are outside of the sphere. All field lines that leave one of the positive charges 
+    and enter the sphere at one point must leave the sphere at another point. The 
+    contribution to the flux is negative at the entry point and positive at the exit 
+    point. The situation is just the reverse for the negative charge. The flux through 
+    the sphere is totally determined by the charges inside the sphere. Here there are 
+    none; consequently, the flux through the sphere is zero.

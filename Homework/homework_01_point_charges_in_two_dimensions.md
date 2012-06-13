@@ -101,4 +101,4 @@ How would you change \[q_1\] (keeping \[q_2\], \[q_3\] and \[q_4\] fixed) in ord
       * \[ i = q_1 = 5.9 \mu C\]
       * \[ j = q_2 = -4.3 \mu C \]
       * \[ k = q_3 = q_4 3.6 \mu C \]
-  * \[F_{ij} > 2F_{kj} \]
+  * \[F_{ij} \greater 2F_{kj} \]

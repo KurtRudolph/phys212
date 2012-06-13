@@ -57,18 +57,14 @@ on \[q_2\] now has a magnitude of \[F_{2,net} = 6.9 N\] and points away from \[q
   * \[r = \sqrt{ x^2 + y^2} = .09932774 m\]
   * \[\theta_{xr} = \theta = \arctan{ \left( \frac{ x}{ y} \right)} = 16.9755^\circ\]
 * \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2} \cos{ \left( \theta \right)} = -19.853 N\]
-* \[F_{ij,y} = \kappa \frac{ q_i q_j}{ r^2} \sin{ \left( \theta \right)} = -6.06 N\]
-* \[F_{ij} = \sqrt{ F_{ij,x}^2 + F_{ij,y}^2} = 20.7574 N\]
+* \[F_{ij} = \kappa \frac{ q_i q_j}{ r^2} = -20.754 N\]
 
 * Let:
   * \[q_3 = q_k = ? C \]
   * \[F_{2,net} = F_{j,net} = 6.9 N \]
-* \[F_{kj} = \left| F_{j,net} + F_{ij} \right| = 27.6574 N \]
-  * We add since \[F_{ij}\] points toward \[q_i\] and \[F_{j,net}\] points away from \[q_i\] and \[q_j\].
-
-* \[F_{kj} = \sqrt{ F_{kj,x}^2 + F_{kj,y}^2} \]
-  * \[F_{kj,x} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \cos{ \left( \theta \right)}\]
-  * \[F_{kj,y} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \sin{ \left( \theta \right)}\]
+* \[F_{kj} = \left| F_{j,net} - F_{ij} \right| = 27.6574 N \]
+  * We subtract since \[F_{ij}\] points toward \[q_i\] and \[F_{j,net}\] points away from \[q_i\] and \[q_j\].
+* \[F_{kj} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} = 1.13255\]
   * Solve for \[q_k\]
 
 ## 4)
@@ -77,9 +73,9 @@ How would you change \[q_1\] (keeping \[q_2\] and \[q_3\] fixed) in order to mak
 * Increase its magnitude and change its sign
 * Decrease its magnitude and change its sign
 * Increase its magnitude and keep its sign the same
+  * It need to conterbalance \[F_{kj}\] which is \[F_{kj}> F_{ij\]
 * Decrease its magnitude and keep its sign the same
 * There is no change you can make to q1 that will result in the fet force on q2 being equal to zero.
-  * I picked this.
 
 ## 4)
 
@@ -88,5 +84,5 @@ How would you change \[q_3\] (keeping \[q_1\] and \[q_2\] fixed) in order to mak
 * Decrease its magnitude and change its sign
 * Increase its magnitude and keep its sign the same
 * Decrease its magnitude and keep its sign the same
+  * It need to balance \[F_{ij}\] which is \[F_{ij}< F_{kj\]
 * There is no change you can make to \[q_3\] that will result in the fet force on \[q_2\] being equal to zero.
-  * I picked this again but I really don't know.

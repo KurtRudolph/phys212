@@ -64,9 +64,10 @@ on \[q_2\] now has a magnitude of \[F_{2,net} = 6.9 N\] and points away from \[q
 * Let:
   * \[q_3 = q_k = ? C \]
   * \[F_{2,net} = F_{j,net} = 6.9 N \]
-*\[F_{kj} = \left| F_{j,net}-F_{ij} \right| = 13.8574N \]
+* \[F_{kj} = \left| F_{j,net} + F_{ij} \right| = 27.6574 N \]
+  * We add since \[F_{ij}\] points toward \[q_i\] and \[F_{j,net}\] points away from \[q_i\] and \[q_j\].
 
-* \[F_{kj,x} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \cos{ \left( \theta \right)} = ? N\]
-* \[F_{kj,y} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \sin{ \left( \theta \right)} = ? N\]
-* \[F_{kj} = \sqrt{ F_{kj,x}^2 + F_{kj,y}^2} = ?\]
-* \[q_k = F_{ij} - F_{j,net} 
+* \[F_{kj} = \sqrt{ F_{kj,x}^2 + F_{kj,y}^2} \]
+  * \[F_{kj,x} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \cos{ \left( \theta \right)}\]
+  * \[F_{kj,y} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \sin{ \left( \theta \right)}\]
+  * Solve for \[q_k\]

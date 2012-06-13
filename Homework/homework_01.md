@@ -37,4 +37,36 @@ the new value for the \[x\]-component of the force that \[q_1\] exerts on \[q_2\
   * \[y_2 = y = 2.9 cm = .029 m\]
   * \[r = \sqrt{ x^2 + y^2} = .09932774 m\]
   * \[\theta_{xr} = \arctan{ \left( \frac{ x}{ y} \right)} = 16.9755^\circ\]
-* \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2} \cos{ \left( \theta \right)}\]
+* \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2} \cos{ \left( \theta_{xr} \right)} = -19.853 N\]
+
+## 3)
+
+[[images/homework_01_point_charges_in_one_dimension_3.png]]
+
+A third point charge \[q_3\] is now positioned halfway between \[q_1\] and \[q_2\]. The net force 
+on \[q_2\] now has a magnitude of \[F_{2,net} = 6.9 N\] and points away from \[q_1\] and \[q_3\]. What is the value 
+(sign and magnitude) of the charge \[q_3\]?
+
+* \[F_{ij} = \kappa \frac{ q_i q_j}{ r^2} \hat r\]
+  * \[ \kappa = \frac{ 1}{ 4 \pi \epsilon_0} = 8.99 \times 10^9 \frac{ Nm^2}{ C^2} \]
+  * \[ \mu = 10^{-6}\]
+* Let:
+  * \[q_1 = q_i = -3.4 \mu C\]
+  * \[q_2 = q_j = 6.7 \mu C \]
+  * \[x_2 = x = 9.5 cm = .095 m\]
+  * \[y_2 = y = 2.9 cm = .029 m\]
+  * \[r = \sqrt{ x^2 + y^2} = .09932774 m\]
+  * \[\theta_{xr} = \theta = \arctan{ \left( \frac{ x}{ y} \right)} = 16.9755^\circ\]
+* \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2} \cos{ \left( \theta \right)} = -19.853 N\]
+* \[F_{ij,y} = \kappa \frac{ q_i q_j}{ r^2} \sin{ \left( \theta \right)} = -6.06 N\]
+* \[F_{ij} = \sqrt{ F_{ij,x}^2 + F_{ij,y}^2} = 20.7574 N\]
+
+* Let:
+  * \[q_3 = q_k = ? C \]
+  * \[F_{2,net} = F_{j,net} = 6.9 N \]
+*\[F_{kj} = \left| F_{j,net}-F_{ij} \right| = 13.8574N \]
+
+* \[F_{kj,x} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \cos{ \left( \theta \right)} = ? N\]
+* \[F_{kj,y} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \sin{ \left( \theta \right)} = ? N\]
+* \[F_{kj} = \sqrt{ F_{kj,x}^2 + F_{kj,y}^2} = ?\]
+* \[q_k = F_{ij} - F_{j,net} 

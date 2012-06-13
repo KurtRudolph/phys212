@@ -86,3 +86,20 @@ flux through this sphere produced by the fields of the three charges?
 * Infinite Line of Charge
   * \[ E = 2\kappa \frac{\lambda }{ r} \]
   * \[ E = \frac{ 1}{ 2 \pi \epsilon_0} \frac{ \lambda}{ r}\]
+
+## Electric Dipole Field Lines
+* 
+
+## Question 3
+
+Consider the electric field lines shown below, produced by two point charges, one positive 
+and one negative. Let \[E_A\], \[E_B\], and \[E_C\] denote the magnitudes of the electric 
+fields at points \[A\], \[B\], and \[C\], respectively. Which of the following statements 
+correctly ranks the strengths of the fields at these points?
+
+[[images/prelecture_03_question_3.png]]
+
+* \[E_C > E_B > E_A \]
+  * In the fieldline picture, the magnitude of the field is represented by the density 
+    (i.e. closeness) of the field lines. In the example shown, the field lines are most 
+    dense at point \[C\] and least dense at point \[A\]. Consequently, \[E_C > E_B > E_A \].

@@ -42,3 +42,10 @@ Compare the electric flux through each of the spheres.
     be understood in terms of our graphical representation in which the flux 
     is a measure of the number of lines leaving the surface. Clearly, the same 
     number of lines leave the surface of any sphere centered on the charge.
+
+## Flux Example
+* Flux through Hemispers
+  * \[ \phi_{2R} = \phi_R = \frac{ 1}{ 2} \frac{ q}{ \epsilon_0}\]
+* Flux through Plane
+  * \[ \phi_{Plane} = 0\]
+

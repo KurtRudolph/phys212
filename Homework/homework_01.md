@@ -31,5 +31,13 @@ What is \[F_{12,x}\], the value of the \[x\] component of the force that \[q_1\]
 Charge \[q_2\] is now displaced a distance \[y_2 = 2.9 cm\] in the positive \[y\]-direction. What is 
 the new value for the \[x\]-component of the force that \[q_1\] exerts on \[q_2\]?
 
-
-
+* \[F_{ij} = \kappa \frac{ q_i q_j}{ r^2} \hat r\]
+  * \[ \kappa = \frac{ 1}{ 4 \pi \epsilon_0} = 8.99 \times 10^9 \frac{ Nm^2}{ C^2} \]
+  * \[ \mu = 10^{-6}\]
+* Let:
+  * \[q_1 = q_i = -3.4 \mu C\]
+  * \[q_2 = q_j = 6.7 \mu C \]
+  * \[x_2 = x = 9.5 cm = .095 m\]
+  * \[y_2 = y = 2.9 cm = .029 m\]
+  * \[r = \sqrt{ x^2 + y^2} = .09932774 m\]
+  * \[\Theta_{xr} = \arctan{ \frac{ x}{ y}} = 16.9755 \degree\]

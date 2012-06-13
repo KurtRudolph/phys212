@@ -33,3 +33,32 @@ is moved from position 1 to position 2?
 
 * Both \[d \phi_A\] and \[d \phi_B\] do not change.
   * The charge is still contained withing the surface in both cases.
+
+## Field Lines from Two Point Charges
+
+[[images/checkpoint_03_field_lines_from_two_point_charges.png]]
+
+The following three questions pertain to the electric field lines due to two c
+harges shown above.
+
+### 1)
+
+Compare the magnitudes of the two charges.
+
+* \[ |Q_1| > |Q_2| \]
+  * Looking at the figure, more lines are protruding from charge \[Q_1\].
+
+### 2)
+
+What do we know about the signs of the charges from looking at the picture?
+
+* \[Q_1\] and \[Q_2\] have opposite signs.
+  * The electric field lines project directly from on charge to the other,
+    indicating oposite signs.
+
+
+### 3)
+
+Compare the magnitudes of the electric fields at points \[A\] and \[B\].
+
+* \[ |E_A| < |E_B| \]

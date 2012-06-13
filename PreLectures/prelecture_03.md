@@ -55,9 +55,20 @@ Compare the electric flux through each of the spheres.
 ## Gauss' Law
 * Gauss' Law
   * \[\oint\limits_{surface}{ \vec E \cdot d \vec A} = \frac{ q_{enclosed}}{ \epsilon_0}\]
+     * The toatal flux is the total charge enclosed over epsilon not.
   * Inside a spherical surface 
      * \[ Flux = \frac{ Q}{ \epsilon_0} \]
      * True for all surfaces
   * Outside a spherical surface
      * \[ Flux = 0\]
      * True for all surfaces
+
+## Question 2
+
+[[images/prelecture_03_question_2.png]]
+
+Three point charges are fixed at the vertices of an equilateral triangle of 
+side \[d\] as shown. Two of the charges are positive (\[+1 \mu C\] and \[+2 \mu C\]) 
+and one is negative (\[-1 \mu C\]). Consider a sphere of radius \[R = \frac{ d}{ 2} 
+centered on the equilateral triangle as shown. What is the sign of the total electric 
+flux through this sphere produced by the fields of the three charges?

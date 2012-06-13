@@ -48,4 +48,10 @@ Compare the electric flux through each of the spheres.
   * \[ \phi_{2R} = \phi_R = \frac{ 1}{ 2} \frac{ q}{ \epsilon_0}\]
 * Flux through Plane
   * \[ \phi_{Plane} = 0\]
+* Surface Area of a Hemisphere
+  * \[ A_{hemisphere} = 2 \pi r^2\]
 
+
+## Gauss' Law
+* Gauss' Law
+  * \[\oint\limits_{surface}{ \vec E \cdot d \vec A} = \frac{ q_{enclosed}}{ \epsilon_0}\]

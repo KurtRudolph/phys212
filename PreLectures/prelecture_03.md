@@ -18,3 +18,8 @@
      * \[ E = \frac{ N}{ 4 \pi r^2}\]
 * Surface Area of a Sphere
   * \[ A = 4 \pi r^2\]
+
+## Electric Flux
+* Electric Flux
+  * \[ \phi = \vec E \cdot \vec A\]
+  * \[ \phi \equiv \int\limits_{surface}{ \vec E \cdot d \vec A}\]

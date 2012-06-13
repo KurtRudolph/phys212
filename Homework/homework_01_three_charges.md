@@ -1,6 +1,6 @@
 # Three Charges
 
-[[images/homework_01_three_cherges.png]]
+[[images/homework_01_three_charges.png]]
 
 Three charges are fixed in place as shown. The squares in the 
 grid have sides of length \[s = 0.24 m\]. The magnitude of \[q\] is 

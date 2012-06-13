@@ -18,11 +18,7 @@ What is \[F_{12,x}\], the value of the \[x\] component of the force that \[q_1\]
   * \[q_1 = q_i = -3.4 \mu C\]
   * \[q_2 = q_j = 6.7 \mu C \]
   * \[r = 9.5 cm = .095 m\]
-
-
-* \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2}\]
-  * \[ \kappa \frac{ (-3.4)(6.7) \mu^2}{ .095^2} = -22.6917 N\]
-     * I don't know why but this is incorrect.
+* \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2} = -22.6917 N\]
 
 ### 2)
 
@@ -41,3 +37,4 @@ the new value for the \[x\]-component of the force that \[q_1\] exerts on \[q_2\
   * \[y_2 = y = 2.9 cm = .029 m\]
   * \[r = \sqrt{ x^2 + y^2} = .09932774 m\]
   * \[\theta_{xr} = \arctan{ \left( \frac{ x}{ y} \right)} = 16.9755^\circ\]
+* \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2} \cos{ \left( \theta \right)}\]

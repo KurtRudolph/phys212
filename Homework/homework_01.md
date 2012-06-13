@@ -5,7 +5,7 @@ A point chare \[q_1 = -3.4 \mu C \] is located at the origin of a coordinate sys
 Another point charge \[q_2 = 6.6 \mu C\] is located along the \[x\]-axis at a distance
 \[x_2 = 9.5 cm\] from \[q_1\].
 
-[[images/homework_01_point_charges_in_one_dimension.png]]
+[[images/homework_01_point_charges_in_one_dimension_1.png]]
 
 ### 1)
 
@@ -21,5 +21,15 @@ What is \[F_{12,x}\], the value of the \[x\] component of the force that \[q_1\]
 
 
 * \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2}\]
-  * \[ 8.99 \times 10^9 \frac{ (-3.4)(6.7) \mu^2}{ .095^2} = -2.5241 \times 10^{-9}\]
+  * \[ \kappa \frac{ (-3.4)(6.7) \mu^2}{ .095^2} = -22.6917 N\]
      * I don't know why but this is incorrect.
+
+### 2)
+
+[[images/homework_01_point_charges_in_one_dimension_2.png]]
+
+Charge \[q_2\] is now displaced a distance \[y_2 = 2.9 cm\] in the positive \[y\]-direction. What is 
+the new value for the \[x\]-component of the force that \[q_1\] exerts on \[q_2\]?
+
+
+

@@ -22,4 +22,4 @@
 ## Electric Flux
 * Electric Flux
   * \[ \phi = \vec E \cdot \vec A\]
-  * \[ \phi \equiv \int\limits_{surface}{ \vec E \cdot d \vec A}\]
+  * \[ \phi \equiv \int\limits_{\text{surface}}{ \vec E \cdot d \vec A}\]

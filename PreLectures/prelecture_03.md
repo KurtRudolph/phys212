@@ -37,7 +37,7 @@ Compare the electric flux through each of the spheres.
 * The flux through the two spheres is the same
   *  We just learned that for a simple spherical configuration the flux is 
     just the product of the electric field \[E\] with the surface area A of the 
-    sphere. Since \[E\] decreases as \[ frac{ 1}{ R^2}\] and the surface area 
+    sphere. Since \[E\] decreases as \[ \frac{ 1}{ R^2}\] and the surface area 
     increases as \[R^2\], their product remains constant. This answer can also 
     be understood in terms of our graphical representation in which the flux 
     is a measure of the number of lines leaving the surface. Clearly, the same 

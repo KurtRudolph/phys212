@@ -40,4 +40,4 @@ the new value for the \[x\]-component of the force that \[q_1\] exerts on \[q_2\
   * \[x_2 = x = 9.5 cm = .095 m\]
   * \[y_2 = y = 2.9 cm = .029 m\]
   * \[r = \sqrt{ x^2 + y^2} = .09932774 m\]
-  * \[\Theta_{xr} = \arctan{ \frac{ x}{ y}} = 16.9755 \degree\]
+  * \[\Theta_{xr} = \arctan{ \left( \frac{ x}{ y} \right)} = 16.9755 \degree\]

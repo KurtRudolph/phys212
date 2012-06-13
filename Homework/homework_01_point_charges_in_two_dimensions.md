@@ -22,8 +22,7 @@ side \[d = 9.5 cm\] as shown.
   * \[ a = \left( \frac{ d}{ 2} \right) = .0475 m\]
   * \[ b = \sqrt{d^2 - a^2} = .0822\]
   * \[ \theta = \arctan{ \left( \frac{ a}{ b} \right)} = 30 \]
-
-* \[ F_{k,x} = \kappa \frac{ q_i q_k}{ d^2} \cos{ \left( \theta \right)} +\kappa \frac{ q_j q_k}{ d^2} \cos{ \left( \theta \right)}
+* \[ F_{k,x} = \kappa \frac{ q_i q_k}{ d^2} \cos{ \left( \theta \right)} +\kappa \frac{ q_j q_k}{ d^2} \cos{ \left( \theta \right)} = 18.2888 N\]
 
 ## 2)
 

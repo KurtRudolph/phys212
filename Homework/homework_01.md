@@ -1,5 +1,4 @@
-
-## Point Charges in One Dimension
+# Point Charges in One Dimension
 
 A point chare \[q_1 = -3.4 \mu C \] is located at the origin of a coordinate system.
 Another point charge \[q_2 = 6.6 \mu C\] is located along the \[x\]-axis at a distance
@@ -7,7 +6,7 @@ Another point charge \[q_2 = 6.6 \mu C\] is located along the \[x\]-axis at a di
 
 [[images/homework_01_point_charges_in_one_dimension_1.png]]
 
-### 1)
+## 1)
 
 What is \[F_{12,x}\], the value of the \[x\] component of the force that \[q_1\] exerts on \[q_2\]?
 
@@ -20,7 +19,7 @@ What is \[F_{12,x}\], the value of the \[x\] component of the force that \[q_1\]
   * \[r = 9.5 cm = .095 m\]
 * \[F_{ij,x} = \kappa \frac{ q_i q_j}{ r^2} = -22.6917 N\]
 
-### 2)
+## 2)
 
 [[images/homework_01_point_charges_in_one_dimension_2.png]]
 
@@ -71,3 +70,23 @@ on \[q_2\] now has a magnitude of \[F_{2,net} = 6.9 N\] and points away from \[q
   * \[F_{kj,x} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \cos{ \left( \theta \right)}\]
   * \[F_{kj,y} = \kappa \frac{ q_k q_j}{ \left( \frac{ r}{ 2} \right)^2} \sin{ \left( \theta \right)}\]
   * Solve for \[q_k\]
+
+## 4)
+
+How would you change \[q_1\] (keeping \[q_2\] and \[q_3\] fixed) in order to make the net force on \[q_2\] equal to zero?
+* Increase its magnitude and change its sign
+* Decrease its magnitude and change its sign
+* Increase its magnitude and keep its sign the same
+* Decrease its magnitude and keep its sign the same
+* There is no change you can make to q1 that will result in the fet force on q2 being equal to zero.
+  * I picked this.
+
+## 4)
+
+How would you change \[q_3\] (keeping \[q_1\] and \[q_2\] fixed) in order to make the net force on \[q_2\] equal to zero?
+* Increase its magnitude and change its sign
+* Decrease its magnitude and change its sign
+* Increase its magnitude and keep its sign the same
+* Decrease its magnitude and keep its sign the same
+* There is no change you can make to \[q_3\] that will result in the fet force on \[q_2\] being equal to zero.
+  * I picked this again but I really don't know.

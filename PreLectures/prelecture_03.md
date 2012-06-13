@@ -55,3 +55,9 @@ Compare the electric flux through each of the spheres.
 ## Gauss' Law
 * Gauss' Law
   * \[\oint\limits_{surface}{ \vec E \cdot d \vec A} = \frac{ q_{enclosed}}{ \epsilon_0}\]
+  * Inside a spherical surface 
+     * \[ Flux = \frac{ Q}{ \epsilon_0} \]
+     * True for all surfaces
+  * Outside a spherical surface
+     * \[ Flux = 0\]
+     * True for all surfaces

@@ -103,3 +103,20 @@ correctly ranks the strengths of the fields at these points?
   * In the fieldline picture, the magnitude of the field is represented by the density 
     (i.e. closeness) of the field lines. In the example shown, the field lines are most 
     dense at point \[C\] and least dense at point \[A\]. Consequently, \[E_C > E_B > E_A \].
+
+## Gauss' Law and Dipoles
+
+# Main Points
+
+* Electric Field
+  * \[ E = \kappa \frac{ q}{ r^2}\]
+       * \[ E = \frac{ 1}{ 4 \pi \epsilon_0} \frac{ q}{ r^2}\]
+* Density of Field Lines
+  * \[ D = \frac{ N}{4 \pi r^2}\]
+     * \[ N \equiv \frac{ q}{ \epsilon_0}\]
+     * \[ E = \frac{ N}{ 4 \pi r^2}\]
+* Surface Area of a Sphere
+  * \[ A = 4 \pi r^2\]
+*Gauss' Law
+  * \[\oint\limits_{surface}{ \vec E \cdot d \vec A} = \frac{ q_{enclosed}}{ \epsilon_0}\]
+     * The toatal flux is the total charge enclosed over epsilon not.

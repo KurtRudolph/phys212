@@ -81,3 +81,8 @@ flux through this sphere produced by the fields of the three charges?
     point. The situation is just the reverse for the negative charge. The flux through 
     the sphere is totally determined by the charges inside the sphere. Here there are 
     none; consequently, the flux through the sphere is zero.
+
+## Infinite Line of Charge Example
+* Infinite Line of Charge
+  * \[ E = 2\kappa \frac{\lambda }{ r} \]
+  * \[ E = \frac{ 1}{ 2 \pi \epsilon_0} \frac{ \lambda}{ r}\]

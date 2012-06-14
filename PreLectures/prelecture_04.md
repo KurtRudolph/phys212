@@ -105,5 +105,43 @@ by a factor of \[ 2^3 = 8\] and the area to increase by a factor of \[ 2^2 = 4\]
       * Outer Charge Density
 
 ## Solid Cylindrical Conductor
-* \[ E = \frac{ \lambda}{ 4 \pi r}
+* \[ E = \frac{ \lambda}{ 2 \pi \epsilon_0 r}
   * \[ \lambda \Rightarrow\] linear charge density
+
+## Infinite Sheet of Charge
+* \[ E = \frac{ \rho}{ 2 \epsilon_0 } \]
+
+## Question 4
+You are told to use Gauss' law to calculate the electric field near an 
+infinite sheet. The catch is that you have to choose a Gaussian surface 
+different from the one used in the previous example. Which of the following 
+Gaussian surfaces is best suited for this purpose?
+
+[[images/prelecture_04_gauss_law_q4.png]]
+
+* a sphere centered on the plane
+* a cylinder with its axis parallel to the plane
+* a box with two sides parallel to the plane
+  * This one!
+  * The sides of the box are either perpendicular or parallel to the field, 
+    so this Gaussian surface is just as good as the perpendicular cylinder 
+    used in the above example.
+
+
+[[images/prelecture_04_gauss_law_q4a.png]]
+
+## Summary
+
+* \[ \oint\limits_{surface}{ \vec E \cdot d \vec A} = \frac{ q_{enclosed}}{ \epsilon_0} \]
+
+* Let
+  * \[ Q_{inner} = -q_0 \]
+* Then
+  * \[ \sigma_i = \frac{ -q_0}{ 4 \pi R_i^2 \]
+      * Induced Inner Charge Density
+
+* Let
+  * \[ Q_{Outer} = Q + q_0 \]
+* Then
+  * \[ \sigma_0 = \frac{ Q + q_0}{ 4 \pi R_0^2}\]
+      * Outer Charge Density

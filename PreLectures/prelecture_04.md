@@ -145,3 +145,4 @@ Gaussian surfaces is best suited for this purpose?
 * Then
   * \[ \sigma_0 = \frac{ Q + q_0}{ 4 \pi R_0^2}\]
       * Outer Charge Density
+

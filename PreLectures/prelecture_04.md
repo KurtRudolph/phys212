@@ -52,5 +52,13 @@ its volume. What fraction of the total charge is located inside a radius \[ \fra
 * \[ \frac{ 1}{ 8} \]
 * Since the charge is uniformly distributed throughout the volume of the sphere, the fraction 
   of the charge that resides inside a given radius is simply equal to the fraction of the spheres 
-  volume inside that radius. Since the volume of a sphere is \[ 4 \pi \frac{ R^3}{ 3}, reducing the 
+  volume inside that radius. Since the volume of a sphere is \[ 4 \pi \frac{ R^3}{ 3} \], reducing the 
   radius by \[\frac{ 1}{ 2}\] will reduce the volume by \[(\frac{ 1}{ 2})^3 = \frac{ 1}{ 8}\].
+
+## Solid Spherical Insulator: Part II
+* Insulator \Rightarrow charges cannot move
+* Let 
+  * \[Q \] be the charge
+  * \[a \] be the radius
+* Charge Density
+  * \[ \ro = \frac{ Q}{ \frac{ 4}{ 3} \pi a^3} \]

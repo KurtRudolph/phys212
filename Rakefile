@@ -7,10 +7,11 @@ task :update do
 end
 
 task :prelecture do
-   entry_name = "Entries/#{Time.now.to_s.gsub(/[-\ :]+/, '.').gsub(/.0500+/,'')}.md"
+   prelecture_number = STDIN.gets.chomp
+   entry_name = "PreLectures/prelecture_#{prelecture_number}.md"
   `touch #{entry_name}`
   `echo "# $(date)" >> #{entry_name}`
-  exec "vim #{entry_name}"
+  system "vim #{entry_name}"
 end
 
 task :quicknote do
@@ -21,4 +22,13 @@ task :quicknote do
   `git add #{entry_name}`
   `git commit -m "updates"`
   `git push`
+end
+
+task :lecture do
+  lecture_number = STDIN.gets.chomp
+  entry_name = "Lectures/lecture_#{lecture_number}.md"
+  puts entry_name
+  `touch #{entry_name}`
+  `echo "# $(date)" >> #{entry_name}`
+  system "vim #{entry_name}"
 end

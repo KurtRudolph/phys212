@@ -13,7 +13,7 @@
 * Casses with Symmetry \[ E\] may be pulled out of Gauss' Law such that
   * \[E \oint\limits_{surface}{ d A} = \frac{ q_{enclosed}}{ \epsilon_0}\]
 
-## Question
+## Question 1
 
 Consider a sphere, an infinitely long cylinder, and a plane of infinite length 
 and width (a, b and c below). Imagine that you can hover above each one in your 
@@ -33,3 +33,24 @@ orientation, relative to you, changing.
     view changing.
 
 [[images/prelecture_04_gauss_law_q1a.png]]
+
+
+## Solid spherical Insulator: Part I
+* Insulator \Rightarrow charges cannot move
+* Let 
+  * \[Q \] be the charge
+  * \[a \] be the radius
+* \[ E = \frac{ Q}{ 4 \pi \epsilon_0 r^2}\]
+
+## Question 2
+
+A solid sphere of radius \[R\] has a total charge \[ Q\] distributed evenly throughout 
+its volume. What fraction of the total charge is located inside a radius \[ \frac{ R}{ 2} \]?
+
+[[images/prelecture_04_gauss_law_q1a.png]]
+
+* \[ \frac{ 1}{ 8} \]
+* Since the charge is uniformly distributed throughout the volume of the sphere, the fraction 
+  of the charge that resides inside a given radius is simply equal to the fraction of the spheres 
+  volume inside that radius. Since the volume of a sphere is \[ 4 \pi \frac{ R^3}{ 3}, reducing the 
+  radius by \[\frac{ 1}{ 2}\] will reduce the volume by \[(\frac{ 1}{ 2})^3 = \frac{ 1}{ 8}\].

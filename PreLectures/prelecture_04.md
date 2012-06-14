@@ -61,4 +61,4 @@ its volume. What fraction of the total charge is located inside a radius \[ \fra
   * \[Q \] be the charge
   * \[a \] be the radius
 * Charge Density
-  * \[ \ro = \frac{ Q}{ \frac{ 4}{ 3} \pi a^3} \]
+  * \[ \rho = \frac{ Q}{ \frac{ 4}{ 3} \pi a^3} \]

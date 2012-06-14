@@ -47,7 +47,7 @@ orientation, relative to you, changing.
 A solid sphere of radius \[R\] has a total charge \[ Q\] distributed evenly throughout 
 its volume. What fraction of the total charge is located inside a radius \[ \frac{ R}{ 2} \]?
 
-[[images/prelecture_04_gauss_law_q1a.png]]
+[[images/prelecture_04_gauss_law_q2.png]]
 
 * \[ \frac{ 1}{ 8} \]
 * Since the charge is uniformly distributed throughout the volume of the sphere, the fraction 
@@ -60,5 +60,18 @@ its volume. What fraction of the total charge is located inside a radius \[ \fra
 * Let 
   * \[Q \] be the charge
   * \[a \] be the radius
+  * \[r \] distance of the test point
 * Charge Density
   * \[ \rho = \frac{ Q}{ \frac{ 4}{ 3} \pi a^3} \]
+* \[r > a\]
+  * \[ E = \frac{ Q}{ 4 \pi \epsilon_0 r^2}\]
+* \[r < a \]
+  * \[ E = \frac{ \rho}{ 3 \epsilon_0} r \]
+
+## Question 3
+
+Consider a sphere of radius \[ R\], surface area \[ A\] and volume \[ V\]. Suppose you double the 
+radius to \[2R\]. How does the new surface area Anew and the new volume Vnew compare to the 
+old values?
+
+[[images/prelecture_04_gauss_law_q3.png]]

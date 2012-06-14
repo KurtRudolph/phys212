@@ -90,8 +90,6 @@ by a factor of \[ 2^3 = 8\] and the area to increase by a factor of \[ 2^2 = 4\]
       * \[ E = 0\]
 
 ## Induced Charges on Conductors
-
-
 [[images/prelecture_04_gauss_law_induced_charges_on_conductors.png]]
 
 * Let
@@ -104,4 +102,8 @@ by a factor of \[ 2^3 = 8\] and the area to increase by a factor of \[ 2^2 = 4\]
   * \[ Q_{Outer} = Q + q_0 \]
 * Then
   * \[ \sigma_0 = \frac{ Q + q_0}{ 4 \pi R_0^2}\]
-    * Outer Charge Density
+      * Outer Charge Density
+
+## Solid Cylindrical Conductor
+* \[ E = \frac{ \lambda}{ 4 \pi r}
+  * \[ \lambda \Rightarrow\] linear charge density

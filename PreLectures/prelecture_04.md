@@ -11,4 +11,4 @@
 ## Gauss' Law and Symmetry
 
 * Casses with Symmetry \[ E\] may be pulled out of Gauss' Law such that
-  * \[E \oint\limits_{surface}{ d A} = \frac{ q_enclosed}{ \epsilon_0}
+  * \[E \oint\limits_{surface}{ d A} = \frac{ q_enclosed}{ \epsilon_0}\]

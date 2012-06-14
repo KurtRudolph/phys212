@@ -71,7 +71,37 @@ its volume. What fraction of the total charge is located inside a radius \[ \fra
 ## Question 3
 
 Consider a sphere of radius \[ R\], surface area \[ A\] and volume \[ V\]. Suppose you double the 
-radius to \[2R\]. How does the new surface area Anew and the new volume Vnew compare to the 
-old values?
+radius to \[2R\]. How does the new surface area \[A_{new}\] and the new volume \[V_{new}\] 
+compare to the old values?
 
 [[images/prelecture_04_gauss_law_q3.png]]
+
+* \[A_{new} = 4A, V_{new} = 8V\]
+  * The area of a sphere is given by \[ A = 4 \pi R^2\] and the volume of a sphere is given by 
+\[ V = \frac{ 4 \pi R^3}{ 3}\]. Doubling \[ R\] in each case will cause the volume to increase 
+by a factor of \[ 2^3 = 8\] and the area to increase by a factor of \[ 2^2 = 4\].
+
+
+## Conductor Charges are on Surface
+* Solid Conductor
+  * Charge is on the surface
+  * Charge free to move
+  * Inside the sphere
+      * \[ E = 0\]
+
+## Induced Charges on Conductors
+
+
+[[images/prelecture_04_gauss_law_induced_charges_on_conductors.png]]
+
+* Let
+  * \[ Q_{inner} = -q_0 \]
+* Then
+  * \[ \sigma_i = \frac{ -q_0}{ 4 \pi R_i^2 \]
+      * Induced Inner Charge Density
+
+* Let
+  * \[ Q_{Outer} = Q + q_0 \]
+* Then
+  * \[ \sigma_0 = \frac{ Q + q_0}{ 4 \pi R_0^2}\]
+    * Outer Charge Density

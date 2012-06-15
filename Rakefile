@@ -3,7 +3,7 @@ task default: [:update]
 task :update do
   `git add .`
   `git commit -m "update"`
-  `git push`
+  `git push phys212.wiki phys212/wiki`
 end
 
 task :prelecture do

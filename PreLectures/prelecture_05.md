@@ -95,4 +95,17 @@ Which configuration has the highest potential energy \[U\]?
 
 ## Example: System of Three Particles
 * \[U_{System} = k \sum\limits_{pairs}{ \frac{ q_i q_j}{ r_{ij}}}\]
-* \[U_{System} = k \frac{ q_1 q_2}{ d} + k \frac{ q_1 q_3}{ d} + k \frac{ q_2 q_3}{ d}\]
+  * Let
+    * \[q_1,q_2,q_3\] be point charges
+    * \[r_{1,2} = d, r_{1,3} = d, r_{2,3} = d\]
+  * Then 
+    * \[U_{System} = \Delta U_1 + \Delta U_2 + \Delta U_3\]
+    * \[U_{System} = \Delta U_1 + \Delta U_2 + \Delta U_3\]
+        * Bring each of the chages in from infinity
+            * \[U_{System} = 0\]
+                  * \[\Delta U_1 = 0\]
+            * \[U_{System} = k \frac{ q_1 q_2}{ d}\]
+                  * \[\Delta U_2 = k \frac{ q_1 q_2}{ d}\]
+            * \[U_{System} = k \frac{ q_1 q_2}{ d}\]
+                  * \[\Delta U_3 = k \frac{ q_1 q_3}{ d} + k \frac{ q_2 q_3}{ d}\]
+            * \[U_{System} = k \frac{ q_1 q_2}{ d} + k \frac{ q_1 q_3}{ d} + k \frac{ q_2 q_3}{ d}\]

@@ -7,7 +7,7 @@
   * A conservative force.
 
 ## Work Done by Coulomb Force
-* \[W_{AB} = \frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left( \frac{ 1}{ r_A} - \frac{ 1}{ r_B}\right)\]
+* \[W_{AB} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left( \frac{ 1}{ r_A} - \frac{ 1}{ r_B}\right)\]
   * \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2} \hat r\]
   * \[W_{A \rightarrow B} = \int\limits_{r_A}^{r_B}{ \vec F_E \cdot d \vec r}\]
     * \[\vec F_E\] and \[d \vec r\] are always in the same direction.
@@ -33,3 +33,26 @@ by the force of gravity on \[M_2\] as it moves from \[R_a\] to \[R_b\]?
     of gravity as \[M_2\] moves is negative.
 
 [[images/prelecture_05_q1a.png]]
+
+
+## Coulomb Force is a Conservative Force
+* \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r}\]
+* \[W_{AB} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left( \frac{ 1}{ r_A} - \frac{ 1}{ r_B}\right)\]
+
+## Electric Potential Energy
+* \[U_r \equiv \delta U_{\infiny r} = \frac{ Q q}{ 4 \pi \varepsilon r}\]
+  * \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r}\]
+  * \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r} \rightarrow U\]
+  * \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r} \rightarrow \delta U = -W\]
+  * \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r} \rightarrow \delta U_{A B} = -\frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_A} + \frac{ 1}{ r_B}\right)\]
+  * \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r} \rightarrow \delta U_{A B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(-\frac{ 1}{ r_A} + \frac{ 1}{ r_B}\right)\]
+  * \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r} \rightarrow \delta U_{A B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_A}\right)\]
+  * Change in Potential Energy: 
+      * \[\delta U_{A B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_A}\right)\] 
+      * \[\delta U_{r_0 B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_0}\right)\] 
+      * \[\delta U_{\infiny B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ \infiny}\right)\] 
+        * Since were dealing with point charges aparently it's natural to let \[r_0\] to be infinity.
+      * \[\delta U_{\infiny B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B}\right)\] 
+      * \[\delta U_{\infiny r} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r}\right)\] 
+      * \[U_r \equiv \delta U_{\infiny r} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r}\right)\] 
+      * \[U_r \equiv \delta U_{\infiny r} = \frac{ Q q}{ 4 \pi \varepsilon r}\]

@@ -109,3 +109,27 @@ Which configuration has the highest potential energy \[U\]?
             * \[U_{System} = k \frac{ q_1 q_2}{ d}\]
                   * \[\Delta U_3 = k \frac{ q_1 q_3}{ d} + k \frac{ q_2 q_3}{ d}\]
             * \[U_{System} = k \frac{ q_1 q_2}{ d} + k \frac{ q_1 q_3}{ d} + k \frac{ q_2 q_3}{ d}\]
+
+## Question 3
+Two positive charges and one negative charge, all having magnitude \[Q\] are arranged 
+at the vertices of an equilateral triangle as shown.
+
+Three students are trying to determine the sign of the potential energy of this 
+collection of charges, and they come up with the three answers shown below.
+
+Which of their arguments is correct?
+
+[[images/prelecture_05_q3.png]]
+
+* The potential energy of the system of charges is negative because it is calculated from the sum of two negative terms and one positive term.
+  * The potential energy of a system of charges is defined to be the negative of the work done by the electric force in assembling the charges from infinity, one by one. It costs nothing to bring the first charge (let's say the bottom positive charge) into its place. Positive work is done by the electric force in bringing the bottom negative charge into its place. Negative work is done bringing the top positive charge into its place due to the field produced by the bottom positive charge. Positive work is done bringing the top positive charge into its place due to the field produced by the bottom negative charge. The magnitudes of each of these works are the same since the charges are all equidistant. Consequently the work done by the electric force in assembling these charges is positive (2 positive terms and one negative term, all having the same magnitude). Therefore the potential energy of the system is negaitve (2 negative terms and one positive term).
+
+
+## Summary: The Main Ideas
+* \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r} 
+  \Rightarrow \Delta U = -\int\limits_{A \rightarrow B}{ q \vec E \cdot d \vec l}\]
+  * Coulomb Force \[\rightarrow\] Conservation Force \[\rightarrow\] Potential Energy
+* Electric Potential Energy
+  * Pair of Charged Particles
+      * \[U(r) = \frac{ Q q}{ 4 \pi \varepsilon_0 r}\]
+  * System of \[N\] Charged Particles

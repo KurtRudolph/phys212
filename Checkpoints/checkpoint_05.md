@@ -2,7 +2,7 @@ CheckPoint: Electric Potential Energy
 
 ## Lecture Thoughts
 
-Why are the variables continually changing? Why does physics need to be such a giant backstory?
+Why are the variables continually changing? Why does physics need to be such a giant back story?
 
 Specifically:
 * PreLecture: Done by Coulomb Force

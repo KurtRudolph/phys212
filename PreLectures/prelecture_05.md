@@ -14,3 +14,4 @@
   * \[W_{A \rightarrow B} = \int\limits_{r_A}^{r_b}{ F_E \cdot d r}\]
   * \[W_{A \rightarrow B} = \int\limits_{r_A}^{r_b}{ \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2} d r}\]
   * \[W_{A \rightarrow B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \int\limits_{r_A}^{r_b}{ \frac{ 1}{ r^2} d r}\]
+  * \[W_{A \rightarrow B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left[ -\frac{ 1}{ r} \right]\limits_{r_A}^{r_B}\]

@@ -92,3 +92,7 @@ Which configuration has the highest potential energy \[U\]?
   * \[\frac{ q_1 q_2}{ 2 \pi \epsilon_0 m_2} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right) = v^2\]
   * \[\sqrt{\frac{ q_1 q_2}{ 2 \pi \epsilon_0 m_2} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right)} = v\]
   * \[v = \sqrt{ \frac{ q_1 q_2}{ 2 \pi \varepsilon_0 m_2} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right)}\]
+
+## Example: System of Three Particles
+* \[U_{System} = k \sum\limits_{pairs}{ \frac{ q_i q_j}{ r_{ij}}}\]
+* \[U_{System} = k \frac{ q_1 q_2}{ d} + k \frac{ q_1 q_3}{ d} + k \frac{ q_2 q_3}{ d}\]

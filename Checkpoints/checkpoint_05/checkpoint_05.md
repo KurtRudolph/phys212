@@ -55,4 +55,4 @@ The laws of physics are able to be defined as a [regular language](1).  The mano
 If the material consistency state logical meaning amongst the various formulas, these long winded explanations about what the formulas are and how they are derived would be unnecessary.  
 The material of this course is trivial, the way it is presented and manor in which the questions are formulated makes learning the content arbitrarily difficult and is a wast of students time.
 
-[1](http://en.wikipedia.org/wiki/Regular_language)
+[http://en.wikipedia.org/wiki/Regular_language](1)

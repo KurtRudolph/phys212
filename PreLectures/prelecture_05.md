@@ -64,3 +64,13 @@ Which configuration has the highest potential energy \[U\]?
 
 [[images/prelecture_05_q2.png]]
 
+* Case B has the highest potential energy
+  * The plot of \[U(r)\] shown below helps illustrate why this answer is correct. As the 
+    separation of the charges is increased we move to the right along the blue plot shown. 
+    Since the plot is going upward as we move to the right, U is increasing with separation.
+
+[[images/prelecture_05_q2a.png]]
+
+
+## Example: Calculated Speed
+* \[v = \sqrt{ \frac{ q_1 q_2}{ 2 \pi \varepsilon_0 m_2} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right)}\]

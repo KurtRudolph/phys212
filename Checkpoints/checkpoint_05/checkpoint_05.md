@@ -8,7 +8,10 @@ its starting position. The final location of \[+q\] is at a distance \[r_2\] fro
 
 [[images/electric_potential_energy_of_point_charge.png]]
 
-* 
+What is the change in the potential energy of charge \[+q\] during this process?
+
+* \[k \frac{ Q q}{ r_2 - r_1}\]
+  * \[\Delta U_{r_1 \rightarrow r_2} = U_{r_2} - U_{r_1} = k \frac{ Q q}{ r_2} - \frac{ Q q}{ r_1} = k Q q \left( \frac{ 1}{ r_2} - \frac{ 1}{ r_1}\right)\]
 
 ## Lecture Thoughts
 

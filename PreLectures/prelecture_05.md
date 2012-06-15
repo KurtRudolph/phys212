@@ -25,11 +25,11 @@ final separation is \[R_b\].
 Which of the following statements best describes the work \[W_{ab}\] done 
 by the force of gravity on \[M_2\] as it moves from \[R_a\] to \[R_b\]?
 
-[[PreLectures/images/prelecture_05_q1.png]]
+[[images/prelecture_05_q1.png]]
 
 * \[W_{ab} < 0\]
   * Since the gravitational force on \[M_2\] and the displacement of 
     \[M_2\] are in the opposite direction, the work done by the force 
     of gravity as \[M_2\] moves is negative.
 
-[[PreLectures/images/prelecture_05_q1a.png]]
+[[images/prelecture_05_q1a.png]]

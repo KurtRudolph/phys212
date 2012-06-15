@@ -51,8 +51,6 @@ Specifically:
   * Why is \[N\] the number of charges? Capital letters generally represent a set and \[N\] often represents the set of natural numbers, this is just confusing!
     * Why not say: Let \[P\] be a system \[n\] charged particles where \[ n,\in N\].  Let \[ i,j \in N, and 0 \le i \le j \le (n - 1)\].  Then \[U_P = k \sum\limits_{i = 0}^{n - 2}{ \sum\limits_{j = i + 1}^{n - 1}{ \frac{ q_i q_j}{ r_{ij}}}}\].  Now students can pull logical meaning out of the formula rather than just accepting it as magic.
 
-The laws of physics are able to be defined as a [regular language](1).  The manor in which formulas are presented often requires unnecessary interpretation of what the variables actually mean.
+The laws of physics are able to be defined as a [regular language](http://en.wikipedia.org/wiki/Regular_language).  The manor in which formulas are presented often requires unnecessary interpretation of what the variables actually mean.
 If the material consistency state logical meaning amongst the various formulas, these long winded explanations about what the formulas are and how they are derived would be unnecessary.  
 The material of this course is trivial, the way it is presented and manor in which the questions are formulated makes learning the content arbitrarily difficult and is a wast of students time.
-
-[http://en.wikipedia.org/wiki/Regular_language](1)

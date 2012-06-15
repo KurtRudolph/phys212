@@ -6,7 +6,7 @@ first placed at a distance \[r_1\] away from \[Q\]. Then it was moved
 along a straight line to a new position at a distance \[R\] away from 
 its starting position. The final location of \[+q\] is at a distance \[r_2\] from \[+Q\].
 
-[[images/electric_potiential_energy_of_point_charge.png]]
+[[images/electric_potential_energy_of_point_charge.png]]
 
 * 
 

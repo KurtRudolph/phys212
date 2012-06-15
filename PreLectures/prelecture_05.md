@@ -73,4 +73,22 @@ Which configuration has the highest potential energy \[U\]?
 
 
 ## Example: Calculated Speed
+* Let
+  * \[q_1, q_2\] be two point charges
+  * \[v\] be th velocity of \[q_2\].
+  * \[d\] be the destance we begin our calculation
+  * \[x\] the distance where the \[v\] is desired to be known
+  
 * \[v = \sqrt{ \frac{ q_1 q_2}{ 2 \pi \varepsilon_0 m_2} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right)}\]
+  * \[E_{Mechanical} = Constant\]
+  * \[E_{Mechanical} = K + U\]
+  * \[K_{initial} + U_{initial} = K_{final} + U_{final}\]
+  * \[U_{initial} = K_{final} + U_{final}\]
+      * \[K_{initial} = 0\]
+  * \[U_{initial} - U_{final} = K_{final}\]
+  * \[U_{initial} - U_{final} = \frac{ 1}{ 2} m_2 v^2\]
+  * \[\frac{ q_1 q_2}{ 4 \pi \epsilon_0} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right) = \frac{ 1}{ 2} m_2 v^2\]
+  * \[\frac{ q_1 q_2}{ 2 \pi \epsilon_0} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right) = m_2 v^2\]
+  * \[\frac{ q_1 q_2}{ 2 \pi \epsilon_0 m_2} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right) = v^2\]
+  * \[\sqrt{\frac{ q_1 q_2}{ 2 \pi \epsilon_0 m_2} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right)} = v\]
+  * \[v = \sqrt{ \frac{ q_1 q_2}{ 2 \pi \varepsilon_0 m_2} \left(\frac{ 1}{ d} - \frac{ 1}{ x}\right)}\]

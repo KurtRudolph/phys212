@@ -56,3 +56,11 @@ by the force of gravity on \[M_2\] as it moves from \[R_a\] to \[R_b\]?
       * \[\Delta U_{\infty r} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r}\right)\] 
       * \[U_r \equiv \Delta U_{\infty r} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r}\right)\] 
       * \[U_r \equiv \Delta U_{\infty r} = \frac{ Q q}{ 4 \pi \varepsilon r}\]
+
+## Question 2
+n Case A two charges which are equal in magnitude but opposite in charge are separated by a distance \[d\]. In Case B the same charges are separated by a distance \[2d\].
+
+Which configuration has the highest potential energy \[U\]?
+
+[[images/prelecture_05_q2.png]]
+

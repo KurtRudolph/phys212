@@ -47,3 +47,4 @@ area on each plane is the same.
  In which case is the magnitude of the electric field at point P bigger?
 
 * They are the same.
+  * I do not know.

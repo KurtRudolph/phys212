@@ -49,4 +49,4 @@ of the field produced by all three charges at point \[P\]?
   * \[E = k \frac{ Q}{ r^2}\]
       * For point charges
 
-* \[ E_x( P) = k \left(\frac{ q_1}{ 2d^2} \cos{ (\theta)} + \frac{ q_3}{ d^2}\right)\]
+* \[ E_x( P) = k \left(\frac{ q_1}{ 2d^2} \cos{ (\theta)} + \frac{ q_3}{ d^2}\right) = 847133\]

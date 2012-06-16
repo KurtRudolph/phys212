@@ -83,14 +83,15 @@ What is \[F_{1,x}\], the \[x\]-component of the new net force on \[q_1\]?
   * \[ \kappa = \frac{ 1}{ 4 \pi \epsilon_0} = 8.99 \times 10^9 \frac{ Nm^2}{ C^2} \]
   * \[ \mu = 10^{-6}\]
 * Let:
-  * \[ i = q_1 = 5.9 \mu C\]
-  * \[ j = q_2 = -4.3 \mu C \]
-  * \[ k = q_3 = q_4 3.6 \mu C \]
-  * \[ d = 0.095 m \]
-  * \[ a = \left( \frac{ d}{ 2} \right) = .0475 m\]
-  * \[ b = \sqrt{d^2 - a^2} = .0822\]
+  * \[ q_1 = 5.9 \mu C\]
+  * \[ q_2 = -4.3 \mu C \]
+  * \[ q_{3,4} = q_3 = q_4 = 3.6 \mu C \]
+  * \[ r = 0.095 m \]
+  * \[ a = \left( \frac{ r}{ 2} \right) = .0475 m\]
+  * \[ b = \sqrt{r^2 - a^2} = .0822\]
   * \[ \theta = \arctan{ \left( \frac{ a}{ b} \right)} = 30 \]
-* \[ F_{i,x} = \kappa \frac{ q_j q_i}{ d^2} - 2\left( \kappa \frac{ q_k q_i}{ d^2} \sin{ \left( \theta \right)} \right) = 46.4292 N\]
+* \[ F_{q_1, x} = \kappa \frac{ q_2 q_1}{ r^2} - 2 \left(\kappa \frac{ q_{3,4} q_1}{ r^2} \sin{ left(\theta \right)}\right) = 12.3619 N\]
+  * Don't forget to include  
 
 ## 6)
 

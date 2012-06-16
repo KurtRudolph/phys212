@@ -16,11 +16,17 @@ Point \[P\] is located at \[(x,y) = (r,r)\].
       * For point charges
 
 ## 1)
-
 What is \[E_x( P)\], the value of the \[x\]-component of the electric field 
 produced by \[q_1\] and \[q_2\] at point \[P\]?
 
 * Let
   * \[r = \[\sqrt{ 2 d^2}\]
   * \[\theta = 45\]
-* \[E_x( P) = k \frac{ q_1}{ r^2} \cos{ (\theta)} = k \frac{ q_1}{ d^2} \cos{ (\theta)} = -1.44395 \times 10^6\]
+* \[E_x( P) = k \frac{ q_1}{ r^2} \cos{ (\theta)} 
+    = k \frac{ q_1}{ d^2} \cos{ (\theta)} = -1.44395 \times 10^6\]
+
+## 2)
+What is \[E_y( P)\], the value of the \[y\]-component of the electric field 
+produced by \[q_1\] and \[q_2\] at point \[P\]?
+
+* \[E_x( P) = k \left(\frac{ q_2}{ d^2} - \frac{ q_1}{ r^2} \sin{ (\theta)}\right)

@@ -61,3 +61,18 @@ Suppose all charges are now doubled (i.e., \[\hat q_1 = 2 q_1 = -8.2 \mu C\], \[
   * \[\frac{ \hat E( P)}{ E( P)} = 2\]
   * \[\frac{ \hat E_x( P)}{ E_x( P)} = 2\]
   * \[\frac{ \hat E_y( P)}{ E_y( P)} = 2\]
+
+
+## 5)
+How would you change \[q_1\] (keeping \[q_2\] and \[q_3\] fixed) in order to make 
+the electric field at point \[P\] equal to zero?
+
+* There is no change you can make to q_1 that will result in the electric field at 
+  point \[P\] being equal to zero.
+  * The contribution tothe electric field at point \[P\] from \[q_1\] will be along 
+    the direction that connects the position of \[q_1\] to point \[P\]. The only way 
+    this contribution can cancel the contributions from \[q_2\] and \[q_3\] would be 
+    if the charges \[q_2\] and \[q_3\] were equal to each other so that the \[x\] 
+    and \[y\] components of the field produced by them would be equal. It is only 
+    in this case that it would be possible to adjust \[q_1\] to create a zero electric 
+    field at point \[P\].

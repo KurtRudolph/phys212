@@ -12,4 +12,4 @@ field is zero.
 [[zero.png]]
 
 *
-  * [0 = k \left(\frac{ q_1}{ \left(\frac{ r}{ 2} - h}\right)^2\right) - \left(\frac{ q_2}{ \left(\frac{ r}{ 2} + h\right)^2\right) \]
+  * \[0 = k \left(\frac{ q_1}{ \left(\frac{ r}{ 2} - h}\right)^2\right) - \left(\frac{ q_2}{ \left(\frac{ r}{ 2} + h\right)^2\right) \]

@@ -71,6 +71,15 @@ infinity without changing the total potential energy of the system?
     = \left( k\left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) 
       - \left(k \left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) = 0\]
 
+## Motion of Point Charge in Electric Field
+
+A point charge is released from rest in a region containing an electric field.
+
+The charge will start to move..?
+
+* in a direction that makes its potential energy decrease.
+  * The charges are continually trying to achieve balance.
+
 ## Lecture Thoughts
 Why are the variables continually changing? Why does physics need to be such a giant back story?
 

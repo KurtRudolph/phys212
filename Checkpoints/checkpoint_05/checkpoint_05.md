@@ -28,12 +28,12 @@ Specifically:
   * Why did you change these, this is just confusing and unnecessary.
 * PreLecture: Electric Potential Energy
   * While explaining where the equation for Electric Potential Energy came from you have the following irregularities:
-    * Jump from \[U_{AB} \Rightarrow r_A, r_B\] to \[U_{r_0 B} \Rightarrow r_0 r_B\]
-      * \[\Delta U_{A B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_A}\right)\] 
-      * \[\Delta U_{r_0 B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_0}\right)\] 
-    * Jump from \[U_{\infty B} \Rightarrow infty r_B\] to \[U_{\infity r} \Rightarrow \infty r\] 
-      * \[\Delta U_{\infty B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B}\right)\] 
-      * \[\Delta U_{\infty r} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r}\right)\] 
+      * Jump from \[U_{AB} \Rightarrow r_A, r_B\] to \[U_{r_0 B} \Rightarrow r_0 r_B\]
+        * \[\Delta U_{A B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_A}\right)\] 
+        * \[\Delta U_{r_0 B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_0}\right)\] 
+      * Jump from \[U_{\infty B} \Rightarrow infty r_B\] to \[U_{\infity r} \Rightarrow \infty r\] 
+        * \[\Delta U_{\infty B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B}\right)\] 
+        * \[\Delta U_{\infty r} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r}\right)\] 
   * This expression are **not** regular!
 * PreLecture: Question 2
   * distance in now in terms of \[d\]
@@ -49,7 +49,7 @@ Specifically:
   * Why do the point charges have labels which are their magnitudes, where is the consistency amongst these examples?
 * PreLecture: Summary
   * Why is \[N\] the number of charges? Capital letters generally represent a set and \[N\] often represents the set of natural numbers, this is just confusing!
-    * Why not say: Let \[P\] be a system \[n\] charged particles where \[ n,\in N\].  Let \[ i,j \in N, and 0 \le i \le j \le (n - 1)\].  Then \[U_P = k \sum\limits_{i = 0}^{n - 2}{ \sum\limits_{j = i + 1}^{n - 1}{ \frac{ q_i q_j}{ r_{ij}}}}\].  Now students can pull logical meaning out of the formula rather than just accepting it as magic.
+      * Why not say: Let \[P\] be a system \[n\] charged particles where \[ n,\in N\].  Let \[ i,j \in N, and 0 \le i \le j \le (n - 1)\].  Then \[U_P = k \sum\limits_{i = 0}^{n - 2}{ \sum\limits_{j = i + 1}^{n - 1}{ \frac{ q_i q_j}{ r_{ij}}}}\].  Now students can pull logical meaning out of the formula rather than just accepting it as magic.
 
 The laws of physics are able to be defined as a [regular language](http://en.wikipedia.org/wiki/Regular_language).  The manor in which formulas are presented often requires unnecessary interpretation of what the variables actually mean.
 If the material consistency state logical meaning amongst the various formulas, these long winded explanations about what the formulas are and how they are derived would be unnecessary.  

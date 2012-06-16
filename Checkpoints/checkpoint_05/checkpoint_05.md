@@ -17,7 +17,7 @@ this process?
       = k \frac{ Q q}{ r_2} - \frac{ Q q}{ r_1} 
       = k Q q \left( \frac{ 1}{ r_2} - \frac{ 1}{ r_1}\right)\]
 
-# Potential Energy of a System of Point Charges
+## Potential Energy of a System of Point Charges
 
 Two charges which are equal in magnitude, but opposite in sign, are 
 placed at equal distances from point \[A\] as shown.
@@ -27,7 +27,7 @@ placed at equal distances from point \[A\] as shown.
 If a third charge is added to the system and placed at point \[A\], 
 how does the electric potential energy of the charge collection change?
 
-* Potential energy increases 
+* Potential energy stays the same
   * Given
       * \[r_{i, j}\] is the distance from between \[q_i,q_j\]
       * \[P\] is a system \[n\] charged particles where \[ n,\in N\], \[ i,j \in N\], and \[0 \le i \le j \le (n - 1)\]
@@ -45,6 +45,10 @@ how does the electric potential energy of the charge collection change?
       * \[\frac{ q_0 q_2}{ r_{0, 2}} = -\left(\frac{ q_1 q_2}{ r_{1, 2}}\right)\]
   * \[\Delta U_{P_{0,1} \rightarrow P_{0,1,3}}
       = \left( k\left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) - \left(k \left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) = 0\]
+
+## Electric Potential Energy of a System of Point Charges, II
+
+Two point charges are separated by some distance as shown. The charge of the first is positive. The charge of the second is negative and its magnitude is twice as large as the first.
       
 
 ## Lecture Thoughts

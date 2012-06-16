@@ -91,7 +91,8 @@ What is \[F_{1,x}\], the \[x\]-component of the new net force on \[q_1\]?
   * \[ b = \sqrt{r^2 - a^2} = .0822\]
   * \[ \theta = \arctan{ \left( \frac{ a}{ b} \right)} = 30 \]
 * \[ F_{q_1, x} = \kappa \frac{ q_2 q_1}{ r^2} - 2 \left(\kappa \frac{ q_{3,4} q_1}{ r^2} \sin{ \left(\theta \right)}\right) = 4.11398 N\]
-  * Don't forget to include \[\mu\] when substituting for \[q_i\]
+  * Remember to include \[\mu\] when substituting for \[q_i\].
+    * Rember to include \[\mu^2\] when substuting for \[q_j q_i\].
 
 ## 6)
 

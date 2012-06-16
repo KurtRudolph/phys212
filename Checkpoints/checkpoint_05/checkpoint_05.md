@@ -37,9 +37,13 @@ how does the electric potential energy of the charge collection change?
       * \[q_0\] be the red charge
       * \[q_1\] be the blue charge
       * \[q_2\] be the blue charge at pont \[A\]
+      * \[q_0 = -q_1\]
+      * \[r_{0, 2} = r_{1, 2}
   * \[\Delta U_{P_{0,1} \rightarrow P_{0,1,3}}
-      = \left( k\left(\frac{ q_{0, 1}^2}{ r_{0, 1}} + \frac{ q{0, 2}}{ r_{0, 2}} + \frac{ q{1, 2}}{ r_{1, 2}}\right)\right) - \left(k \left(\frac{ q_{0,1}^2}{ d}\right)\right)\]
-
+      \\ = \left( k\left(\frac{ q_1 q_2}{ r_{0, 1}} + \frac{ q_0 q_2}{ r_{0, 2}} + \frac{ q_1 q_2}{ r_{1, 2}}\right)\right) - \left(k \left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right)\]
+  * since 
+      * \frac{ q_0 q_2}{ r_{0, 2}} = -\left(\frac{ q_1 q_2}{ r_{1, 2}}\right)
+      
 
 ## Lecture Thoughts
 Why are the variables continually changing? Why does physics need to be such a giant back story?

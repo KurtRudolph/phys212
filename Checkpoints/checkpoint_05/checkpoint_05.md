@@ -4,17 +4,44 @@
 A charge of \[+Q\] is fixed in space. A second charge of \[+q\] was 
 first placed at a distance \[r_1\] away from \[Q\]. Then it was moved 
 along a straight line to a new position at a distance \[R\] away from 
-its starting position. The final location of \[+q\] is at a distance \[r_2\] from \[+Q\].
+its starting position. The final location of \[+q\] is at a distance 
+\[r_2\] from \[+Q\].
 
 [[images/electric_potential_energy_of_point_charge.png]]
 
-What is the change in the potential energy of charge \[+q\] during this process?
+What is the change in the potential energy of charge \[+q\] during 
+this process?
 
 * \[k \frac{ Q q}{ r_2 - r_1}\]
-  * \[\Delta U_{r_1 \rightarrow r_2} = U_{r_2} - U_{r_1} = k \frac{ Q q}{ r_2} - \frac{ Q q}{ r_1} = k Q q \left( \frac{ 1}{ r_2} - \frac{ 1}{ r_1}\right)\]
+  * \[\Delta U_{r_1 \rightarrow r_2} = U_{r_2} - U_{r_1} 
+      = k \frac{ Q q}{ r_2} - \frac{ Q q}{ r_1} 
+      = k Q q \left( \frac{ 1}{ r_2} - \frac{ 1}{ r_1}\right)\]
+
+# Potential Energy of a System of Point Charges
+
+Two charges which are equal in magnitude, but opposite in sign, are 
+placed at equal distances from point \[A\] as shown.
+
+[[images/potential_energy_of_a_system_of_pint_charges.png]]
+
+If a third charge is added to the system and placed at point \[A\], 
+how does the electric potential energy of the charge collection change?
+
+* Potential energy increases 
+  * Given
+      * \[r_{i, j}\] is the distance from between \[q_i,q_j\]
+      * \[P\] is a system \[n\] charged particles where \[ n,\in N\], \[ i,j \in N\], and \[0 \le i \le j \le (n - 1)\]
+      * \[U_P = k \sum\limits_{i = 0}^{n - 2}{ \sum\limits_{j = i + 1}^{n - 1}{ \frac{ q_i q_j}{ r_{ij}}}}\].
+      * \[\Delta U_{P_0 \rightarrow P_f} = U_{P_f} - U_{P_0}
+  * Let
+      * \[q_0\] be the red charge
+      * \[q_1\] be the blue charge
+      * \[q_2\] be the blue charge at pont \[A\]
+  * \[\Delta U_{P_{0,1} \rightarrow P_{0,1,3}
+      = \left( k\left(\frac{ q_{0, 1}^2}{ r_{0, 1}} + \frac{ q{0, 2}}{ r_{0, 2}} + \frac{ q{1, 2}}{ r_{1, 2}}\right)\right) - \left(k \left(\frac{ q_{0,1}^2}{ d}\right)\right)\]
+
 
 ## Lecture Thoughts
-
 Why are the variables continually changing? Why does physics need to be such a giant back story?
 
 Specifically:

@@ -30,8 +30,11 @@ how does the electric potential energy of the charge collection change?
 * Potential energy stays the same
   * Given
       * \[r_{i, j}\] is the distance from between \[q_i,q_j\]
-      * \[P\] is a system \[n\] charged particles where \[ n,\in N\], \[ i,j \in N\], and \[0 \le i \le j \le (n - 1)\]
-      * \[U_P = k \sum\limits_{i = 0}^{n - 2}{ \sum\limits_{j = i + 1}^{n - 1}{ \frac{ q_i q_j}{ r_{ij}}}}\].
+      * \[P\] is a system \[n\] charged particles where \[ n,\in N\], 
+        \[ i,j \in N\], and \[0 \le i \le j \le (n - 1)\]
+      * \[U_P 
+        = k \sum\limits_{i = 0}^{n - 2}
+          { \sum\limits_{j = i + 1}^{n - 1}{ \frac{ q_i q_j}{ r_{ij}}}}\].
       * \[\Delta U_{P_0 \rightarrow P_f} = U_{P_f} - U_{P_0}\]
   * Let
       * \[q_0\] be the red charge
@@ -40,16 +43,33 @@ how does the electric potential energy of the charge collection change?
       * \[q_0 = -q_1\]
       * \[r_{0, 2} = r_{1, 2}\]
   * \[\Delta U_{P_{0,1} \rightarrow P_{0,1,3}}
-      = \left( k\left(\frac{ q_0 q_1}{ r_{0, 1}} + \frac{ q_0 q_2}{ r_{0, 2}} + \frac{ q_1 q_2}{ r_{1, 2}}\right)\right) - \left(k \left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right)\]
+      = \left( k\left(\frac{ q_0 q_1}{ r_{0, 1}} + \frac{ q_0 q_2}{ r_{0, 2}} 
+      + \frac{ q_1 q_2}{ r_{1, 2}}\right)\right) 
+      - \left(k \left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right)\]
   * since 
       * \[\frac{ q_0 q_2}{ r_{0, 2}} = -\left(\frac{ q_1 q_2}{ r_{1, 2}}\right)\]
   * \[\Delta U_{P_{0,1} \rightarrow P_{0,1,3}}
-      = \left( k\left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) - \left(k \left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) = 0\]
+      = \left( k\left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) 
+      - \left(k \left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) = 0\]
 
 ## Electric Potential Energy of a System of Point Charges, II
 
-Two point charges are separated by some distance as shown. The charge of the first is positive. The charge of the second is negative and its magnitude is twice as large as the first.
-      
+Two point charges are separated by some distance as shown. 
+The charge of the first is positive. The charge of the second 
+is negative and its magnitude is twice as large as the first.
+
+
+[[images/potential_energy_of_a_system_of_pint_charges_ii.png]]
+
+Is it possible find a place to bring a third charge in from 
+infinity without changing the total potential energy of the system?
+
+* Yes, 
+  * By by positioning the 3rd charge such that 
+    \[\frac{ q_0 q_2}{ r_{0, 2}} = -\left(\frac{ q_1 q_2}{ r_{1, 2}}\right)\] 
+    we find that \[\Delta U_{P_{0,1} \rightarrow P_{0,1,3}} 
+    = \left( k\left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) 
+      - \left(k \left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right) = 0\]
 
 ## Lecture Thoughts
 Why are the variables continually changing? Why does physics need to be such a giant back story?

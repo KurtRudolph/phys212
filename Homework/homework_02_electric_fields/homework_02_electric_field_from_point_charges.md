@@ -23,4 +23,4 @@ produced by \[q_1\] and \[q_2\] at point \[P\]?
 * Let
   * \[r = \[\sqrt{ 2 d^2}\]
   * \[\theta = 45\]
-* \[E_x( P) = k \frac{ q_1}{ r^2}  = k \frac{ q_1}{ d^2} = \]
+* \[E_x( P) = k \frac{ q_1}{ r^2} \cos{ (\theta)} = k \frac{ q_1}{ d^2} \cos{ (\theta)} = -1.44395 \times 10^6\]

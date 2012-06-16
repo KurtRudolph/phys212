@@ -54,5 +54,10 @@ of the field produced by all three charges at point \[P\]?
 ## 4)
 Suppose all charges are now doubled (i.e., \[\hat q_1 = 2 q_1 = -8.2 \mu C\], \[\hat q_2 = 2 q_2 = 15.4 \mu C\], \[\hat q_3 = 2 q_3 = 4.6 \mu C\]), how will the electric field at \[P\] change?
 
-* \[E_x( P) = \sqrt{ \left(k \left(\frac{ q_1}{ 2d^2} \cos{ (\theta)} + \frac{ q_3}{ d^2}\right)\right)^2 + \left(k \left(\frac{ q_1}{ 2d^2} \sin{ (\theta)} + \frac{ q_2}{ d^2}\right)\right)^2}\]
-* \[\hat E_x( P) = \sqrt{ \left(k \left(\frac{ 2 q_1}{ 2d^2} \cos{ (\theta)} + \frac{ 2 q_3}{ d^2}\right)\right)^2 + \left(k \left(\frac{ 2 q_1}{ 2d^2} \sin{ (\theta)} + \frac{ 2 q_2}{ d^2}\right)\right)^2}\]
+* Its magnitude will double and it s direction will remain the same.
+  * \[E( P) = \sqrt{ \left(k \left(\frac{ q_1}{ 2d^2} \cos{ (\theta)} + \frac{ q_3}{ d^2}\right)\right)^2 + \left(k \left(\frac{ q_1}{ 2d^2} \sin{ (\theta)} + \frac{ q_2}{ d^2}\right)\right)^2}\]
+  \[= \sqrt{ \left(k \left(\frac{ q_1}{ 2d^2} \cos{ (\theta)} + \frac{ q_3}{ d^2}\right)\right)^2 + \left(k \left(\frac{ q_1}{ 2d^2} \sin{ (\theta)} + \frac{ q_2}{ d^2}\right)\right)^2}\]
+  * \[\hat E( P) = \sqrt{ \left(k \left(\frac{ 2 q_1}{ 2d^2} \cos{ (\theta)} + \frac{ 2 q_3}{ d^2}\right)\right)^2 + \left(k \left(\frac{ 2 q_1}{ 2d^2} \sin{ (\theta)} + \frac{ 2 q_2}{ d^2}\right)\right)^2}\]
+  * \[\frac{ \hat E( P)}{ E( P} = 2\]
+  * \[\frac{ \hat E_x( P)}{ E_x( P} = 2\]
+  * \[\frac{ \hat E_y( P)}{ E_y( P} = 2\]

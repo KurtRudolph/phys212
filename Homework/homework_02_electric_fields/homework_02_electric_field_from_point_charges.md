@@ -53,3 +53,5 @@ of the field produced by all three charges at point \[P\]?
 
 ## 4)
 Suppose all charges are now doubled (i.e., \[q_1 = -8.2 \mu C\], \[q_2 = 15.4 \mu C\], \[q_3 = 4.6 \mu C\]), how will the electric field at \[P\] change?
+
+* \[ E_x( P) = \sqrt{ \left(k \left(\frac{ q_1}{ 2d^2} \cos{ (\theta)} + \frac{ q_3}{ d^2}\right)\right)^2 + \left(k \left(\frac{ q_1}{ 2d^2} \sin{ (\theta)} + \frac{ q_2}{ d^2}\right)\right)^2}\]

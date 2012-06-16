@@ -42,7 +42,7 @@ how does the electric potential energy of the charge collection change?
   * \[\Delta U_{P_{0,1} \rightarrow P_{0,1,3}}
       \\ = \left( k\left(\frac{ q_1 q_2}{ r_{0, 1}} + \frac{ q_0 q_2}{ r_{0, 2}} + \frac{ q_1 q_2}{ r_{1, 2}}\right)\right) - \left(k \left(\frac{ q_0 q_1}{ r_{0, 1}}\right)\right)\]
   * since 
-      * \frac{ q_0 q_2}{ r_{0, 2}} = -\left(\frac{ q_1 q_2}{ r_{1, 2}}\right)
+      * \[\frac{ q_0 q_2}{ r_{0, 2}} = -\left(\frac{ q_1 q_2}{ r_{1, 2}}\right)\]
       
 
 ## Lecture Thoughts

@@ -29,4 +29,4 @@ produced by \[q_1\] and \[q_2\] at point \[P\]?
 What is \[E_y( P)\], the value of the \[y\]-component of the electric field 
 produced by \[q_1\] and \[q_2\] at point \[P\]?
 
-* \[E_x( P) = k \left(\frac{ q_2}{ d^2} - \frac{ q_1}{ r^2} \sin{ (\theta)}\right)
+* \[E_x( P) = k \left(\frac{ q_2}{ d^2} - \frac{ q_1}{ r^2} \sin{ (\theta)}\right)\]

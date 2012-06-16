@@ -90,7 +90,7 @@ What is \[F_{1,x}\], the \[x\]-component of the new net force on \[q_1\]?
   * \[ a = \left( \frac{ r}{ 2} \right) = .0475 m\]
   * \[ b = \sqrt{r^2 - a^2} = .0822\]
   * \[ \theta = \arctan{ \left( \frac{ a}{ b} \right)} = 30 \]
-* \[ F_{q_1, x} = \kappa \frac{ q_2 q_1}{ r^2} - 2 \left(\kappa \frac{ q_{3,4} q_1}{ r^2} \sin{ \left(\theta \right)}\right) = 12.3619 N\]
+* \[ F_{q_1, x} = \kappa \frac{ q_2 q_1}{ r^2} - 2 \left(\kappa \frac{ q_{3,4} q_1}{ r^2} \sin{ \left(\theta \right)}\right) = 4.11398 N\]
   * Don't forget to include  
 
 ## 6)

@@ -32,7 +32,7 @@ how does the electric potential energy of the charge collection change?
       * \[r_{i, j}\] is the distance from between \[q_i,q_j\]
       * \[P\] is a system \[n\] charged particles where \[ n,\in N\], \[ i,j \in N\], and \[0 \le i \le j \le (n - 1)\]
       * \[U_P = k \sum\limits_{i = 0}^{n - 2}{ \sum\limits_{j = i + 1}^{n - 1}{ \frac{ q_i q_j}{ r_{ij}}}}\].
-      * \[\Delta U_{P_0 \rightarrow P_f} = U_{P_f} - U_{P_0}
+      * \[\Delta U_{P_0 \rightarrow P_f} = U_{P_f} - U_{P_0}\]
   * Let
       * \[q_0\] be the red charge
       * \[q_1\] be the blue charge

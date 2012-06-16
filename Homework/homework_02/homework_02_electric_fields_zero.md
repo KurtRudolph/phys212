@@ -1,4 +1,4 @@
-## Homewok: Electric Fields Zero
+## Zero
 Two charges are fixed in place on the \[x\]-axis as shown. 
 The charge at \[x = 0\] is negative and has magnitude 
 \[q = 2.0 \mu C\] (\[1 \mu C = 10^{-6} C\]. The charge at 
@@ -7,6 +7,9 @@ The charge at \[x = 0\] is negative and has magnitude
 at which the electric field is zero.
 
 \[x_o =\]
+
+[[zero.png]]
+
 
 *
   * \[\]

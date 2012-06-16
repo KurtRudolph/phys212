@@ -40,3 +40,13 @@ at a distance \[d = 0.095 m\] from \[q_1\] as shown. What is \[E_x( P)\], the \[
 of the field produced by all three charges at point \[P\]?
 
 * \[ E_x( P) = k \left(\frac{ q_1}{ 2d^2} \cos{ (\theta)} + \frac{ q_3}{ d^2}\right)\]
+
+* Let
+  * \[q_1 = -4.1 \mu C\]
+  * \[q_2 = 7.7 \mu C\]
+  * \[q_3 = 2.3 \mu C\]
+  * \[d = 0.095 m\]
+  * \[P = (d, d)\]
+* Given
+  * \[E = k \frac{ Q}{ r^2}\]
+      * For point charges

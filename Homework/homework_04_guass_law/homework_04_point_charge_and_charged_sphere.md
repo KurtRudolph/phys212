@@ -60,7 +60,7 @@ from \[q_1\]?
   * \[r = 1.4 cm = 0.014 m\]
 * \[E_x( P) = k \left(\frac{ q_1}{ r^2} \right) = -3.89872 \times 10^8 \frac{ N}{ C}\]
 
-## 4)
+## 5)
 What is \[\rho_b\], the surface charge density at the outer edge of the shell?
 
 * Given
@@ -76,3 +76,20 @@ What is \[\rho_b\], the surface charge density at the outer edge of the shell?
       * outer radius of the conducting shell
   * \[r = b\]
 * \[\rho_b = \frac{ q_1 + q_2}{ 4 \pi b^2} = -.000303 \frac{ C}{ m^2}\]
+
+## 6)
+What is \[\rho_a\], the surface charge density at the inner edge of the shell?
+
+* Given
+  * \[\rho = \frac{ q_{enclosed}}{ 4 \pi r^2}\]
+* Let
+  * \[q_1 = -8.5 \mu C\]
+      * point charge at the center
+  * \[q_2 = 2.1 \mu C\]
+      * net charge of the conducting shell
+  * \[a = 2.8 cm = 0.028\]
+      * inner radius of the conducting shell
+  * \[b = 4.1 cm = 0.041 m\]
+      * outer radius of the conducting shell
+  * \[r = b\]
+* \[ \rho_a = -\left(\frac{ q_1}{ 4 \pi a^2}\right) = .000402 \frac{ C}{ m^2}\]

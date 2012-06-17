@@ -15,3 +15,11 @@ where \[a = 9.5 cm\]?
 * \[E_x( P) = 2 k \frac{ \lambda}{ r} = -3.78526 \times 10^7\]
   * \[\lambda_1 = -2.0 \mu C/cm = -200 \mu C/m\]
   * \[a = .095 m\]
+
+## 2)
+What is \[E_y( P)\], the value of the \[y\]-component of the electric 
+field produced by by the line of charge at point P which is located at 
+\[(x,y) = (a,0)\], where \[a = 9.5 cm\]?
+
+*  \[E_y( P) = 0\]
+

@@ -29,4 +29,4 @@ an angle of \[30.0^\circ\] with the \[x\]-axis?
 * Given
   * \[E = \frac{ \lambda}{ 2 \pi \varepsilon_0 r}\]
       * Electric Filed, line of charge
-* \[ E_x = \frac{ \frac{ Q_{inner}}{ L}}{ 2 \pi \varepsilon_0 r}\]
+* \[ E_x = \frac{ \frac{ Q_{inner}}{ L}}{ 2 \pi \varepsilon_0 r} 311.485 N/C\]

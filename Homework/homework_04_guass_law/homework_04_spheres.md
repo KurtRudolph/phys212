@@ -8,3 +8,5 @@ The insulator is defined by an inner radius \[a = 4.0 cm\] and an outer radius
 assume that the charge is distributed uniformly throughout the volume of 
 the insulator). What is \[E_y\], the \[y\]-component of the electric field at point 
 \[P\] which is located at \[(x,y) = (0, -5.0 cm)\] as shown in the diagram?
+
+* \[E_y =\]

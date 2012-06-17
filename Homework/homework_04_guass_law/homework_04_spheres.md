@@ -28,4 +28,5 @@ the insulator). What is \[E_y\], the \[y\]-component of the electric field at po
 * Help
   * What is \[q_{enclosed}\], the charge enclosed by the Gausian sphere?
       * \[q_{enclosed} = \frac{ Q}{ 4 \pi 100 \left((b)^2 - (a)^2\right)} = 3.23705E7\]
+          * I have no idea why it is dividing by \[100\]!
 * \[E = \frac{ q_{enclosed}}{ A \varepsilon_0} = -1.28798E7\]

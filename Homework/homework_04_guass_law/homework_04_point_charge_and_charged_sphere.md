@@ -97,3 +97,6 @@ What is \[\rho_a\], the surface charge density at the inner edge of the shell?
 ## 7)
 For how many values of \[ x: (4.1 cm < x < \infty) is it true that \[E_x = 0\]?
 
+* none
+  * The field is treated as if it is a single point charge outside the conducting
+    wall and there after extends to infinity diminishing by a rate of \[r^2\].

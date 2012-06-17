@@ -37,7 +37,7 @@ if the net flux enters the cylnder.
   * \[a = 0.095 m\]
   * \[h = 0.086 m \]
 * Given 
-  * \[\intcirc\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
+  * \[\oint\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
   * \[\varepsilon_0 = 8.85 \times 10^{-12} \frac{ C^2}{N m^2}\]
 * \[\Phi = h \left( \frac{ \lambda_1}{ \varepsilon_0} \right)= -1.9435 \times 10^6\]
 
@@ -75,7 +75,7 @@ flux enters the cylnder.
   * \[h = 0.086 m \]
   * \[\frac{ a}{ 2} = x = 0.0475 m\]
 * Given 
-  * \[\intcirc\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
+  * \[\oint\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
   * \[\varepsilon_0 = 8.85 \times 10^{-12} \frac{ C^2}{N m^2}\]
 * \[\Phi = h \left( \frac{ \lambda_1}{ \varepsilon_0} 
     + \frac{ \lambda_2}{ \varepsilon_0} \right)

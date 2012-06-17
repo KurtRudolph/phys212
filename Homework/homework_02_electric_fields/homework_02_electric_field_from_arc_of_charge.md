@@ -44,3 +44,11 @@ origin along a \[45^\circ\] line as shown in the figure?
     Namely, \[E_{arc} = \frac{ k Q}{ a^2} \frac{ 2 \sqrt{2}}{ \pi}\]. 
     Therefore, the field from the point charge is larger than the 
     field from the arc by a factor of \[ \frac{ \pi}{ 2 \sqrt{2}}\].
+
+# 5)
+
+[[electric_field_from_arc_of_charge_p5.png]]
+
+What is the magnitude of the electric field at the origin produced 
+by a semi-circular arc of charge \[= -4.0 \mu C\], twice the charge 
+of the quarter-circle arc?

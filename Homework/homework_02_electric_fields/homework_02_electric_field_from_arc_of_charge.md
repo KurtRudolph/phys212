@@ -13,4 +13,4 @@ What is \[\lambda\] the linear charge density along the arc?
 * Let
   * \[ r = a = .095 m\]
 
-* \[\lambda = \frac{ k \frac{ Q}{ r^2}}{ \frac{ \frac{ 1}{ 2} \pi r}}\]
+* \[\lambda = \frac{ k \frac{ Q}{ r^2}}{  \frac{ 1}{ 2} \pi r}\]

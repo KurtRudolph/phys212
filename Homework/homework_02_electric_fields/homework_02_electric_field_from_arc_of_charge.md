@@ -7,3 +7,10 @@ uniformly over a quarter circle arc of radius \[a = .095 m\] as shown.
 ## 1)
 
 What is \[\lambda\] the linear charge density along the arc?
+
+* \[2 \pi r\]
+  * Circumfrerence
+* Let
+  * \[ r = a = .095 m\]
+
+* \[\lambda = \frac{ k \frac{ Q}{ r^2}}{ \frac{ \frac{ 1}{ 2} \pi r}}\]

@@ -59,7 +59,7 @@ field at point \[P\]?
 * Given 
   * \[\intcirc\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
   * \[\varepsilon_0 = 8.85 \times 10^{-12} \frac{ C^2}{N m^2}\]
-* \[E_x( P) = 2k \left( \frac{ \lambda_2}{ \frac{ a}{ 2}} \frac{ \lambda_1}{ a} \right) =  \]
+* \[E_x( P) = 2k \left( \frac{ \lambda_2}{ \frac{ a}{ 2}} + \frac{ \lambda_1}{ a} \right) =  \]
 
 
 ## 5)

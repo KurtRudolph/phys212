@@ -14,7 +14,7 @@ where \[a = 9.5 cm\]?
 
 * \[E_x( P) = 2 k \frac{ \lambda}{ r} = -3.78526 \times 10^7\]
   * \[\lambda_1 = -2.0 \mu C/cm = -200 \mu C/m\]
-  * \[a = .095 m\]
+  * \[a = 0.095 m\]
 
 ## 2)
 What is \[E_y( P)\], the value of the \[y\]-component of the electric 
@@ -32,3 +32,9 @@ with its axis along the \[y\]-axis as shown. What is the total flux
 number if the net flux leaves the cylinder and a negative number 
 if the net flux enters the cylnder.
 
+* Let
+  * \[\lambda_1 = -2.0 \mu C/cm = -200 \mu C/m\]
+  * \[a = 0.095 m\]
+  * \[h = 0.086 m \]
+* Given 
+  * \[\circint\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsillon_0}\]

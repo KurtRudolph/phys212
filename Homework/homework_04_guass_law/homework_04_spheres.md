@@ -16,6 +16,5 @@ the insulator). What is \[E_y\], the \[y\]-component of the electric field at po
   * \[(x, y) = (0 m, -5.0 cm) = (0 m, -0.05 m) = \]
 * Given
   * For sphical insulators with a point charge \[Q\] at the center:
-    * \[E = \frac{ Q}{ 4 \pi \varepsilon_0 r^2}\]
   * \[V_{sphere} =  \frac{ 4}{ 3} \pi r^3\]
-* \[E_y = \frac{ \frac{ Q}{ 4 \pi \varepsilon_0 r^2}}{ V_{sphere_b} - V_{sphere_a}}\]
+* \[E_y = \frac{ Q}{ V_{sphere_b} - V_{sphere_a}}\]

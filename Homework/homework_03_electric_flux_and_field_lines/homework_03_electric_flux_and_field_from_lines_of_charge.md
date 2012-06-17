@@ -28,7 +28,7 @@ field produced by by the line of charge at point P which is located at
 
 A cylinder of radius \[a = 0.095 m\] and height \[h = .086 m\] is aligned 
 with its axis along the \[y\]-axis as shown. What is the total flux 
-\[\Theta\] that passes through the cylindrical surface? Enter a positive 
+\[\Phi\] that passes through the cylindrical surface? Enter a positive 
 number if the net flux leaves the cylinder and a negative number 
 if the net flux enters the cylnder.
 

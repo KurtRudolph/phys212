@@ -25,7 +25,7 @@ along the \[x\]-axis from \[q_1\]?
   * \[b = 4.1 cm = 0.041 m\]
       * outer radius of the conducting shell
   * \[r = 7.3 cm = 0.073 m\]
-* \[E_x( P) = k \left(\frac{ q_1 + q_2}{ r^2}\right) = -1.07968 \times 10^7\]
+* \[E_x( P) = k \left(\frac{ q_1 + q_2}{ r^2}\right) = -1.07968 \times 10^7 \frac{ N}{ C}\]
 
 ## 2)
 What is \[E_y( P)\], the value of the \[y\]-component of the electric 
@@ -58,7 +58,7 @@ from \[q_1\]?
   * \[b = 4.1 cm = 0.041 m\]
       * outer radius of the conducting shell
   * \[r = 1.4 cm = 0.014 m\]
-* \[E_x( P) = k \left(\frac{ q_1}{ r^2} \right) = -3.89872 \times 10^8\]
+* \[E_x( P) = k \left(\frac{ q_1}{ r^2} \right) = -3.89872 \times 10^8 \frac{ N}{ C}\]
 
 ## 4)
 What is \[\rho_b\], the surface charge density at the outer edge of the shell?
@@ -75,4 +75,4 @@ What is \[\rho_b\], the surface charge density at the outer edge of the shell?
   * \[b = 4.1 cm = 0.041 m\]
       * outer radius of the conducting shell
   * \[r = b\]
-* \[\rho_b = \frac{ q_1 + q_2}{ 4 \pi b^2}\]
+* \[\rho_b = \frac{ q_1 + q_2}{ 4 \pi b^2} = -.000303 \frac{ C}{ m^2}\]

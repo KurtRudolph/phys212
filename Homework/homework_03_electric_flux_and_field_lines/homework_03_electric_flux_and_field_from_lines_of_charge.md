@@ -37,4 +37,6 @@ if the net flux enters the cylnder.
   * \[a = 0.095 m\]
   * \[h = 0.086 m \]
 * Given 
-  * \[\circint\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsillon_0}\]
+  * \[\circint\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
+  * \[\varepsilon_0 = 8.85 \times 10^{-12} \frac{ C^2}{N m^2}\]
+* \[\Phi = \frac{ h \lambda_1}{ \varepsilon_0} = \]

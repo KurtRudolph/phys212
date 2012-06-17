@@ -100,3 +100,11 @@ For how many values of \[ x: (4.1 cm < x < \infty) is it true that \[E_x = 0\]?
 * none
   * The field is treated as if it is a single point charge outside the conducting
     wall and there after extends to infinity diminishing by a rate of \[r^2\].
+
+
+## 8)
+Define \[E_2\] to be equal to the magnitude of the electic field at \[r = 1.4 cm\] 
+when the charge on the outer shell \[q_2\] is equal to \[2.1 \mu C\]. Define \[E_0\] 
+to be equal to the magnitude of the electric field at \[r = 1.4 cm\] if the charge 
+on the outer shell \[q_2\] were changed to \[0\]. Compare \[E_2\] and \[E_0\].
+

@@ -39,14 +39,24 @@ if the net flux enters the cylnder.
 * Given 
   * \[\intcirc\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
   * \[\varepsilon_0 = 8.85 \times 10^{-12} \frac{ C^2}{N m^2}\]
-* \[\Phi = \frac{ h \lambda_1}{ \varepsilon_0} = -1.9435 \times 10^6\]
+* \[\Phi = h \left( \frac{ \lambda_1}{ \varepsilon_0} \right)= -1.9435 \times 10^6\]
 
 ## 4)
 [[electric_flux_and_field_lines_p4.png]]
 
-Another infinite line of charge with charge density \[\lambda_2 = 600 \mu C/m\]
-parallel to the \[y\]-axis is now added at \[x = 0.0475 m\] as shown.
+Another infinite line of charge with charge density \[\lambda_2 = 6.0 \mu C/cm\]
+parallel to the \[y\]-axis is now added at \[x = 4.75 cm\] as shown.
 
 What is the new value for \[E_x( P)\], the \[x\]-component of the electric 
 field at point \[P\]?
 
+* Let
+  * \[\lambda_1 = -2.0 \mu C/cm = -200 \mu C/m\]
+  * \[\lambda_2 = 6.0 \mu C/cm = 600 \mu C/m\]
+  * \[a = 0.095 m\]
+  * \[h = 0.086 m \]
+  * \[\frac{ a}{ 2} = x = 0.0475 m\]
+* Given 
+  * \[\intcirc\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
+  * \[\varepsilon_0 = 8.85 \times 10^{-12} \frac{ C^2}{N m^2}\]
+* \[\Phi = 2k \left( \frac{ \lambda_2}{ \frac{ a}{ 2}} \frac{ \lambda_1}{ a} \right) =  \]

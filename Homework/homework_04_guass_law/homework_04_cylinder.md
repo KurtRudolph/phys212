@@ -24,5 +24,11 @@ an angle of \[30.0^\circ\] with the \[x\]-axis?
       * total charge of the inner cylinder
   * \[Q_{outer} = -16.0 n C\]
       * total charge of teh outer cylinder
+  * \[r = 4.0 cm = 0.04 m\]
+      * distance from the origin to the point
 * Given
-   
+  * \[E = k \frac{ q}{ r^2}\]
+      *  Electric Field spherical
+  * \[E = \frac{ \lambda}{ 2 \pi \varepsilon_0 r}\]
+
+* \[ E_x = k \frac{ Q_inner}{ r^2}\]

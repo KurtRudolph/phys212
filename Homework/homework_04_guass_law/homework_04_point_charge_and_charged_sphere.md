@@ -12,12 +12,18 @@ What is \[E_x( P)\], the value of the \[x\]-component of
 the electric field at point \[P\], located a distance \[7.3 cm\] 
 along the \[x\]-axis from \[q_1\]?
 
+* Given
+  * \[E = k \frac{ Q}{ r^2}\]
+      * Electric field of a point charge
 * Let
   * \[q_1 = -8.5 \mu C\]
-    * point charge at the center
+      * point charge at the center
   * \[q_2 = 2.1 \mu C\]
-    * net charge of the conducting shell
+      * net charge of the conducting shell
   * \[a = 2.8 cm = 0.028\]
-    * inner radius of the conducting shell
+      * inner radius of the conducting shell
   * \[b = 4.1 cm = 0.041 m\]
-    * outer radius of the conducting shell
+      * outer radius of the conducting shell
+  * \[r = 7.3 cm = 0.073 m\]
+
+* \[E_x( P) = k \left(\frac{ q_1 + q_2}{ r^2}\right)\]

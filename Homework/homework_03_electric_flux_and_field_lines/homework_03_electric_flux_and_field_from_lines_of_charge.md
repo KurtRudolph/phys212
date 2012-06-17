@@ -103,7 +103,7 @@ What is the new value for \[E_x( P)\], the \[x\]-component of the electric field
     = 1.89263 \times 10^8 \]
 
 ## 7)
-What is the total flux Φ that now passes through the cylindrical surface? Enter a 
+What is the total flux \[\Phi\] that now passes through the cylindrical surface? Enter a 
 positive number if the net flux leaves the cylinder and a negative number if the net 
 flux enters the cylnder.
 

@@ -108,3 +108,6 @@ when the charge on the outer shell \[q_2\] is equal to \[2.1 \mu C\]. Define \[E
 to be equal to the magnitude of the electric field at \[r = 1.4 cm\] if the charge 
 on the outer shell \[q_2\] were changed to \[0\]. Compare \[E_2\] and \[E_0\].
 
+* \[E_2 = E_0\]
+  * The fields are equal as the charge on the outer shell does not effect 
+    the field on within the shell.

@@ -33,3 +33,14 @@ the quarter-circle arc you have just calculated comnpare to the
 electric field at the origin produced by a point charge 
 \[Q = -2.0 \mu C\] located a distance \[a = 0.095 m\] from the 
 origin along a \[45^\circ\] line as shown in the figure?
+
+[[electric_field_from_arc_of_charge_p4.png]]
+
+* The magnitude of the field from the point charge is greater than 
+  that from the quarter-arc of charge
+  * The field from the point charge is just given by 
+    \[E_{point} = \frac{ k Q}{a^2}\]. You can find the magnitude 
+    of the field from the arc of charge from you answers to b) and c). 
+    Namely, \[E_{arc} = \frac{ k Q}{ a^2} \frac{ 2 \sqrt{2}}{ \pi}\]. 
+    Therefore, the field from the point charge is larger than the 
+    field from the arc by a factor of \[ \frac{ \pi}{ 2 \sqrt{2}}\].

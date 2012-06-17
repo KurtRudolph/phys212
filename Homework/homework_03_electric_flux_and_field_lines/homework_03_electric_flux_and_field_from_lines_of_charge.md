@@ -57,9 +57,8 @@ field at point \[P\]?
   * \[h = 0.086 m \]
   * \[\frac{ a}{ 2} = x = 0.0475 m\]
 * Given 
-  * \[\oint\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
-  * \[\varepsilon_0 = 8.85 \times 10^{-12} \frac{ C^2}{N m^2}\]
-* \[E_x( P) = 2k \left( \frac{ \lambda_2}{ \frac{ a}{ 2}} + \frac{ \lambda_1}{ a} \right) =  \]
+  * \[E_x( P) = 2 k \frac{ \lambda}{ r}\]
+* \[E_x( P) = 2k \left( \frac{ \lambda_2}{ \frac{ a}{ 2}} + \frac{ \lambda_1}{ a} \right) = 1.89263 \times 10^8 \]
 
 
 ## 5)

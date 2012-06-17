@@ -3,7 +3,7 @@
 ## Overview
 * Gauss' Law
   * Inside a spherical surface 
-     * \[ Flux = \frac{ Q}{ \epsilon_0} \]
+     * \[ Flux = \frac{ Q}{ \varepsilon_0} \]
   * Outside a spherical surface
      * \[ Flux = 0\]
 
@@ -11,10 +11,10 @@
 
 * Electric Field
   * \[ E = \kappa \frac{ q}{ r^2}\]
-       * \[ E = \frac{ 1}{ 4 \pi \epsilon_0} \frac{ q}{ r^2}\]
+       * \[ E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ q}{ r^2}\]
 * Density of Field Lines
   * \[ D = \frac{ N}{4 \pi r^2}\]
-     * \[ N \equiv \frac{ q}{ \epsilon_0}\]
+     * \[ N \equiv \frac{ q}{ \varepsilon_0}\]
      * \[ E = \frac{ N}{ 4 \pi r^2}\]
 * Surface Area of a Sphere
   * \[ A = 4 \pi r^2\]
@@ -45,7 +45,7 @@ Compare the electric flux through each of the spheres.
 
 ## Flux Example
 * Flux through Hemispers
-  * \[ \phi_{2R} = \phi_R = \frac{ 1}{ 2} \frac{ q}{ \epsilon_0}\]
+  * \[ \phi_{2R} = \phi_R = \frac{ 1}{ 2} \frac{ q}{ \varepsilon_0}\]
 * Flux through Plane
   * \[ \phi_{Plane} = 0\]
 * Surface Area of a Hemisphere
@@ -54,10 +54,10 @@ Compare the electric flux through each of the spheres.
 
 ## Gauss' Law
 * Gauss' Law
-  * \[\oint\limits_{surface}{ \vec E \cdot d \vec A} = \frac{ q_{enclosed}}{ \epsilon_0}\]
-     * The toatal flux is the total charge enclosed over epsilon not.
+  * \[\oint\limits_{surface}{ \vec E \cdot d \vec A} = \frac{ q_{enclosed}}{ \varepsilon_0}\]
+     * The toatal flux is the total charge enclosed over varepsilon not.
   * Inside a spherical surface 
-     * \[ Flux = \frac{ Q}{ \epsilon_0} \]
+     * \[ Flux = \frac{ Q}{ \varepsilon_0} \]
      * True for all surfaces
   * Outside a spherical surface
      * \[ Flux = 0\]
@@ -85,7 +85,7 @@ flux through this sphere produced by the fields of the three charges?
 ## Infinite Line of Charge Example
 * Infinite Line of Charge
   * \[ E = 2\kappa \frac{\lambda }{ r} \]
-  * \[ E = \frac{ 1}{ 2 \pi \epsilon_0} \frac{ \lambda}{ r}\]
+  * \[ E = \frac{ 1}{ 2 \pi \varepsilon_0} \frac{ \lambda}{ r}\]
 
 ## Electric Dipole Field Lines
 * 
@@ -110,13 +110,13 @@ correctly ranks the strengths of the fields at these points?
 
 * Electric Field
   * \[ E = \kappa \frac{ q}{ r^2}\]
-       * \[ E = \frac{ 1}{ 4 \pi \epsilon_0} \frac{ q}{ r^2}\]
+       * \[ E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ q}{ r^2}\]
 * Density of Field Lines
   * \[ D = \frac{ N}{4 \pi r^2}\]
-     * \[ N \equiv \frac{ q}{ \epsilon_0}\]
+     * \[ N \equiv \frac{ q}{ \varepsilon_0}\]
      * \[ E = \frac{ N}{ 4 \pi r^2}\]
 * Surface Area of a Sphere
   * \[ A = 4 \pi r^2\]
 *Gauss' Law
-  * \[\oint\limits_{surface}{ \vec E \cdot d \vec A} = \frac{ q_{enclosed}}{ \epsilon_0}\]
+  * \[\oint\limits_{surface}{ \vec E \cdot d \vec A} = \frac{ q_{enclosed}}{ \varepsilon_0}\]
      * The toatal flux is the total charge enclosed over epsilon not.

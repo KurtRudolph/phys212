@@ -18,6 +18,8 @@ the insulator). What is \[E_y\], the \[y\]-component of the electric field at po
   * For sphical insulators with a point charge \[Q\] at the center:
   * \[V_{sphere} =  \frac{ 4}{ 3} \pi r^3\]
   * \[A_{sphere} = 4 \pi r^2\]
+  * Guass' Law of Symmetry
+      * \[ E \oint\limits_{surface}{ dA} = \frac{ q_enclosed}{ \varepsilon_0}\]
 * Wrong answers  
   * \[E = \frac{ Q}{ 4 \pi \varepsilon_0 r^2} = 3.23705E7\]
       * It looks like you are treating this distribution as a point charge of 
@@ -25,5 +27,5 @@ the insulator). What is \[E_y\], the \[y\]-component of the electric field at po
         little more complicated that that.
 * Help
   * What is \[q_{enclosed}\], the charge enclosed by the Gausian sphere?
-      * \[q_{enclosed} = E \
-*\[E = \frac{ Q}{ 4 \pi \varepsilon_0 r^2} = 3.23705E7\]
+      * \[q_{enclosed} = \frac{ Q}{ 4 \pi 100 \left((b)^2 - (a)^2\right)} = 3.23705E7\]
+* \[E = \frac{ q_{enclosed}}{ A \varepsilon_0} = -1.28798E7\]

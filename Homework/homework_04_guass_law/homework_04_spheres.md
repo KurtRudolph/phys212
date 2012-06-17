@@ -17,8 +17,13 @@ the insulator). What is \[E_y\], the \[y\]-component of the electric field at po
 * Given
   * For sphical insulators with a point charge \[Q\] at the center:
   * \[V_{sphere} =  \frac{ 4}{ 3} \pi r^3\]
+  * \[A_{sphere} = 4 \pi r^2\]
 * Wrong answers  
   * \[E = \frac{ Q}{ 4 \pi \varepsilon_0 r^2} = 3.23705E7\]
       * It looks like you are treating this distribution as a point charge of 
         \[Q = 9.0 \mu C\] located at the origin. The charge distribution is a 
         little more complicated that that.
+* Help
+  * What is \[q_{enclosed}\], the charge enclosed by the Gausian sphere?
+      * \[q_{enclosed} = E \
+*\[E = \frac{ Q}{ 4 \pi \varepsilon_0 r^2} = 3.23705E7\]

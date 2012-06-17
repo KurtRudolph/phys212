@@ -27,8 +27,6 @@ an angle of \[30.0^\circ\] with the \[x\]-axis?
   * \[r = 4.0 cm = 0.04 m\]
       * distance from the origin to the point
 * Given
-  * \[E = k \frac{ q}{ r^2}\]
-      *  Electric Field spherical
   * \[E = \frac{ \lambda}{ 2 \pi \varepsilon_0 r}\]
-
-* \[ E_x = k \frac{ Q_inner}{ r^2}\]
+      * Electric Filed, line of charge
+* \[ E_x = \frac{ \frac{ Q_{inner}}{ L}}{ 2 \pi \varepsilon_0 r}\]

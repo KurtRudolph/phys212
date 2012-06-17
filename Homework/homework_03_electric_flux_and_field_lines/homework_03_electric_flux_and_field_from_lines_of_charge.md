@@ -60,3 +60,23 @@ field at point \[P\]?
   * \[\intcirc\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
   * \[\varepsilon_0 = 8.85 \times 10^{-12} \frac{ C^2}{N m^2}\]
 * \[E_x( P) = 2k \left( \frac{ \lambda_2}{ \frac{ a}{ 2}} \frac{ \lambda_1}{ a} \right) =  \]
+
+
+## 5)
+What is the total flux \[\Phi\] that now passes through the cylindrical surface? Enter a 
+positive number if the net flux leaves the cylinder and a negative number if the net 
+flux enters the cylnder.
+
+
+* Let
+  * \[\lambda_1 = -2.0 \mu C/cm = -200 \mu C/m\]
+  * \[\lambda_2 = 6.0 \mu C/cm = 600 \mu C/m\]
+  * \[a = 0.095 m\]
+  * \[h = 0.086 m \]
+  * \[\frac{ a}{ 2} = x = 0.0475 m\]
+* Given 
+  * \[\intcirc\limits_{surface}{ \vec E \cdot d \vec A = \frac{ q_{enclosed}}{ \varepsilon_0}\]
+  * \[\varepsilon_0 = 8.85 \times 10^{-12} \frac{ C^2}{N m^2}\]
+* \[\Phi = h \left( \frac{ \lambda_1}{ \varepsilon_0} 
+    + \frac{ \lambda_2}{ \varepsilon_0} \right)
+    = 3.88701 \times 10^6\]

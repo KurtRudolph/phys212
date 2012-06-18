@@ -63,6 +63,6 @@ from \[A\] to \[D\]. Which one requires more work?
 
 * More work is required to move a negative charge from \[A\] to \[B\] than from \[A\] to \[D\]
 * More work is required to move a negative charge from \[A\] to \[D\] than from \[A\] to \[B\]
+  * The "distance" created by the field is greater from \[A\] to \[D\] vs \[A\] to \[B\]
 * The same amount of work is required to move a negative charge from \[A\] to \[B\] as to move it from \[A\] to \[D\]
 * Cannot determine without performing the calculation
-The "distance" created by the field is greater from \[A\] to \[D\] vs \[A\] to \[B\]

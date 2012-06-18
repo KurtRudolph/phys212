@@ -138,10 +138,11 @@ the electric potential at point \[B\].
       * \[V( r) = k \frac{ Q}{ 2 a^3} (3 a^2 - r^2)\]
 
 ## Question 3
-[[images/prelecture_06_q3.png]]
 Which of the following equipotential diagrams best 
 describes the spherical insulator in the previous example? 
 (The colored circle in the center represents the insulator.)
+
+[[images/prelecture_06_q3.png]]
 
 * A
   * The separation of the equipotentials is smallest at the outer 
@@ -149,3 +150,8 @@ describes the spherical insulator in the previous example?
     The separation of the equipotentials increases where the electric field is 
     weaker; both toward the center of the sphere and far away from the sphere.
 
+## The Big Picture
+* Coulomb Force \[\vec F = k \frac{ Q q}{ r^2} \hat r\]
+  * \[\vec F = q k \frac{ Q}{ r^2} \hat r\]
+  * \[\frac{ \vec F}{ q} = k \frac{ Q}{ r^2} \hat r\]
+  * \[\vec E_Q \equiv \frac{ \vec F}{ q} = k \frac{ Q}{ r^2} \hat r\]

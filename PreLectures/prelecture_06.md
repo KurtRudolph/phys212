@@ -70,4 +70,4 @@
   * Cylindrical \[\vec \nabla V = \frac{ \partial V}{ \partial r} \hat r + \frac{ 1}{ r} \frac{ \patial V}{ \partial \theta} \hat \theta + \frac{ \partial V}{ \partial k} \hat k\]
 
 ## Equipotentials
-* \[V_{Total = \sum\limits_{i}{ V_i}\]
+* \[V_{Total} = \sum\limits_{i}{ V_i}\]

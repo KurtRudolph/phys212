@@ -131,3 +131,5 @@ the electric potential at point \[B\].
   * \[r < a\]
       * \[V( r) = -\int\limits_{\infty}^{r}{ \vec E \cdot d \vec l}\]
       * \[V( r) = -\int\limits_{\infty}^{a}{ \vec E \cdot d \vec l} - \int\limits_{a}^{r}{ \vec E \cdot d \vec l}\]
+      * \[V( r) = -\int\limits_{\infty}^{a}{  E \cdot d r} - \int\limits_{a}^{r}{ E \cdot d r}\]
+          * in both integral regions \[E\] is parallel to \[r\]

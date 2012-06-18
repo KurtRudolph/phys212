@@ -29,7 +29,6 @@
           * Note that the change in potential energy is proportional to the charge \[q\]
       * Therefore \[\Delta V_{A \rightarrow B} \equiv \frac{ \Delta U_{A \rightarrow B}}{ q} = -\int\limits_{A}^{B}{ \vec E \cdot d \vec l}\]
 
-### Example
 [[images/prelecture_06_electric_potential_v_example.png]]
 
 * Electric potential difference
@@ -44,3 +43,5 @@
   * When we let \[r_0 = \infty\]
   * \[V( r) \equiv \Delta V_{r_0 \rightarrow r} = k Q \left(\frac{ 1}{ r} - \frac{ 1}{ r_0}\right)\]
       * It is common to introduce a quantity \[V( r)\] which is defined for each single point in space
+
+* SI Units are \[frac{ J}{ C}\] or joules per coulomb

@@ -113,3 +113,11 @@ the electric potential at point \[B\].
   * The net electric field along this line is therefore perpendicular to this line, 
     hence the dot product of \[\vec E\] and \[d \vec L\] is zero everywhere along this line. 
     According to the above equation, this means that the potential anywhere on the line is the same.
+
+## Example: Charged Spherical Insulator
+[[images/prelecture_06_example_charged_spherical_insulator.png]]
+
+* \[r < a\]
+  * \[E = k \frac{ Q}{ a^3} r\]
+* \[r > a\]
+  * \[E = k \frac{ Q}{ r^2}\]

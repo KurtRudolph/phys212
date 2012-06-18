@@ -7,3 +7,5 @@
   * Hence we are able to define a new quantity Electric Potential
 * Electric Potential
   * \[V \equiv \frac{ U}{ q}\]
+  * Similar to Electric Field
+      * \[\vec E \equiv \frac{ \vec F_{Coulomb}}{ q}\]

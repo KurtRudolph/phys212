@@ -45,7 +45,7 @@ At which point in space is the \[E\]-field the weakest?
 * \[D\]
   * At point \[D\] the field lines are most sparse.
 
-## 2)
+### 2)
 Compare the work done moving a negative charge from 
 \[A\] to \[B\] and from \[C\] to \[D\]. Which one requires more work?
 
@@ -56,3 +56,13 @@ Compare the work done moving a negative charge from
 * The same amount of work is required to move a negative charge 
   from \[A\] to \[B\] as to move it from \[C\] to \[D\]
 * Cannot determine without performing the calculation
+
+### 3)
+Compare the work done moving a negative charge from \[A\] to \[B\] and 
+from \[A\] to \[D\]. Which one requires more work?
+
+* More work is required to move a negative charge from \[A\] to \[B\] than from \[A\] to \[D\]
+* More work is required to move a negative charge from \[A\] to \[D\] than from \[A\] to \[B\]
+* The same amount of work is required to move a negative charge from \[A\] to \[B\] as to move it from \[A\] to \[D\]
+* Cannot determine without performing the calculation
+The "distance" created by the field is greater from \[A\] to \[D\] vs \[A\] to \[B\]

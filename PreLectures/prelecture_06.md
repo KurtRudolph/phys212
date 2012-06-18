@@ -109,3 +109,7 @@ the electric potential at point \[B\].
 
 
 [[images/prelecture_06_q2a.png]]
+
+  * The net electric field along this line is therefore perpendicular to this line, 
+    hence the dot product of \[\vec E\] and \[d \vec L\] is zero everywhere along this line. 
+    According to the above equation, this means that the potential anywhere on the line is the same.

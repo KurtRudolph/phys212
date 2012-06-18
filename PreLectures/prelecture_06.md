@@ -45,3 +45,13 @@
       * It is common to introduce a quantity \[V( r)\] which is defined for each single point in space
 
 * SI Units are \[V = \frac{ J}{ C}\] or volts equals joules per coulomb
+
+
+## E from V
+* We just defined Electric Potential \[V( r) = -\int\limits_{_r_0}^{r}{ \vec E \cdot d \vec r}\]
+* We are able to take the derivative of the electric potential to determine the electic fieled
+  * \[\vec E( r) = -\frac{ dv}{ dr} \hat r\]
+
+### Example
+
+[[images/prelecture_06_e_from_v_example.png]]

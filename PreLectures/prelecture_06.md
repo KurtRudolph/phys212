@@ -161,3 +161,9 @@ describes the spherical insulator in the previous example?
 * Electric Potential
   * \[V_Q \equiv \frac{ U}{ q}\]
       * Scalar
+
+## Summary 
+  * Electric Potential 
+      * \[V( r)\]
+  * Electric Potential Difference 
+      * \[\Delta V_{A \rightarrow B} \equiv \frac{ \Delta U_{A \rightarrow B}}{ q}\]

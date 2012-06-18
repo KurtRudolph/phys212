@@ -20,7 +20,8 @@ What is \[\lambda\] the linear charge density along the arc?
 What is \[E_x\], the value of the \[x\]-component of the electric 
 field at the origin \[(x, y) = (0,0)\] ?
 
-\[E_x = k Q \int\limits_{ 0}^{ \frac{ \pi}{ 2}}{ \frac{ 1}{ r} \cos{ (\theta)} d \theta}\]
+
+need to use \[\vec E = \int{ \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ \hat r}{ r^2} dq}\] and convert it to polar coodinates \[\lambda r f \theta\]
 
 
 # 3)

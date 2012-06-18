@@ -170,5 +170,5 @@ describes the spherical insulator in the previous example?
   * Electric Potential Difference 
       * \[\Delta V_{A \rightarrow B} \equiv \frac{ \Delta U_{A \rightarrow B}}{ q}\]
       * \[\Delta V_{A \rightarrow B} = - \int\limits_{A}^{B}{ \vec E \cdot d \vec l}\]
-  
-    
+  * Electric Field can be obtained by applying the gradiend function
+      * \[\vec E = - \vec \nabla V\]

@@ -95,7 +95,7 @@ What is \[\sigma_a\], the surface charge density at the inner edge of the shell?
 * \[ \sigma_a = -\left(\frac{ q_1}{ 4 \pi a^2}\right) = .000402 \frac{ C}{ m^2}\]
 
 ## 7)
-For how many values of \[ x: (4.1 cm < x < \infty) is it true that \[E_x = 0\]?
+For how many values of \[ x: (4.1 cm < x < \infty)\] is it true that \[E_x = 0\]?
 
 * none
   * The field is treated as if it is a single point charge outside the conducting

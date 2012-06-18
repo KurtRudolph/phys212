@@ -38,3 +38,11 @@ from the line of charge?
 What is \[E_y( P)\], the value of the \[x\]-component of the electric 
 field at point \[P\], located a distance \[8.2 cm\] along the \[y\]-axis 
 from the line of charge?
+
+## 4)
+What is \[E_x( R)\], the value of the \[x\]-component of the electric field 
+at point \[R\], located a distance \[1.25 cm\] along a line that makes an 
+angle of \[30^\circ\] with the \[x\]-axis?
+
+\[E_y( P) = 2 k \frac{ \lambda_1}{ r} = 8.59527E6\]
+

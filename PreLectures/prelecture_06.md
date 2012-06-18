@@ -166,6 +166,7 @@ describes the spherical insulator in the previous example?
   * Electric Potential 
       * \[V( r)\]
       * \[V( \vec r) \equiv \Delta V_{\hat r_0 \rightarrow \vec r} = -\int\limits_{\hat r_0}^{\hat r}{ \vec E \cdot d \vec l}\]
+            * where \[V( \vec r_0) \equiv 0\]
   * Electric Potential Difference 
       * \[\Delta V_{A \rightarrow B} \equiv \frac{ \Delta U_{A \rightarrow B}}{ q}\]
       * \[\Delta V_{A \rightarrow B} = - \int\limits_{A}^{B}{ \vec E \cdot d \vec l}\]

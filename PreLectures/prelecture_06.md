@@ -82,3 +82,10 @@ shown below. The difference in potential between adjacent lines is the same
 Compare the magnitudes of the two charges.
 
 * The magnitude of the positive charge is greater than the magnitude of the negative charge.
+
+## Example: Discrete Charges
+[[images/prelecture_06_example_discrete_charges.png]]
+
+* \[V_P = \sum\limits_{i}{ V_i}\]
+* \[V_P = V_1 + V_2 + V_3\]
+* \[V_P = k \frac{ Q_1}{ r_1} + k \frac{ Q_2}{ r_2} + k \frac{ Q_3}{ r_3}\]

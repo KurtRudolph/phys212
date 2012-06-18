@@ -23,6 +23,9 @@ What is \[\lambda_2\], the linear charge density of the insulating shell?
   * \[\rho   = -665.0 \mu \frac{ C}{ m^3}\]
     * insulating shell
 
+
+  * \[\rho = \frac{ Q}{ 4 \pi (b^2 - a^2)}\]
+
 ## 2)
 What is \[E_x( P)\], the value of the \[x\]-component of the electric 
 field at point \[P\], located a distance \[8.2 cm\] along the \[y\]-axis 

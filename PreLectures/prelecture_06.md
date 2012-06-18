@@ -44,4 +44,4 @@
   * \[V( r) \equiv \Delta V_{r_0 \rightarrow r} = k Q \left(\frac{ 1}{ r} - \frac{ 1}{ r_0}\right)\]
       * It is common to introduce a quantity \[V( r)\] which is defined for each single point in space
 
-* SI Units are \[frac{ J}{ C}\] or joules per coulomb
+* SI Units are \[V = frac{ J}{ C}\] or volts equals joules per coulomb

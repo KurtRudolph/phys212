@@ -71,3 +71,12 @@
 
 ## Equipotentials
 * \[V_{Total} = \sum\limits_{i}{ V_i}\]
+
+### Question 1
+[[images/prelecture_06_q1.png]]
+
+A system made up of a positive charge and a negative charge has the equipotentials 
+shown below. The difference in potential between adjacent lines is the same 
+(just like the lines of constant altitude on a topographical map.)
+
+Compare the magnitudes of the two charges.

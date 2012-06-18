@@ -136,3 +136,9 @@ the electric potential at point \[B\].
       * \[V( r) = -\int\limits_{\infty}^{a}{ k \frac{ Q}{ r^2} dr } - \int\limits_{a}^{r}{ k \frac{ Q}{ a^3} r d r}\]
       * \[V( r) = k \frac{ Q}{ a} + k \frac{ Q}{ 2 a^3} (a^2 - r^2)\]
       * \[V( r) = k \frac{ Q}{ 2 a^3} (3 a^2 - r^2)\]
+
+## Question 3
+[[images/prelecture_06_q3.png]]
+Which of the following equipotential diagrams best 
+describes the spherical insulator in the previous example? 
+(The colored circle in the center represents the insulator.)

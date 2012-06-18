@@ -46,3 +46,4 @@ angle of \[30^\circ\] with the \[x\]-axis?
 
 \[E_y( P) = 2 k \frac{ \lambda_1}{ r} = 8.59527E6\]
 
+

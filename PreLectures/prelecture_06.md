@@ -135,3 +135,4 @@ the electric potential at point \[B\].
           * in both integral regions \[E\] is parallel to \[r\]
       * \[V( r) = -\int\limits_{\infty}^{a}{ k \frac{ Q}{ r^2} dr } - \int\limits_{a}^{r}{ k \frac{ Q}{ a^3} r d r}\]
       * \[V( r) = k \frac{ Q}{ a} + k \frac{ Q}{ 2 a^3} (a^2 - r^2)\]
+      * \[V( r) = k \frac{ Q}{ 2 a^3} (3 a^2 - r^2)\]

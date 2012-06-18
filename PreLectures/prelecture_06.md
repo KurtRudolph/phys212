@@ -67,3 +67,4 @@
 * The Gradient in Different Coordinate Systems
   * Cartesian \[\vec \nabla V = \frac{ \partial V}{ \partial x} \hat i + \frac{ \patial V}{ \partial y} \hat j + \frac{ \partial V}{ \partial z} \hat k\]
   * Spherical \[\vec \nabla V = \frac{ \partial V}{ \partial r} \hat r + \frac{ 1}{ r} \frac{ \patial V}{ \partial \theta} \hat \theta + \frac{ 1}{ r \sin \theta} \frac{ \partial V}{ \partial \phi} \hat \phi\]
+* Cylindrical \[\vec \nabla V = \frac{ \partial V}{ \partial r} \hat r + \frac{ 1}{ r} \frac{ \patial V}{ \partial \theta} \hat \theta + \frac{ \partial V}{ \partial k} \hat k\]

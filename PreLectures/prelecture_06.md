@@ -26,3 +26,4 @@
       * \[\Delta U_{A \rightarrow B} = -q \int\limits_{A}^{B}{ \vec E \cdot d \vec l}\]
           * Note that the change in potential energy is proportional to the charge \[q\]
       * Therefore \[\Delta V_{A \rightarrow B} \equiv \frac{ \Delta U_{A \rightarrow B}}{ q} = -\int\limits_{A}^{B}{ \vec E \cdot d \vec l}\]
+[[images/prelecture_06_electric_potential_v.png]]

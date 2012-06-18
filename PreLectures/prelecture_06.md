@@ -63,3 +63,4 @@
 
 ### In Multiple Dimensions...
 * \[\vec \nabla V = \frac{ \partial V}{ \partial x} \hat i + \frac{ \patial V}{ \partial y} \hat j \frac{ \partial V}{ \partial z} \hat k\]
+    * \[\vec \nabla V\] is the gradient of potential

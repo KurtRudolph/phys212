@@ -125,3 +125,6 @@ the electric potential at point \[B\].
 * Finding Electric Potential
   * \[V( r) \equiv \Delta V_{\infty \rightarrow r} = -\int\limits_{\infty}^{r}{ \vec E \cdot d \vec l}\]
   * \[V( r) = -\int\limits_{\infty}^{r}{ \vec E \cdot d \vec l}\]
+  * \[r > a\]
+      * \[V( r) = -\int\limits_{infty}^{r}{ k \frac{ Q}{ r^2} \hat r \cdot d \hat r\]
+      * \[V( r) = k \frac{ Q}{ r}\]

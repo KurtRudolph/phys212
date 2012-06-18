@@ -24,14 +24,17 @@ What is \[\lambda_2\], the linear charge density of the insulating shell?
     * insulating shell
 
 
-  * \[\rho = \frac{ Q}{ 4 \pi (b^2 - a^2)}\]
+  * \[\lambda_2 = \rho * A_{cylindrical_shell} = \rho * \pi * (b^2 - a^2)\]
 
 ## 2)
 What is \[E_x( P)\], the value of the \[x\]-component of the electric 
 field at point \[P\], located a distance \[8.2 cm\] along the \[y\]-axis 
 from the line of charge?
 
+\[E_x( P) = 0\]
 
 
-
-
+## 3)
+What is \[E_y( P)\], the value of the \[x\]-component of the electric 
+field at point \[P\], located a distance \[8.2 cm\] along the \[y\]-axis 
+from the line of charge?

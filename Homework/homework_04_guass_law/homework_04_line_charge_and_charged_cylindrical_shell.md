@@ -14,6 +14,13 @@ What is \[\lambda_2\], the linear charge density of the insulating shell?
 * Given
   * \[E = \frac{ \lambda}{ 2 \pi \varepsilon_0 r}\]
       * where \[\lambda \Rightarrow\] liniear charge density
+* Let
+  * \[a = 2.5 cm = 0.025 m\]
+    * inner radius of the insulating shell
+  * \[b = 4.8 cm = 0.048 m\]
+    * outer radius of the insulating shell
+  * \[\rho   = -665.0 \mu \frac{ C}{ m^3}\]
+    * insulating shell
 
 ## 2)
 What is \[E_x( P)\], the value of the \[x\]-component of the electric 

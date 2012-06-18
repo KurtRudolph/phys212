@@ -80,3 +80,5 @@ shown below. The difference in potential between adjacent lines is the same
 (just like the lines of constant altitude on a topographical map.)
 
 Compare the magnitudes of the two charges.
+
+* The magnitude of the positive charge is greater than the magnitude of the negative charge.

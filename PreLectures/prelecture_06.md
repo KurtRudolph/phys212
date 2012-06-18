@@ -53,5 +53,8 @@
   * \[\vec E( r) = -\frac{ dv}{ dr} \hat r\]
 
 ### Example
-
 [[images/prelecture_06_e_from_v_example.png]]
+
+* \[V( r) = k \frac{ Q}{ r}\]
+* \[E = -\frac{ dV}{ dr}\]
+* \[E = -\frac{ d}{ dr} \left( k \frac{ Q}{ r}\right)\]

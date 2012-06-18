@@ -91,3 +91,21 @@ Compare the magnitudes of the two charges.
 * \[V_P = k \frac{ Q_1}{ r_1} + k \frac{ Q_2}{ r_2} + k \frac{ Q_3}{ r_3}\]
 * \[V_P = k \frac{ q}{ a} + k \frac{ -q}{ a \sqrt{ 2}} + k \frac{ q}{ a}\]
 * \[V_P = k \frac{ q}{ a} \left(2 - \frac{ \sqrt{ 2}{ 2}\right)\]
+
+## Question 2
+[[images/prelecture_06_q2.png]]
+
+An electric dipole with charge magnitude \[Q\] and separation \[2d\] is oriented as 
+shown below. Compare \[V_A\], the electric potential at point \[A\], with \[V_B\], 
+the electric potential at point \[B\].
+
+* \[ V_A = V_B\]
+  * \[V_{B A} = -\int\limits_{A}^{B}{ \vec E \cdot d \vec L\]
+  * The electric field at any point is the vector sum of the electric fields produced 
+    by the positive charge \[(E+)\] and the negative charge \[(E−)\]. The symmetry 
+    of the charges about the dashed line going through \[A\] and \[B\] means that 
+    the horizontal electric field components of \[E+\] and \[E−\] will cancel at 
+    any point on this line, as shown below:
+
+
+[[images/prelecture_06_q2a.png]]

@@ -6,11 +6,11 @@ the axis of a thick insulating shell of inner radius
 insulating shell is uniformly charged with a volume density of 
 \[\rho   = -665.0 \mu \frac{ C}{ m^3}\].
 
+[[line_charge_and_charged_cylindrical_shell.png]]
+
 ## 1)
 What is \[\lambda_2\], the linear charge density of the insulating shell?
 
 * Given
   * \[E = \frac{ \lambda}{ 2 \pi \varepsilon_0 r}\]
       * where \[\lambda \Rightarrow\] liniear charge density
-
-[[line_charge_and_charged_cylindrical_shell.png]]

@@ -117,7 +117,11 @@ the electric potential at point \[B\].
 ## Example: Charged Spherical Insulator
 [[images/prelecture_06_example_charged_spherical_insulator.png]]
 
-* \[r < a\]
-  * \[E = k \frac{ Q}{ a^3} r\]
-* \[r > a\]
-  * \[E = k \frac{ Q}{ r^2}\]
+* Recall Electric Field for a solid insulator
+  * \[r < a\]
+      * \[E = k \frac{ Q}{ a^3} r\]
+  * \[r > a\]
+      * \[E = k \frac{ Q}{ r^2}\]
+* Finding Electric Potential
+  * \[V( r) \equiv \Delta V_{\infty \rightarrow r} = -\int\limits_{\infty}^{r}{ \vec E \cdot d \vec l}\]
+  * \[V( r) = -\int\limits_{\infty}^{r}{ \vec E \cdot d \vec l}\]

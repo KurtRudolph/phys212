@@ -89,3 +89,4 @@ Compare the magnitudes of the two charges.
 * \[V_P = \sum\limits_{i}{ V_i}\]
 * \[V_P = V_1 + V_2 + V_3\]
 * \[V_P = k \frac{ Q_1}{ r_1} + k \frac{ Q_2}{ r_2} + k \frac{ Q_3}{ r_3}\]
+* \[V_P = k \frac{ q}{ a} + k \frac{ -q}{ a \sqrt{ 2}} + k \frac{ q}{ a}\]

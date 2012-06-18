@@ -12,3 +12,5 @@ What is \[\lambda_2\], the linear charge density of the insulating shell?
 * Given
   * \[E = \frac{ \lambda}{ 2 \pi \varepsilon_0 r}\]
       * where \[\lambda \Rightarrow\] liniear charge density
+
+[[line_charge_and_charged_cylindrical_shell.png]]

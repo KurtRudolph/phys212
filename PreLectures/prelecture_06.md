@@ -155,3 +155,9 @@ describes the spherical insulator in the previous example?
   * \[\vec F = q k \frac{ Q}{ r^2} \hat r\]
   * \[\frac{ \vec F}{ q} = k \frac{ Q}{ r^2} \hat r\]
   * \[\vec E_Q \equiv \frac{ \vec F}{ q} = k \frac{ Q}{ r^2} \hat r\]
+* Electric Field
+  * \[\vec E_Q \equiv \frac{ \vec F}{ q}\]
+      * Vector
+* Electric Potential
+  * \[V_Q \equiv \frac{ U}{ q}\]
+      * Scalar

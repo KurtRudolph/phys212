@@ -58,4 +58,4 @@
 * \[V( r) = k \frac{ Q}{ r}\]
 * \[E = -\frac{ dV}{ dr}\]
 * \[E = -\frac{ d}{ dr} \left( k \frac{ Q}{ r}\right)\]
-* \[E = -\left( k \frac{ Q}{ r^}\right)\]
+* \[E = -\left(-k \frac{ Q}{ r^}\right)\]

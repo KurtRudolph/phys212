@@ -61,10 +61,10 @@ from \[q_1\]?
 * \[E_x( P) = k \left(\frac{ q_1}{ r^2} \right) = -3.89872 \times 10^8 \frac{ N}{ C}\]
 
 ## 5)
-What is \[\rho_b\], the surface charge density at the outer edge of the shell?
+What is \[\sigma_b\], the surface charge density at the outer edge of the shell?
 
 * Given
-  * \[\rho = \frac{ q_{enclosed}}{ 4 \pi r^2}\]
+  * \[\sigma = \frac{ q_{enclosed}}{ 4 \pi r^2}\]
 * Let
   * \[q_1 = -8.5 \mu C\]
       * point charge at the center
@@ -75,13 +75,13 @@ What is \[\rho_b\], the surface charge density at the outer edge of the shell?
   * \[b = 4.1 cm = 0.041 m\]
       * outer radius of the conducting shell
   * \[r = b\]
-* \[\rho_b = \frac{ q_1 + q_2}{ 4 \pi b^2} = -.000303 \frac{ C}{ m^2}\]
+* \[\sigma_b = \frac{ q_1 + q_2}{ 4 \pi b^2} = -.000303 \frac{ C}{ m^2}\]
 
 ## 6)
-What is \[\rho_a\], the surface charge density at the inner edge of the shell?
+What is \[\sigma_a\], the surface charge density at the inner edge of the shell?
 
 * Given
-  * \[\rho = \frac{ q_{enclosed}}{ 4 \pi r^2}\]
+  * \[\sigma = \frac{ q_{enclosed}}{ 4 \pi r^2}\]
 * Let
   * \[q_1 = -8.5 \mu C\]
       * point charge at the center
@@ -92,7 +92,7 @@ What is \[\rho_a\], the surface charge density at the inner edge of the shell?
   * \[b = 4.1 cm = 0.041 m\]
       * outer radius of the conducting shell
   * \[r = b\]
-* \[ \rho_a = -\left(\frac{ q_1}{ 4 \pi a^2}\right) = .000402 \frac{ C}{ m^2}\]
+* \[ \sigma_a = -\left(\frac{ q_1}{ 4 \pi a^2}\right) = .000402 \frac{ C}{ m^2}\]
 
 ## 7)
 For how many values of \[ x: (4.1 cm < x < \infty) is it true that \[E_x = 0\]?

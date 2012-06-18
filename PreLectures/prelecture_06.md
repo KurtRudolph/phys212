@@ -142,3 +142,10 @@ the electric potential at point \[B\].
 Which of the following equipotential diagrams best 
 describes the spherical insulator in the previous example? 
 (The colored circle in the center represents the insulator.)
+
+* A
+  * The separation of the equipotentials is smallest at the outer 
+    radius of the pink sphere since the electric field is strongest there. 
+    The separation of the equipotentials increases where the electric field is 
+    weaker; both toward the center of the sphere and far away from the sphere.
+

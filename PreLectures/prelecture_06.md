@@ -39,3 +39,5 @@
 * \[\Delta V_{A \rightarrow B} = -\int\limits_{A}^{B}{ \vec E \cdot d \vec l}\]
 * \[\Delta V_{A \rightarrow B} = -\int\limits_{A}^{B}{ k \frac{ Q}{ r^2} \hat r \cdot d \vec r}\]
 * \[\Delta V_{A \rightarrow B} = k Q \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_A}\right)\]
+    * The electric potential difference is proportional to inverse distances from the point charge.
+* \[V( r) \equiv \Delta V_{r_0 \rightarrow r} = k Q \left(\frac{ 1}{ r} - \frac{ 1}{ r_0}\right)\]

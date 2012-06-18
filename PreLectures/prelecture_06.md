@@ -90,7 +90,7 @@ Compare the magnitudes of the two charges.
 * \[V_P = V_1 + V_2 + V_3\]
 * \[V_P = k \frac{ Q_1}{ r_1} + k \frac{ Q_2}{ r_2} + k \frac{ Q_3}{ r_3}\]
 * \[V_P = k \frac{ q}{ a} + k \frac{ -q}{ a \sqrt{ 2}} + k \frac{ q}{ a}\]
-* \[V_P = k \frac{ q}{ a} \left(2 - \frac{ \sqrt{ 2}{ 2}\right)\]
+* \[V_P = k \frac{ q}{ a} \left(2 - \frac{ \sqrt{ 2}}{ 2}\right)\]
 
 ## Question 2
 [[images/prelecture_06_q2.png]]

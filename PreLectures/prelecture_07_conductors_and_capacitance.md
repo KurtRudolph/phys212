@@ -78,4 +78,8 @@ difference between points \[c\] and \[d\].
   * \[ Q_A + Q_B = 2 Q\]
       * \[ Q_A = \frac{ 2}{ 5} Q\]
       * \[ Q_B = \frac{ 8}{ 5} Q\]
-  * 
+  * Note
+      * Even though sphere \[B\] has four times the charge of sphere \[A\]
+        the charge density on sphere \[A\] is still larger.
+      * \[4 Q_A = Q_B\]
+      * \[4 \sigma_A Area_A = \sigma_B Area_B \]

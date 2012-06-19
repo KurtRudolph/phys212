@@ -58,3 +58,4 @@ difference between points \[c\] and \[d\].
 
 * Calculating the potential at the surface of \[A\]
   * \[V_A = -\int\limits_{\infty}^{R_A}{ \vec E_A \cdot d \vec l}\]
+  * \[V_A = -\int\limits_{\infty}^{R_A}{ k \frac{ Q}{ r^2} d r}\]

@@ -18,3 +18,8 @@
 
 ## Conductors and Equipotentials
 [[images/prelecture_07_conductors_and_equipotentials.png]]
+
+* \[V_B - V_A = -\int\limits_{A}^B}{ \vec E \cdot d \vec l}\]
+* \[V_B - V_A = 0\]
+  * Since \[\vec E = 0\] everywhere within the conductor
+  * This implies that the entire conductor it self is an _equipotential_

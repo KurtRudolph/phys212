@@ -111,7 +111,7 @@ difference between points \[c\] and \[d\].
 
 ## Question 2
 
-Consider a charged solid conducting sphere of radius a inside an 
+Consider a charged solid conducting sphere of radius \[a\] inside an 
 uncharged hollow conducting sphere having inner radius 
 \[b\] and outer radius \[c\], as shown.
 
@@ -121,4 +121,43 @@ the center of the sphere?
 
 [[images/prelecture_07_q2.png]]
 
-[[images/prelecture_07_q2_1.png
+[[images/prelecture_07_q2_1.png]]
+
+* A
+  * According to Gauss law the \[E\]-field will simply diminish as 
+    \[\frac{ 1}{ r^2}\] when is \[r > a\]. Since the outer conducting 
+    shell is uncharged it does not contribute to \[E\] in any way other 
+    than ensuring that \[E = 0\] inside the shell itself (i.e., for \[b < r < c\]).
+
+
+## Shielding in a conductor with a Cavity
+* We just explored what happens when we move a charge around the inside 
+  of a conducting spherical shell.
+
+[[images/prelecture_07_charge_distribution_on_conductors_1.png]]
+
+* Now we will explore what happens when you do the same outside the shell.
+
+[[images/prelecture_07_shielding_in_a_conductor_with_a_cavity.png]]
+
+* Similarly the charge distribution on the outer shell will act accordingly
+  to the position of the outer charge \[q\].
+
+* Now consider if we create a cavity within the solid conductor
+
+[[images/prelecture_07_shielding_in_a_conductor_with_a_cavity_1.png]]
+
+* Similarly again, the charge on the inner cavity remains unchanged by
+  presence of the charge outside the conducting shell.
+* The inner charge field of the conducting sphere always remains zero
+  and the charges position them selves in such a manor to act accordingly.
+
+## Capacitance
+[[images/prelecture_07_capacitance.png]]
+* Let 
+  * \[\vec E\] be the electric field between the plates
+  * \[\Delta V\] non-zero potential difference which develops as a result of
+    this field.
+* Since
+  * \[E \prop Q\]
+

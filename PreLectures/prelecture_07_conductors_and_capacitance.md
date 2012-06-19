@@ -75,4 +75,7 @@ difference between points \[c\] and \[d\].
   * \[\frac{ Q_A}{ R_A} = \frac{ Q_B}{ 4 R_A}\]
   * \[Q_A = \frac{ Q_B}{ 4}\]
   * \[ 4 Q_A = Q_B\]
+  * \[ Q_A + Q_B = 2 Q\]
+      * \[ Q_A = \frac{ 2}{ 5} Q\]
+      * \[ Q_B = \frac{ 8}{ 5} Q\]
   * 

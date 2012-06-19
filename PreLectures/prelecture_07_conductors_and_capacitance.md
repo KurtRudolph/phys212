@@ -46,7 +46,7 @@ difference between points \[c\] and \[d\].
 
 [[images/prelecture_07_q1.png]]
 
-* V_{ab} = V_{cd}
+* \[V_{ab} = V_{cd}\]
   * Since each conductor is an equipotential, the potential difference 
     between any point on the inner conductor and any point on the outer 
     conductor has to be the same.

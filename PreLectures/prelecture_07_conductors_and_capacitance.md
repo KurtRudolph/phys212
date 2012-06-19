@@ -211,3 +211,19 @@ Compare \[V1\] and \[V0\].
     it was before the conductor was inserted. The total integral of is therefore 
     smaller with the conductor in place since the integrand is zero for the part of 
     the path inside the conductor.
+
+## Capacitors Store Energy
+[[images/prelecture_07_capacitors_store_energy.png]]
+
+* Let
+  * \[+q\] be the charge of the top plate
+  * \[-q\] be the charge of the bottom plate
+  * \[\vec E\] the charge field
+  * \[V\] be the potential difference
+      * QUESTION: why isn't this \[\Delta V\]
+  * \[d q\] is the next increment charge
+  * \[d W\] the work required to move the next increment charge from the bottom plate 
+    to the top.
+  * \[d W = (dq E) d\]
+  * \[d W = d q \frac{ V}{ d}  d\]
+  * \[d W = d q V\]

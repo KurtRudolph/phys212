@@ -32,3 +32,21 @@
 density redistributes such that we have varying points of charge density
 
 [[images/prelecture_07_conductors_and_equipotentials_3.png]]
+
+## Question 1
+
+A solid elliptical conductor with a net charge \[Q\] is surrounded by 
+a hollow spherical conductor with net charge \[-Q\]. Points \[a\] and \[c\] 
+are on the outer surface of the inner conductor, and points \[b\] and \[d\] 
+are on the inner surface of the outer conductor as shown.
+
+Compare \[V_{ab}\], the magnitude of the potential difference between 
+points \[a\] and \[b\], to \[V_{cd}\], the magnitude of the potential 
+difference between points \[c\] and \[d\].
+
+[[images/prelecture_07_q1.png]]
+
+* V_{ab} = V_{cd}
+  * Since each conductor is an equipotential, the potential difference 
+    between any point on the inner conductor and any point on the outer 
+    conductor has to be the same.

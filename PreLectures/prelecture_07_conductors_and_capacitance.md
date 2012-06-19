@@ -240,3 +240,12 @@ Compare \[V1\] and \[V0\].
   * \[U = \frac{ 1}{ 2} Q V\]
   * \[U = \frac{ 1}{ 2} \frac{ Q^2}{ C}\]
   * \[U = \frac{ 1}{ 2} C V^2\]
+
+## Energy Stored in the Electric Field
+* \[U = \frac{ 1}{ 2} C V^2\]
+  * where 
+      * \[V = E d\]
+      * \[C = \frac{ \varepsilon_0 A}{ d}\]
+* \[U = \frac{ 1}{ 2} \frac{ \varepsilon_0 A}{ d}( E d)^2\]
+* \[U = \frac{ 1}{ 2} \frac{ \varepsilon_0 A}{ d} E^2 d^2\]
+* \[U = \frac{ 1}{ 2} \varepsilon_0 A E^2 d\]

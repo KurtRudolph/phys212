@@ -242,12 +242,29 @@ Compare \[V1\] and \[V0\].
   * \[U = \frac{ 1}{ 2} C V^2\]
 
 ## Energy Stored in the Electric Field
-* \[U = \frac{ 1}{ 2} C V^2\]
-  * where 
-      * \[V = E d\]
-      * \[C = \frac{ \varepsilon_0 A}{ d}\]
-* \[U = \frac{ 1}{ 2} \frac{ \varepsilon_0 A}{ d}( E d)^2\]
-* \[U = \frac{ 1}{ 2} \frac{ \varepsilon_0 A}{ d} E^2 d^2\]
-* \[U = \frac{ 1}{ 2} \varepsilon_0 A E^2 d\]
-* \[U = \frac{ 1}{ 2} \varepsilon_0 E^2 A d\]
-  * \[Ad\] is the volume between the plates
+* Since
+  * \[U = \frac{ 1}{ 2} C V^2\]
+      * where 
+          * \[V = E d\]
+          * \[C = \frac{ \varepsilon_0 A}{ d}\]
+  * \[U = \frac{ 1}{ 2} \frac{ \varepsilon_0 A}{ d}( E d)^2\]
+  * \[U = \frac{ 1}{ 2} \frac{ \varepsilon_0 A}{ d} E^2 d^2\]
+  * \[U = \frac{ 1}{ 2} \varepsilon_0 A E^2 d\]
+  * \[U = \frac{ 1}{ 2} \varepsilon_0 E^2 A d\]
+      * where \[Ad\] is the volume between the plates
+  * \[\frac{ U}{ A d} = \frac{ 1}{ 2} \varepsilon_0 E^2\]
+  * \[\frac{ U}{ A d} = \frac{ 1}{ 2} \varepsilon_0 E^2\]
+  * \[u \equiv \frac{ U}{ A d} = \frac{ 1}{ 2} \varepsilon_0 E^2\]
+      * where \[u\] is the energy density between the plates
+* Energy Density
+  * \[u = \frac{ 1}{ 2} \epsilon_0 E^2\]
+
+## Summary
+* Charges withing a conductor will always move as to create a zero electric field
+
+[[images/prelecture_07_summary.png]]
+  
+* The electric field at the surface of a conductor is always perpendicular to 
+  that surface.
+
+[[images/prelecture_07_summary_1.png]]

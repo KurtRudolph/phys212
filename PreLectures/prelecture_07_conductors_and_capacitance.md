@@ -249,3 +249,5 @@ Compare \[V1\] and \[V0\].
 * \[U = \frac{ 1}{ 2} \frac{ \varepsilon_0 A}{ d}( E d)^2\]
 * \[U = \frac{ 1}{ 2} \frac{ \varepsilon_0 A}{ d} E^2 d^2\]
 * \[U = \frac{ 1}{ 2} \varepsilon_0 A E^2 d\]
+* \[U = \frac{ 1}{ 2} \varepsilon_0 E^2 A d\]
+  * \[Ad\] is the volume between the plates

@@ -231,3 +231,6 @@ Compare \[V1\] and \[V0\].
   * \[d U = V d q \]
       * Holds true for any geometry as it represents the change in potential energy
   * \[U = \in{ d U} = \int\limits_{0}^{Q}{ V d q} \]
+  * \[U \int\limits_{0}^{Q}{ V d q} \]
+  * \[U \int\limits_{0}^{Q}{ \frac{ q}{ C} d q} \]
+  

@@ -50,3 +50,8 @@ difference between points \[c\] and \[d\].
   * Since each conductor is an equipotential, the potential difference 
     between any point on the inner conductor and any point on the outer 
     conductor has to be the same.
+
+## Equipotential Example
+[[images/prelecture_07_equipotential_example.png]]
+* Consider two conducting spheres which are seprerated by a large distance
+  and have radius' \[R_A\] and \[R_B = 4 R_A\] 

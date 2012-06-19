@@ -194,6 +194,12 @@ the center of the sphere?
   * \[C = \frac{ Q}{ \Delta V} = \frac{ \varepsilon_0 A}{ d}\]
       *  Capacitance for Parallel-Plates
   
-  
-   
+## Question 3
+Two parallel plates carry equal and opposite charge \[Q\]. The potential difference 
+between the two plates is measured to be \[V_0\]. An uncharged conducting plate 
+(the green thing in the picture below) is slipped into the space between the plates 
+without touching either one, and the potential difference between the two plates 
+in this final configuration is measured to be \[V_1\].
 
+Compare V1 and V0.
+[[images/prelecture_07_q3.png]]

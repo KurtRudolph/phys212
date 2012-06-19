@@ -23,3 +23,12 @@
 * \[V_B - V_A = 0\]
   * Since \[\vec E = 0\] everywhere within the conductor
   * This implies that the entire conductor it self is an _equipotential_
+
+[[images/prelecture_07_conductors_and_equipotentials_1.png]]
+* When the conductor is circularly symmetric, the field lines are perpendicular to the surface
+
+[[images/prelecture_07_conductors_and_equipotentials_2.png]]
+* When we change the shape such that it is no longer circularly symmetric the charge
+density redistributes such that we have varying points of charge density
+
+[[images/prelecture_07_conductors_and_equipotentials_3.png]]

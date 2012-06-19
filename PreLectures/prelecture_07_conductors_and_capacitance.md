@@ -187,5 +187,6 @@ the center of the sphere?
       * \[E = \frac{ 1}{ 2} \frac{ Q}{ \varepsilon_0 A}\]
 * Now looking for the potential difference in \[C \equiv \frac{ Q}{ \Delta}{ V}\]
   * \[\left|\Delta V\right| = \int\limits_{bottom}^{top}{ \vec E \cdot d \vec l}\]
+  * \[\left|\Delta V\right| = \int\limits_{bottom}^{top}{ \frac{ Q}{ \epsilon_0 A} d y}\]
    
 

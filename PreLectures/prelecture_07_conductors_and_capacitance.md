@@ -64,3 +64,8 @@ difference between points \[c\] and \[d\].
   * \[V_B = k \frac{ Q}{ R_B}\]
   * \[V_B = k \frac{ Q}{ 4 R_A}\]
   * \[V_B = \frac{ 1}{ 4} V_A\]
+
+[[images/prelecture_07_equipotential_example_1.png]]
+* What if we connect the sphere's via a thin wire?
+  * The charges will in essence become a single conductor
+  * Their charges will flow until the come to the same potential.

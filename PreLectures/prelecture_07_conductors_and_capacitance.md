@@ -159,5 +159,5 @@ the center of the sphere?
   * \[\Delta V\] non-zero potential difference which develops as a result of
     this field.
 * Since
-  * \[E \prop Q\]
+  * \[E \propto Q\]
 

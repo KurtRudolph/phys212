@@ -107,4 +107,4 @@ difference between points \[c\] and \[d\].
 [[images/prelecture_07_charge_distribution_on_conductors_1.png]]
 * Should the charge at the center of the sphere move to the right
   * Inner surface charge distribution changes accordingly.
-  * Outer surface charge distribution stays the same.
+  * Outer surface charge distribution _stays the same_.

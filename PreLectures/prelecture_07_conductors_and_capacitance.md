@@ -268,3 +268,10 @@ Compare \[V1\] and \[V0\].
   that surface.
 
 [[images/prelecture_07_summary_1.png]]
+
+* Capacitance formed between do parallel plates of a conductor is defined as
+  * \[C \equiv \frac{ Q}{ \Delta V}\]
+
+* Energy is stored between the electric plates
+  * \[u = \frac{ 1}{ 2} \epsilon_0 E^2\]
+      * Energy Density

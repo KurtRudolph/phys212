@@ -90,3 +90,21 @@ difference between points \[c\] and \[d\].
       * \[4 \sigma_A = \sigma_B 4^2\]
       * \[\sigma_A = \sigma_B 4\]
       * \[\sigma_A = 4 \sigma_B\]
+
+## Charge Distribution on Conductors
+* Uncharged spherical conducting shell with a positive charge placed in the
+  cavity.
+
+[[images/prelecture_07_charge_distribution_on_conductors.png]]
+
+* The presence of the positive charge will cause the charges in the conducting
+  shell to move so as to preserve the zero electric field in the center
+      * QUESTION: This was an _uncharged_ spherical shell, why is it worded this way in the prelecture??
+  * Consequently both surfaces of the shell receive  an induced charge.
+  * \[Q_{inner} = -q\]
+  * \[Q_{outer} = q\]
+
+[[images/prelecture_07_charge_distribution_on_conductors_1.png]]
+* Should the charge at the center of the sphere move to the right
+  * Inner surface charge distribution changes accordingly.
+  * Outer surface charge distribution stays the same.

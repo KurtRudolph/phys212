@@ -201,5 +201,13 @@ between the two plates is measured to be \[V_0\]. An uncharged conducting plate
 without touching either one, and the potential difference between the two plates 
 in this final configuration is measured to be \[V_1\].
 
-Compare V1 and V0.
+Compare \[V1\] and \[V0\].
 [[images/prelecture_07_q3.png]]
+
+* \[V_1 < V_0\]
+  * The potential difference is given by the integral of \[E \cdot d \vec l\] from 
+    one plate to the other. The electric field in the extra conductor is zero, and 
+    the electric field in the rest of the region between the plates is the same as 
+    it was before the conductor was inserted. The total integral of is therefore 
+    smaller with the conductor in place since the integrand is zero for the part of 
+    the path inside the conductor.

@@ -11,3 +11,10 @@
   * All example shown had fixed charge distrobutions, today we will 
     introduce conductors without a fixed charge distrobution.
         * Conductors where the charges are free to move
+* After discussing non-uniform charge distrobution in a conductor, we go on to discuss capacitance
+  * Specifically we discuss parallel plates 
+  * \[C \equiv \frac{ Q}{ \Delta V}\]
+    * Field betwee plates \[E = \frac{ Q}{ \varepsilon_0 A}\]
+
+## Conductors and Equipotentials
+[[images/prelecture_07_conductors_and_equipotentials.png]]

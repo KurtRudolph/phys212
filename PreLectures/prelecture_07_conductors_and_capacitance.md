@@ -160,4 +160,8 @@ the center of the sphere?
     this field.
 * Since
   * \[E \propto Q\]
-
+* Then
+  * \[\Delta V \propto Q\]
+* So we define the capacitance to be
+  * \[C \equiv \frac{ Q}{ \Delta V}\]
+  * The units of capacitance are Coulomb per Volt

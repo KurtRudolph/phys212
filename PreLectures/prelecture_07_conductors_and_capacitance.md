@@ -60,3 +60,7 @@ difference between points \[c\] and \[d\].
   * \[V_A = -\int\limits_{\infty}^{R_A}{ \vec E_A \cdot d \vec l}\]
   * \[V_A = -\int\limits_{\infty}^{R_A}{ k \frac{ Q}{ r^2} d r}\]
   * \[V_A = k \frac{ Q}{ R_A}\]
+* Repeat for sphere \[B\]
+  * \[V_B = k \frac{ Q}{ R_B}\]
+  * \[V_B = k \frac{ Q}{ 4 R_A}\]
+  * \[V_B = \frac{ 1}{ 4} V_A\]

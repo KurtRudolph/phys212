@@ -227,3 +227,7 @@ Compare \[V1\] and \[V0\].
   * \[d W = (dq E) d\]
   * \[d W = d q \frac{ V}{ d}  d\]
   * \[d W = d q V\]
+  * \[d W = V d q \]
+  * \[d U = V d q \]
+      * Holds true for any geometry as it represents the change in potential energy
+  * \[U = \in{ d U} = \int\limits_{0}^{Q}{ V d q} \]

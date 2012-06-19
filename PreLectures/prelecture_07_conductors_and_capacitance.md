@@ -190,8 +190,8 @@ the center of the sphere?
   * \[\left|\Delta V\right| = \int\limits_{bottom}^{top}{ \frac{ Q}{ \epsilon_0 A} d y}\]
   * \[\left|\Delta V\right| = \frac{ Q}{ \epsilon_0 A} \int\limits_{bottom}^{top}{ d y}\]
       * since \[\vec E\] is a constant along this path
-  * \[\Delta V = \frac{ Q}{ \epsilon_0 A} d\]
-  * \[C = \frac{ Q}{ \Delta V} = \frac{ \epsilon_0 A}{ d}\]
+  * \[\Delta V = \frac{ Q}{ \varepsilon_0 A} d\]
+  * \[C = \frac{ Q}{ \Delta V} = \frac{ \varepsilon_0 A}{ d}\]
       *  Capacitance for Parallel-Plates
   
   

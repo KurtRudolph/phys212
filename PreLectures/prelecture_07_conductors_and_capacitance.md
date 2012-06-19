@@ -108,3 +108,17 @@ difference between points \[c\] and \[d\].
 * Should the charge at the center of the sphere move to the right
   * Inner surface charge distribution changes accordingly.
   * Outer surface charge distribution _stays the same_.
+
+## Question 2
+
+Consider a charged solid conducting sphere of radius a inside an 
+uncharged hollow conducting sphere having inner radius 
+\[b\] and outer radius \[c\], as shown.
+
+Which of the following graphs best describes the magnitude of 
+the electric field as a function of distance \[r\] from 
+the center of the sphere?
+
+[[images/prelecture_07_q2.png]]
+
+[[images/prelecture_07_q2_1.png

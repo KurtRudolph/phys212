@@ -177,12 +177,12 @@ the center of the sphere?
   * \[\vec E\] be the electric field created between the plates
 * Given
   * The magnitude of the \[E\] field created separately
-      * \[E_{Top Plate} = \frac{ 1}{ 2} \frac{ \sigma}{ \varepsilon_0}
-      * \[E_{Bottom Plate} = \frac{ 1}{ 2} \frac{ \sigma}{ epsilon_0}
-      * \[E_{Top Plate} = \frac{ 1}{ 2} \frac{ Q}{ \varepsilon_0 A}
-      * \[E_{Bottom Plate} = \frac{ 1}{ 2} \frac{ Q}{ epsilon_0 A}
+      * \[E_{Top Plate} = \frac{ 1}{ 2} \frac{ \sigma}{ \varepsilon_0}\]
+      * \[E_{Bottom Plate} = \frac{ 1}{ 2} \frac{ \sigma}{ epsilon_0}\]
+      * \[E_{Top Plate} = \frac{ 1}{ 2} \frac{ Q}{ \varepsilon_0 A}\]
+      * \[E_{Bottom Plate} = \frac{ 1}{ 2} \frac{ Q}{ epsilon_0 A}\]
       * Since directions of their fields is the same, we determine that
-        \[E = \frac{ 1}{ 2} \frac{ Q}{ \varepsilon_0 A}
+        \[E = \frac{ 1}{ 2} \frac{ Q}{ \varepsilon_0 A}\]
   * \[ d << L\]
    
 

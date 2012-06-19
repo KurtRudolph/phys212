@@ -187,8 +187,8 @@ the center of the sphere?
       * \[E = \frac{ 1}{ 2} \frac{ Q}{ \varepsilon_0 A}\]
 * Now looking for the potential difference in \[C \equiv \frac{ Q}{ \Delta}{ V}\]
   * \[\left|\Delta V\right| = \int\limits_{bottom}^{top}{ \vec E \cdot d \vec l}\]
-  * \[\left|\Delta V\right| = \int\limits_{bottom}^{top}{ \frac{ Q}{ \epsilon_0 A} d y}\]
-  * \[\left|\Delta V\right| = \frac{ Q}{ \epsilon_0 A} \int\limits_{bottom}^{top}{ d y}\]
+  * \[\left|\Delta V\right| = \int\limits_{bottom}^{top}{ \frac{ Q}{ \varepsilon_0 A} d y}\]
+  * \[\left|\Delta V\right| = \frac{ Q}{ \varepsilon_0 A} \int\limits_{bottom}^{top}{ d y}\]
       * since \[\vec E\] is a constant along this path
   * \[\Delta V = \frac{ Q}{ \varepsilon_0 A} d\]
   * \[C = \frac{ Q}{ \Delta V} = \frac{ \varepsilon_0 A}{ d}\]
@@ -257,7 +257,7 @@ Compare \[V1\] and \[V0\].
   * \[u \equiv \frac{ U}{ A d} = \frac{ 1}{ 2} \varepsilon_0 E^2\]
       * where \[u\] is the energy density between the plates
 * Energy Density
-  * \[u = \frac{ 1}{ 2} \epsilon_0 E^2\]
+  * \[u = \frac{ 1}{ 2} \varepsilon_0 E^2\]
 
 ## Summary
 * Charges withing a conductor will always move as to create a zero electric field

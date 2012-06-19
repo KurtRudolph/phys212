@@ -275,3 +275,8 @@ Compare \[V1\] and \[V0\].
 * Energy is stored between the electric plates
   * \[u = \frac{ 1}{ 2} \epsilon_0 E^2\]
       * Energy Density
+
+* Energy Stored in Capacitors
+  * \[U = \frac{ 1}{ 2} Q V\]
+  * \[U = \frac{ 1}{ 2} \frac{ Q^2}{ C}\]
+  * \[U = \frac{ 1}{ 2} C V^2\]

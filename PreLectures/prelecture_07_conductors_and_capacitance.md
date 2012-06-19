@@ -83,3 +83,4 @@ difference between points \[c\] and \[d\].
         the charge density on sphere \[A\] is still larger.
       * \[4 Q_A = Q_B\]
       * \[4 \sigma_A Area_A = \sigma_B Area_B \]
+      * \[4 \sigma_A 4 \pi R_A^2 = \sigma_B 4 \pi R_B^2 \]

@@ -69,3 +69,9 @@ difference between points \[c\] and \[d\].
 * What if we connect the sphere's via a thin wire?
   * The charges will in essence become a single conductor
   * Their charges will flow until the come to the same potential.
+  * \[V_A = V_B\]
+  * \[k \frac{ Q_A}{ R_A} = k \frac{ Q_B}{ R_B}\]
+  * \[k \frac{ Q_A}{ R_A} = k \frac{ Q_B}{ 4 R_A}\]
+  * \[\frac{ Q_A}{ R_A} = \frac{ Q_B}{ 4 R_A}\]
+  * \[Q_A = \frac{ Q_B}{ 4}\]
+  * 

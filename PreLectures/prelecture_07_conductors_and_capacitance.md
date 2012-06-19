@@ -224,6 +224,7 @@ Compare \[V1\] and \[V0\].
   * \[d q\] is the next increment charge
   * \[d W\] the work required to move the next increment charge from the bottom plate 
     to the top.
+* It follows that
   * \[d W = (dq E) d\]
   * \[d W = d q \frac{ V}{ d}  d\]
   * \[d W = d q V\]
@@ -233,4 +234,9 @@ Compare \[V1\] and \[V0\].
   * \[U = \in{ d U} = \int\limits_{0}^{Q}{ V d q} \]
   * \[U \int\limits_{0}^{Q}{ V d q} \]
   * \[U \int\limits_{0}^{Q}{ \frac{ q}{ C} d q} \]
+  * \[U \int\limits_{0}^{Q}{ \frac{ q}{ C} d q} = \frac{ 1}{ 2} \frac{ Q^2}{ C} \]
   
+* Therefore
+  * \[U = \frac{ 1}{ 2} Q V\]
+  * \[U = \frac{ 1}{ 2} \frac{ Q^2}{ C}\]
+  * \[U = \frac{ 1}{ 2} C V^2\]

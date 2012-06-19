@@ -55,3 +55,6 @@ difference between points \[c\] and \[d\].
 [[images/prelecture_07_equipotential_example.png]]
 * Consider two conducting spheres which are seprerated by a large distance
   and have radius' \[R_A\] and \[R_B = 4 R_A\] 
+
+* Calculating the potential at the surface of \[A\]
+  * \[V_A = -\int\limits_{\infty}^{R_A}{ \vec E_A \cdot d \vec l}\]

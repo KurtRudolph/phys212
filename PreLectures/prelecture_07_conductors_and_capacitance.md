@@ -170,3 +170,9 @@ the center of the sphere?
 
 [[images/prelecture_07_capacitance_1.png]]
 
+* Let
+  * \[A\] be the surface area of the conducting plates
+  * \[d\] be the distance between the plates
+  * \[L\] be the edge lengths of the plates
+  * \[\vec E\] be the electric field created between the plates
+

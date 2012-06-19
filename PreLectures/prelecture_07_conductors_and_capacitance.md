@@ -166,3 +166,7 @@ the center of the sphere?
   * \[C \equiv \frac{ Q}{ \Delta V}\]
   * The units of capacitance are Coulomb per Volt which is a _Farad_
     * \[ F = \frac{ C}{ V}\]
+
+
+[[images/prelecture_07_capacitance_1.png]]
+

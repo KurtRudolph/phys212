@@ -89,3 +89,4 @@ difference between points \[c\] and \[d\].
       * \[4 \sigma_A R_A^2 = \sigma_B 4^2 R_A^2 \]
       * \[4 \sigma_A = \sigma_B 4^2\]
       * \[\sigma_A = \sigma_B 4\]
+      * \[\sigma_A = 4 \sigma_B\]

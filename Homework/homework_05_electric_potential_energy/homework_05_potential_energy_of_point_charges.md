@@ -20,5 +20,9 @@ it is moved from point \[P\] to point \[R\], located a distance \[d_2 = 3.7 cm\]
   * \[d_1 = 9.3 cm = .093 m\]
   * \[d_2 = 3.7 cm = .037 m\]
 
-* \[\Delta U_{P R} = \frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2} - \frac{ 1}{ d_1}\right)\]
+* \[\Delta U_{P R} 
+  = \frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2} - \frac{ 1}{ d_1}\right)
+  = -1.17069\]
+
+## 
   

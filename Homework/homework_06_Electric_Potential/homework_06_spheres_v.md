@@ -10,7 +10,21 @@ potential at the center of the metal sphere, given the potential at infinity is 
 
 * Given
   * \[\vec E( r) = -\frac{ d v}{ d r} \hat r \] 
-  * 
+* Let
+  * \[a = 2.5 cm = .025 m\]
+  * \[b = 6.0 cm = .06 m\]
+  * \[c = 9.0 cm = .09 m\]
+  * \[Q_{in} = - 3.0 n C\]
+  * \[Q_{out} = 2 n C\]
+
+* \[V = -\left(
+    \int\limits_{\infity}^{c}{ \vec E \cdot d \vec l} 
+    \int\limits_{c}^{b}{ \vec E \cdot d \vec l} 
+    \int\limits_{b}^{a}{ \vec E \cdot d \vec l} 
+    \int\limits_{a}^{0}{ \vec E \cdot d \vec l}\right) \]
+
+
+
 * Hints
   * \[V = kQ/r\] cannot be used directly here. We need to start with an expression for \[V\] which is always true.
       * Despite the spherical symmetery, since we are interested in the potential inside 
@@ -29,5 +43,6 @@ potential at the center of the metal sphere, given the potential at infinity is 
           \int\limits_{c}^{b}{ \vec E \cdot d \vec l} 
           \int\limits_{b}^{a}{ \vec E \cdot d \vec l} 
           \int\limits_{a}^{0}{ \vec E \cdot d \vec l}\right) \]
+  
 
 * \[V_0 =\]

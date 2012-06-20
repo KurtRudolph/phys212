@@ -60,3 +60,21 @@ energy now if charge \[q_1\] is moved from point \[P\] to point \[R\]?
 What is the potential energy of the system composed of the three charges 
 \[q_1\], \[q_3\], and \[q_4\], when \[q_1\] is at point \[R\]? Define the 
 potential energy to be zero at infinity.
+
+* Given 
+  * \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r} \rightarrow \Delta U_{A B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_A}\right)\]
+
+* Let
+  * \[q_1 = 2.5 \mu C\]
+  * \[q_2 = -3.2 \mu C\]
+  * \[q_3 = -1.6 \mu C\]
+  * \[q_4 = -1.6 \mu C\]
+  * \[d_1 = 9.3 cm = .093 m\]
+  * \[d_2 = 3.7 cm = .037 m\]
+  * \[a = 2.2 cm = .022 m\]
+  * \[\theta_P = \arctan{ \left(\frac{ a}{ d_1}\right)}\]
+  * \[\theta_R = \arctan{ \left(\frac{ a}{ d_2}\right)}\]
+
+* \[U_{R} 
+  = \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \cos{ (\theta_R)\right)
+  = \]

@@ -76,6 +76,8 @@ potential energy to be zero at infinity.
   * \[\theta_R = \arctan{ \left(\frac{ a}{ d_2}\right)}\]
 
 * \[U_{R} 
-  = \left(\frac{ q_3 q_4}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ 2 a}\right)\right)
-  + \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \cos{ (\theta_R)\right)
+  = \left(\left(\frac{ q_3 q_4}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ 2 a}\right)\right)
+  - \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \sin{ (\theta_R)\right)\right)^2
+  + \left(\left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \cos{ (\theta_R)\right)\right)
   = \]
+

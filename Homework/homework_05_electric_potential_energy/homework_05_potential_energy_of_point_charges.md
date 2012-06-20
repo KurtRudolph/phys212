@@ -25,7 +25,6 @@ it is moved from point \[P\] to point \[R\], located a distance \[d_2 = 3.7 cm\]
   = -1.17069\]
 
 ## 2)
-
 [[potential_energy_of_point_charges_q2.png]]
 
 
@@ -54,3 +53,10 @@ energy now if charge \[q_1\] is moved from point \[P\] to point \[R\]?
   = \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \cos{ (\theta_R)\right)
   - \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_1}\right) \cos{ (\theta_P)\right)
   = -.918373\]
+
+## 3)
+[[potential_energy_of_point_charges_q3.png]]
+
+What is the potential energy of the system composed of the three charges 
+\[q_1\], \[q_3\], and \[q_4\], when \[q_1\] is at point \[R\]? Define the 
+potential energy to be zero at infinity.

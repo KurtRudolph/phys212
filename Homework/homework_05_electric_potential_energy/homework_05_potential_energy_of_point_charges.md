@@ -53,4 +53,4 @@ energy now if charge \[q_1\] is moved from point \[P\] to point \[R\]?
 * \[\Delta U_{P R} 
   = \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \cos{ (\theta_R)\right)
   - \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_1}\right) \cos{ (\theta_P)\right)
-  = -1.17069\]
+  = -.918373\]

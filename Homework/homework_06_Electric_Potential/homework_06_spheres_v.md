@@ -10,6 +10,7 @@ potential at the center of the metal sphere, given the potential at infinity is 
 
 * Given
   * \[\vec E( r) = -\frac{ d v}{ d r} \hat r \] 
+  * \[ \vec E = k \frac{ Q}{ r^2}\]
 * Let
   * \[a = 2.5 cm = .025 m\]
   * \[b = 6.0 cm = .06 m\]
@@ -27,6 +28,9 @@ potential at the center of the metal sphere, given the potential at infinity is 
     \int\limits_{b}^{a}{ \vec E \cdot d \vec l}\right)\]
   * \[\int\limits_{c}^{b}{ \vec E \cdot d \vec l} = 0\]
   * \[\int\limits_{a}^{0}{ \vec E \cdot d \vec l} = 0\]
+* \[V = -\left(
+    \int\limits_{\infty}^{c}{ k \frac{ Q_{out}}{ r^2} dr}
+    \int\limits_{b}^{a}{ k \frac{ Q_{in}}{ r^2}}\right)\]
 
 
 * Hints

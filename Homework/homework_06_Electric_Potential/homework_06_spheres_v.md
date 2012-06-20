@@ -28,6 +28,6 @@ potential at the center of the metal sphere, given the potential at infinity is 
           \int\limits_{\infity}^{c}{ \vec E \cdot d \vec l} 
           \int\limits_{c}^{b}{ \vec E \cdot d \vec l} 
           \int\limits_{b}^{a}{ \vec E \cdot d \vec l} 
-          \int\limits_{a}^{0}{ \vec E \cdot d \vec l} \]
+          \int\limits_{a}^{0}{ \vec E \cdot d \vec l}\right) \]
 
 * \[V_0 =\]

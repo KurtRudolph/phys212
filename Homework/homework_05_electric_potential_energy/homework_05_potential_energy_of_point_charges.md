@@ -53,6 +53,8 @@ energy now if charge \[q_1\] is moved from point \[P\] to point \[R\]?
   = \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \cos{ (\theta_R)\right)
   - \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_1}\right) \cos{ (\theta_P)\right)
   = -.918373\]
+      * Somehow I got this problem correct even though I wasn't using the radius from using the similar side rather than the hypotenous of the triangle
+
 
 ## 3)
 [[potential_energy_of_point_charges_q3.png]]

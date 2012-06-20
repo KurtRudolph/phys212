@@ -74,8 +74,8 @@ potential energy to be zero at infinity.
   * \[a = 2.2 cm = .022 m\]
   * \[\theta_P = \arctan{ \left(\frac{ a}{ d_1}\right)}\]
   * \[\theta_R = \arctan{ \left(\frac{ a}{ d_2}\right)}\]
-
-* \[U_{R} 
+  * \[h = \sqrt{ a^2 + d_2^2}\]
+  * \[U_{R} 
   =\sqrt{ \left(\left(\frac{ q_3 q_4}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ 2 a}\right)\right)
   - \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \sin{ (\theta_R)}\right)\right)^2
   + \left(\left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \cos{ (\theta_R)}\right)\right)^2}

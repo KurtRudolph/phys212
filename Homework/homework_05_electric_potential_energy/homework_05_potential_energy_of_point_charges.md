@@ -11,4 +11,14 @@ What is \[\Dleta U_{P R}\], the change in potenial energy of charge \[q_1\] when
 it is moved from point \[P\] to point \[R\], located a distance \[d_2 = 3.7 cm\]
  from the origin along the \[x\]-axis as shown?
 
-* 
+* Given 
+  * \[\vec F_E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ Q q}{ r^2}\hat{ r} \rightarrow \Delta U_{A B} = \frac{ Q q}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ r_B} - \frac{ 1}{ r_A}\right)\]
+
+* Let
+  * \[q_1 = 2.5 \mu C\]
+  * \[q_2 = -3.2 \mu C\]
+  * \[d_1 = 9.3 cm = .093 m\]
+  * \[d_2 = 3.7 cm = .037 m\]
+
+* \[\Delta U_{P R} = \]
+  

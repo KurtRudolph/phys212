@@ -24,5 +24,13 @@ it is moved from point \[P\] to point \[R\], located a distance \[d_2 = 3.7 cm\]
   = \frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2} - \frac{ 1}{ d_1}\right)
   = -1.17069\]
 
-## 
+## 2)
+
+[[potential_energy_of_point_charges_q2.png]]
+
+
+The charge q2 is now replaced by two charges \[q_3\] and \[q_4\] which each have a magnitude 
+of \[-1.6 \mu C\], half of that of \[q_2\]. The charges are located a distance \[a = 2.2 cm\] 
+from the oringin along the \[y\]-axis as shown. What is \[\Delta U_{P R}\], the change in potential 
+energy now if charge \[q_1\] is moved from point \[P\] to point \[R\]?
   

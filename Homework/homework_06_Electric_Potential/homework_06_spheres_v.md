@@ -30,7 +30,7 @@ potential at the center of the metal sphere, given the potential at infinity is 
   * \[\int\limits_{a}^{0}{ \vec E \cdot d \vec l} = 0\]
 * \[V = -\left(
     \int\limits_{\infty}^{c}{ k \frac{ Q_{out}}{ r^2} dr}
-    \int\limits_{b}^{a}{ k \frac{ Q_{in}}{ r^2}}\right)\]
+    \int\limits_{b}^{a}{ k \frac{ Q_{in}}{ r^2} dr}\right)\]
 
 
 * Hints

@@ -14,7 +14,7 @@ potential at the center of the metal sphere, given the potential at infinity is 
 * Hints
   * \[V = kQ/r\] cannot be used directly here. We need to start with an expression for \[V\] which is always true.
       * Despite the spherical symmetery, since we are interested in the potential inside 
-        the charge distribution, we cannot use \[V = k \frac{ Q}{ r}. 
+        the charge distribution, we cannot use \[V = k \frac{ Q}{ r}\]. 
   * Coulomb's law is always true, but the calculation would be difficult for this problem. We can use the spherical symmetry to significantly reduce our work.
   * The spherical symmetry of the problem lets us use the result 
     from Gauss' law. \[E = k \frac{ Q_{enclosed}}{ r_2}

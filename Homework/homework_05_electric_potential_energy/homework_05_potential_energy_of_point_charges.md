@@ -45,8 +45,8 @@ energy now if charge \[q_1\] is moved from point \[P\] to point \[R\]?
   * \[d_1 = 9.3 cm = .093 m\]
   * \[d_2 = 3.7 cm = .037 m\]
   * \[a = 2.2 cm = .022 m\]
-  * \[\theta_P = \arctan{ \left(\frac{ a}{ d_1}\]
-  * \[\theta_R = \arctan{ \left(\frac{ a}{ d_2}\]
+  * \[\theta_P = \arctan{ \left(\frac{ a}{ d_1}\right)}\]
+  * \[\theta_R = \arctan{ \left(\frac{ a}{ d_2}\right)}\]
 
 
 * \[\Delta U_{P R} 

@@ -18,7 +18,7 @@ potential at the center of the metal sphere, given the potential at infinity is 
   * \[Q_{out} = 2 n C\]
 
 * \[V = -\left(
-    \int\limits_{\infity}^{c}{ \vec E \cdot d \vec l} 
+    \int\limits_{\infty}^{c}{ \vec E \cdot d \vec l} 
     \int\limits_{c}^{b}{ \vec E \cdot d \vec l} 
     \int\limits_{b}^{a}{ \vec E \cdot d \vec l} 
     \int\limits_{a}^{0}{ \vec E \cdot d \vec l}\right) \]
@@ -39,7 +39,7 @@ potential at the center of the metal sphere, given the potential at infinity is 
       * Outside the spherical shell \[r > c\]
   * Determine the potential at the origin you need to evaluate
       * \[V = -\left(
-          \int\limits_{\infity}^{c}{ \vec E \cdot d \vec l} 
+          \int\limits_{\infty}^{c}{ \vec E \cdot d \vec l} 
           \int\limits_{c}^{b}{ \vec E \cdot d \vec l} 
           \int\limits_{b}^{a}{ \vec E \cdot d \vec l} 
           \int\limits_{a}^{0}{ \vec E \cdot d \vec l}\right) \]

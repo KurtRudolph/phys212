@@ -7,7 +7,7 @@ the origin along the \[x\]-axis
 [[potential_energy_of_point_charges.png]]
 
 ## 1)
-What is \[\Dleta PE\], the change in potenial energy of charge \[q_1\] when 
+What is \[\Dleta U_{P R}\], the change in potenial energy of charge \[q_1\] when 
 it is moved from point \[P\] to point \[R\], located a distance \[d_2 = 3.7 cm\]
  from the origin along the \[x\]-axis as shown?
 

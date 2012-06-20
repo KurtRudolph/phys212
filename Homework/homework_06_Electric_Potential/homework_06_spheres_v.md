@@ -18,5 +18,16 @@ potential at the center of the metal sphere, given the potential at infinity is 
   * Coulomb's law is always true, but the calculation would be difficult for this problem. We can use the spherical symmetry to significantly reduce our work.
   * The spherical symmetry of the problem lets us use the result 
     from Gauss' law. \[E = k \frac{ Q_{enclosed}}{ r_2}
+  * Divid the problem in four seperate regions
+      * Inside the sphere \[r < a\]
+      * Between the sphere and the shell \[a < r < b\]
+      * Inside the sphereical shell \[b < r < c\]
+      * Outside the spherical shell \[r > c\]
+  * Determine the potential at the origin you need to evaluate
+      * \[V = -\left(
+          \int\limits_{\infity}^{c}{ \vec E \cdot d \vec l} 
+          \int\limits_{c}^{b}{ \vec E \cdot d \vec l} 
+          \int\limits_{b}^{a}{ \vec E \cdot d \vec l} 
+          \int\limits_{a}^{0}{ \vec E \cdot d \vec l} \]
 
 * \[V_0 =\]

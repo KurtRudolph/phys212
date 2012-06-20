@@ -53,7 +53,7 @@ energy now if charge \[q_1\] is moved from point \[P\] to point \[R\]?
   = \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \cos{ (\theta_R)\right)
   - \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_1}\right) \cos{ (\theta_P)\right)
   = -.918373\]
-      * Somehow I got this problem correct even though I wasn't using the radius from using the similar side rather than the hypotenous of the triangle
+      * Somehow I got this problem correct even though I wasn't using the radius from using the similar side rather than the hypotenous of the triangle.
 
 
 ## 3)
@@ -78,8 +78,9 @@ potential energy to be zero at infinity.
   * \[\theta_R = \arctan{ \left(\frac{ a}{ d_2}\right)}\]
   * \[h = \sqrt{ a^2 + d_2^2}\]
   * \[U_{R} 
-  =\sqrt{ \left(\left(\frac{ q_3 q_4}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ 2 a}\right)\right)
-  - \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \sin{ (\theta_R)}\right)\right)^2
-  + \left(\left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ d_2}\right) \cos{ (\theta_R)}\right)\right)^2}
+    = \sqrt{ 
+        \left(\left(\frac{ q_3 q_4}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ 2 a}\right)\right)
+    - \left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ h}\right) \sin{ (\theta_R)}\right)\right)^2
+  + \left(\left(\frac{ q_1 q_2}{ 4 \pi \varepsilon_0} \left(\frac{ 1}{ h}\right) \cos{ (\theta_R)}\right)\right)^2}
   = \]
 

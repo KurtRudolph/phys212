@@ -66,3 +66,8 @@ device remains the same.
 How does \[d_1\] compare to \[d_0\]?
 
 [[images/prelecture_08_q2.png]]
+
+* \[d_1 = \frac{ d_0}{ 2}\]
+  * Removing the dielectric reduces the capacitance by a factor 
+    of 2. To increase this back to its original value, the spacing 
+    between the plates must be decreased by the same factor of 2.

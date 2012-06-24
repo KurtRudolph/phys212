@@ -18,4 +18,12 @@
   * \[C = \frac{ Q}{ \Delta V} = \frac{ \varepsilon_0 A}{ d}\] decreases
   * \[U\] increases
       * \[W_{byField}\] is negative
-      * \[\Delta U = - W_{vyField}\] is positve
+      * \[\Delta U = - W_{byField}\] is positve
+
+
+## Question 1
+Two parallel plates have length \[a\] and width \[b\] and are separated by 
+\[a\] distance \[d\] (which is much smaller than \[a\] and \[b\]). If all 
+of the dimensions are doubled, how does the capacitance of the system change?
+
+[[images/prelecture_08_q1.png]]

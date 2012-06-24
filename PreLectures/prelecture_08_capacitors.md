@@ -81,3 +81,49 @@ How does \[d_1\] compare to \[d_0\]?
       * The reason we added the dielectric in the first place
   * \[V_C = V_b\] remains constant 
   * \[Q = V_C C \]
+  * \[U = \frac{ 1}{ 2} Q V_C\] increases
+  * All energy must be provided by the battery
+
+## Capacitors in Parallel
+  
+* \[V_{equivalent} = V_1 = V_2\]
+* \[C_{equivalent} = C_1 + C_2\]
+* \[Q_{equivalent} = Q_1 + Q_2\]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

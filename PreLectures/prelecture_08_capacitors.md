@@ -27,3 +27,10 @@ Two parallel plates have length \[a\] and width \[b\] and are separated by
 of the dimensions are doubled, how does the capacitance of the system change?
 
 [[images/prelecture_08_q1.png]]
+
+* The capacitance increases by a factor of 2
+  * The capacitance of a parallel-plate system is proportional to the area 
+    of the plates divided by the distance between them, which in this case 
+    equals \[\frac{ a b}{ d}\]. If \[a\], \[b\] and \[d\] are all doubled 
+    this becomes \[ frac{ 2 a 2 b}{ 2d} = \frac{ 2 a b}{ d}, which is twice 
+    as big as before.

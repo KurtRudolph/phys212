@@ -91,6 +91,8 @@ How does \[d_1\] compare to \[d_0\]?
 * \[Q_{equivalent} = Q_1 + Q_2\]
 
 
+[[images/prelecture_08_capacitors_in_parallel.png]]
+
 
 
 

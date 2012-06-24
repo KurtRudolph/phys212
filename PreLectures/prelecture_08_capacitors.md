@@ -34,3 +34,23 @@ of the dimensions are doubled, how does the capacitance of the system change?
     equals \[\frac{ a b}{ d}\]. If \[a\], \[b\] and \[d\] are all doubled 
     this becomes \[ \frac{ 2 a 2 b}{ 2d} = \frac{ 2 a b}{ d}\], which is twice 
     as big as before.
+
+## Dielectrics
+* So far we have discussed two types of materials
+  * Conductors
+      * Electrons are free to move
+  * Insulators
+      * Electrons do not move
+
+* Dielectric
+  * An insulating material in which the distribution of the
+    charges within individual molecules is able to be modified
+    by an applied electric field.
+  * By inserting a dielectric material between the plates of
+    a capacitor you end up with
+      * \[E\] decreases
+      * \[V\] decreases
+      * \[C\] increases
+  * The factor by which the capacitance increases is called the
+    dielectric constant.
+      * \[C_{new} = \kappa C_{original}\]

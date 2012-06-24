@@ -78,3 +78,6 @@ How does \[d_1\] compare to \[d_0\]?
 
 * Dielectric Added
   * \[C = \kappa C_0\] increases
+      * The reason we added the dielectric in the first place
+  * \[V_C = V_b\] remains constant 
+  * \[Q = V_C C \]

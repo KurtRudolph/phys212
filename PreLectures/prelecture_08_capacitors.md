@@ -95,8 +95,12 @@ How does \[d_1\] compare to \[d_0\]?
 [[images/prelecture_08_capacitors_in_parallel.png]]
 
 
+## Capacitors in Series
 
-
+* Capacitors in Series
+  * \[Q_{equivalent} = Q_1 = Q_2\]
+  * \[V_{equivalent} = V_1 + V_2\]
+  * \[\frac{ 1}{ C_{equivalent}} = \frac{ 1}{ C_1} + \frac{ 1}{ C_2}\]
 
 
 

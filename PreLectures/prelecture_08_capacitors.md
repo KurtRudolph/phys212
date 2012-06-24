@@ -71,3 +71,10 @@ How does \[d_1\] compare to \[d_0\]?
   * Removing the dielectric reduces the capacitance by a factor 
     of 2. To increase this back to its original value, the spacing 
     between the plates must be decreased by the same factor of 2.
+
+## Capacitors and Dielectrics
+
+[[images/prelecture_08_capacitors_and_dielectrics.png]]
+
+* Dielectric Added
+  * \[C = \kappa C_0\] increases

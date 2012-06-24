@@ -54,3 +54,15 @@ of the dimensions are doubled, how does the capacitance of the system change?
   * The factor by which the capacitance increases is called the
     dielectric constant.
       * \[C_{new} = \kappa C_{original}\]
+
+## Question 2
+
+Two parallel plates are separated by a gap \[d_0\] filled with 
+a dielectric material having \[\kappa = 2\]. Suppose you remove 
+the dielectric material and you also change the spacing of the 
+plates to a new value \[d_1\] such that the capacitance of the 
+device remains the same.
+
+How does \[d_1\] compare to \[d_0\]?
+
+[[images/prelecture_08_q2.png]]

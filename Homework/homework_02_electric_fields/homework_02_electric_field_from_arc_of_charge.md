@@ -23,6 +23,8 @@ field at the origin \[(x, y) = (0,0)\] ?
 
 need to use \[\vec E = \int{ \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ \hat r}{ r^2} dq}\] and convert it to polar coodinates \[\lambda r f \theta\]
 
+\[\int{ \frac{ k}{ a^2} \hat r d q} = \int\limits_0^{frac{ \pi}{ 2}{ \frac{ k}{ a^2} \left( -\hat x \cos \theta - \hat y \sin \theta) \frac{ 2q}{\pi a}\]
+
 
 # 3)
 What is \[E_y\], the value of the \[y\]-component of the 

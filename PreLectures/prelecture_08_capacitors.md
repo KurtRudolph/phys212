@@ -88,7 +88,9 @@ How does \[d_1\] compare to \[d_0\]?
   
 * \[V_{equivalent} = V_1 = V_2\]
 * \[C_{equivalent} = C_1 + C_2\]
-  * \[C_{equivalent} = \frac{ \varepsilon_0 A_{equivalent}}{ d} = \frac{ \varepsilon_0 (A_1 + A_2)}{ d} = C_1 + C_2\] 
+  * \[C_{equivalent} 
+    = \frac{ \varepsilon_0 A_{equivalent}}{ d} 
+    = \frac{ \varepsilon_0 (A_1 + A_2)}{ d} = C_1 + C_2\] 
 * \[Q_{equivalent} = Q_1 + Q_2\]
 
 
@@ -101,14 +103,29 @@ How does \[d_1\] compare to \[d_0\]?
   * \[Q_{equivalent} = Q_1 = Q_2\]
   * \[V_{equivalent} = V_1 + V_2\]
   * \[\frac{ 1}{ C_{equivalent}} = \frac{ 1}{ C_1} + \frac{ 1}{ C_2}\]
-      * \[\frac{ 1}{ C_{equivalent}} = \frac{ 1}{ C_1} + \frac{ 1}{ C_2} \equiv \frac{ Q_{equivalent}}{ C_{equivalent}} = \frac{ Q_1}{ C_1} + \frac{ Q_1}{ C_2}\]
-      * \[\frac{ 1}{ C_{equivalent}} = \frac{ d_1}{ \varepsilon_0 A } \frac{ d_2}{ \varepsilon_0 A} = \frac{ 1}{ C_1} + \frac{ 1}{ C_2}\]
+      * \[\frac{ 1}{ C_{equivalent}} 
+          = \frac{ 1}{ C_1} + \frac{ 1}{ C_2} \equiv \frac{ Q_{equivalent}}{ C_{equivalent}} 
+          = \frac{ Q_1}{ C_1} + \frac{ Q_1}{ C_2}\]
+      * \[\frac{ 1}{ C_{equivalent}} 
+        = \frac{ d_1}{ \varepsilon_0 A } \frac{ d_2}{ \varepsilon_0 A} 
+        = \frac{ 1}{ C_1} + \frac{ 1}{ C_2}\]
 
 
 [[images/prelecture_08_capacitors_in_series.png]]
 
+## Question 3
+Suppose you have two identical capacitors, each having capacitance 
+\[C\]. \[C_{max}\] is the biggest possible equivalent capacitance 
+that can be made by combining these two, and \[C_{min}\] is the smallest.
 
+How does \[C_{max}\] compare to \[C_{min}\]?
 
+* \[C_{max} = 4 C_{min}\]
+  * \[C_{max} is made by hooking the capacitors up in parallel, so \[C_{max} = 2C\]. 
+    \[C_{min}\] is made by hooking the capacitors up in series, 
+    so \[\frac{ 1}Cmin = \[frac{ 1}{ C} + \frac{ 1}{ C}\], 
+    which we solve to find \[C_{min} = \frac{ C}{ 2}\].
+    \[C_{max}\] is therefore four times as big as \[C_{min}\].
 
 
 

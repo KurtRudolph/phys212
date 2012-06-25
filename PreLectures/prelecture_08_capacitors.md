@@ -123,7 +123,7 @@ How does \[C_{max}\] compare to \[C_{min}\]?
 * \[C_{max} = 4 C_{min}\]
   * \[C_{max}\] is made by hooking the capacitors up in parallel, so \[C_{max} = 2C\]. 
     \[C_{min}\] is made by hooking the capacitors up in series, 
-    so \[\frac{ 1}{ C_{min} = \[frac{ 1}{ C} + \frac{ 1}{ C}\], 
+    so \[\frac{ 1}{ C_{min}} = \[frac{ 1}{ C} + \frac{ 1}{ C}\], 
     which we solve to find \[C_{min} = \frac{ C}{ 2}\].
     \[C_{max}\] is therefore four times as big as \[C_{min}\].
 

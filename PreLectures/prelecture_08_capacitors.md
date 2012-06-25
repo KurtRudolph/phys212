@@ -133,7 +133,9 @@ How does \[C_{max}\] compare to \[C_{min}\]?
 
 [[images/prelecture_08_example_combination_of_capacitors.png]]
 * Capacitors in parallel have the same voltage
-
+  * \[V_1 = V_{23} = 12 V\]
+  * \[Q_1 = C_1 V_1\]
+  * \[Q_23 = C_{23} V_{23}\]
 
 
 

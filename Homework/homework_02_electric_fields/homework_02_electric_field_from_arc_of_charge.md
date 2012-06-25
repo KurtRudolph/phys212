@@ -23,7 +23,7 @@ field at the origin \[(x, y) = (0,0)\] ?
 
 need to use \[\vec E = \int{ \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ \hat r}{ r^2} dq}\] and convert it to polar coodinates \[\lambda r f \theta\]
 
-\[\int{ \frac{ k}{ a^2} \hat r d q} = \int\limits_0^{frac{ \pi}{ 2}{ \frac{ k}{ a^2} \left( -\hat x \cos \theta, -\hat y \sin \theta\right) \frac{ 2q}{\pi a} a d \theta}\]
+\[\int{ \frac{ k}{ a^2} \hat r d q} = \int\limits_0^{frac{ \pi}{ 2}}{ \frac{ k}{ a^2} \left( -\hat x \cos \theta, -\hat y \sin \theta\right) \frac{ 2q}{\pi a} a d \theta}\]
 
 \[= \frac{ k}{ a^2} \frac{ 2q}{ \pi}( -\hat x -\hat y) = \frac{ k}{ a^2} \frac{ 2^{\frac{ 3}{ 2}} q}{ \pi} \left( \frac{ -\hat x}{ \sqrt{ 2}}, \frac{ -\hat y}{ \sqrt{ 2}}\right)\]
 

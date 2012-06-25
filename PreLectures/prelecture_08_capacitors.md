@@ -102,7 +102,7 @@ How does \[d_1\] compare to \[d_0\]?
   * \[V_{equivalent} = V_1 + V_2\]
   * \[\frac{ 1}{ C_{equivalent}} = \frac{ 1}{ C_1} + \frac{ 1}{ C_2}\]
       * \[\frac{ 1}{ C_{equivalent}} = \frac{ 1}{ C_1} + \frac{ 1}{ C_2} \equiv \frac{ Q_{equivalent}}{ C_{equivalent}} = \frac{ Q_1}{ C_1} + \frac{ Q_1}{ C_2}\]
-
+      * \[\frac{ 1}{ C_{equivalent}} = \frac{ d_1}{ \varepsilon_0 A } \frac{ d_2}{ \varepsilon_0 A} = \frac{ 1}{ C_1} \frac{ 1}{ C_2}\]
 
 
 

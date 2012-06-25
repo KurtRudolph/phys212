@@ -121,7 +121,7 @@ that can be made by combining these two, and \[C_{min}\] is the smallest.
 How does \[C_{max}\] compare to \[C_{min}\]?
 
 * \[C_{max} = 4 C_{min}\]
-  * \[C_{max} is made by hooking the capacitors up in parallel, so \[C_{max} = 2C\]. 
+  * \[C_{max}\] is made by hooking the capacitors up in parallel, so \[C_{max} = 2C\]. 
     \[C_{min}\] is made by hooking the capacitors up in series, 
     so \[\frac{ 1}Cmin = \[frac{ 1}{ C} + \frac{ 1}{ C}\], 
     which we solve to find \[C_{min} = \frac{ C}{ 2}\].

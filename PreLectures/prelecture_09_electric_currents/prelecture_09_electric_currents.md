@@ -27,3 +27,4 @@
   * \[J \propto E\]
     * \[J = \sigma E\], where \[\sigma\] is the conductivity 
       of the material
+  * \[v_{drift} = \frac{ \sigma}{ n_e e } E\]

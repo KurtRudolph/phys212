@@ -24,3 +24,6 @@
     conduction electrons per unit volume, \[e\] is the charge 
     on a single electron, \v_{drift} is the average volocity 
     of the conduction electrons
+  * \[J \propto E\]
+    * \[J = \sigma E\], where \[\sigma\] is the conductivity 
+      of the material

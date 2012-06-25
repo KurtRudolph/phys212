@@ -130,6 +130,7 @@ How does \[C_{max}\] compare to \[C_{min}\]?
 
 
 ## Example: Combination of Capacitors
+[images/prelecture_08_example_combination_of_capacitors_1.png]]
 
 [[images/prelecture_08_example_combination_of_capacitors.png]]
 * Capacitors in parallel have the same voltage
@@ -139,8 +140,8 @@ How does \[C_{max}\] compare to \[C_{min}\]?
 
 
 
-
-
+## Summary: The main ideas
+[[images/prelecture_08_Summary_the_main_ideas.png]]
 
 
 

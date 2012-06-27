@@ -73,4 +73,22 @@ How do their resistances compare?
 * and it follows 
 * \[R_{equivelent} = \rho \frac{ L_1 + L_2}{ A}\]
 
+## Qurestion 2
+
+Two resistors, one having half the resistance of the other, are 
+connected to a battery as shown. 
+
+[[q2.png]]
+
+What is the voltge across the bigger resistor?
+
+* \[ \frac{ 2 V_B}{ 3}\]
+  * Since the current through both resistors is the same, and 
+    since Ohm's Law \[V = I R\] is true for each one, we know 
+    that the voltage agross the bigger resistor is twice as big 
+    as the voltage across the smaller one. This means that the 
+    voltage across the bigger resistor is two thirds of \[V B\] 
+    and the voltage across the smaller resistor is one third 
+    of \[V B\].
+
   

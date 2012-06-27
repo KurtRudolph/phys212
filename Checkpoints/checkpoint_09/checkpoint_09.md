@@ -52,3 +52,16 @@ Compare the current through R1 with the current through R2:
 Compare the the voltage across R1 with the voltage across R2.
 
 * \[ V_1 = 2 V_2 = V\]
+
+
+## Current Density
+The SAME amount of current \[I\] passes through three different 
+resistors. \[R_2\] has twice the cross-sectional area and the same 
+length as \[R_1\], and \[R_3\] is three times as long as \[R_1\] 
+but has the same cross-sectional area as \[R_1\].
+
+[[current_density.png]]
+
+In which case is the CURRENT DENSITY through the resistor the smallest?
+
+* Case 2

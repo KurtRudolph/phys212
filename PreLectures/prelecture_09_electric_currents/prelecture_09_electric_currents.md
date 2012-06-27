@@ -33,3 +33,10 @@
       * directed towrd the positive end of the battery
 
 [[current_quantitative_description.png]]
+
+## Resistance
+
+[[resistance.png]]
+* \[J = \sigma \frac{ V}{ L}\]
+* \[J \equiv \frac{ I}{ A} = \sigma \frac{ V}{ L}\]
+

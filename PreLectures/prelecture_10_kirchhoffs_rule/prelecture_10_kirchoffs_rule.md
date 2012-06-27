@@ -90,3 +90,15 @@
       * \[I_3 R_3 + V_2 + I_1 R_1 - V_1 = 0\] outer loop
       * \[-I_2 R_2 + I_1 R_1 - V_1 = 0\]
       * [[two_loop_circuit_1.png]]
+
+## Question 1
+Consider the circuit shown above. Which of the following statements 
+best describes the current flowing in the blue wire connecting 
+points \[a\] and \[b\].
+
+[[q1.png]]
+
+* No current flows between \[a\] and \[b\]
+  * Because the halves of the circuit above and below the blue wire are identical, the voltage at a (and hence also at b) is just half the voltage of the battery. This means that the current in the upper resistor labeled R is the same as the current in the lower resistor labeled R, which by Kirchhoff's Current Rule tells us that the current in the blue wire itselfmust be zero. Exactly the same argument can be made at point b.
+
+

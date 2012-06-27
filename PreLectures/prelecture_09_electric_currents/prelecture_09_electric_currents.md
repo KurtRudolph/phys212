@@ -91,4 +91,24 @@ What is the voltge across the bigger resistor?
     and the voltage across the smaller resistor is one third 
     of \[V B\].
 
+## Resistors in Parallel
   
+[[/resistors_in_parallel.png]]
+
+* Cruuent leaving a battery must split into the two resistors
+  * \[I = I_1 + I_2\]
+  * What determines how much current goes through each of the 
+    resistors is each of the resistors have an equal voltage drop
+      * \[V_b = V_1 = V_2\]
+  * Hence \[I_b = \frac{ V_b}{ R_1} + \frac{ V_b}{ R_2}\]
+
+* \[\frac{ 1}{ R_{equivelent} = \frac{ 1}{ R_1} + \frac{ 1}{ R_2}\]
+* \[I_{equivelent} = I_1 + I_2\]
+* \[V_{equivelent} = V_1 = V_2\]
+
+## Comparison with Capacitors
+
+* \[C_{series} = \frac{ 1}{ C_1} + \frac{ 1}{ C_2}\]
+* \[R_{serire} = R_1 + R_2\]
+* \[C_{parallel} = C_1 + C_2\]
+* \[R_{Parallel} = \frac{ 1}{ R_1} + \frac{ 1}{ R_2}\]

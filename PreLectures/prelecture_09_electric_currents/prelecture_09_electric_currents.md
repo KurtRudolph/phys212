@@ -38,5 +38,9 @@
 
 [[resistance.png]]
 * \[J = \sigma \frac{ V}{ L}\]
-* \[J \equiv \frac{ I}{ A} = \sigma \frac{ V}{ L}\]
-
+* Since 
+  * \[J \equiv \frac{ I}{ A} = \sigma \frac{ V}{ L}\]
+  * \[R \equiv \frac{ V}{ I}\]
+* We find 
+  * \[R = \frac{ 1}{ \sigma} \frac{ L}{ A}\]
+  * \[R = \rho \frac{ L}{ A}\]

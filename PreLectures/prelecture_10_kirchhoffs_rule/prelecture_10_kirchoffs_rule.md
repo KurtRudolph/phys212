@@ -107,4 +107,32 @@ points \[a\] and \[b\].
     tells us that the current in the blue wire it self must be zero. 
     Exactly the same argument can be made at point \[b\].
 
+## Real Batteries
+* Thus for we have considered batteries to be ideal, i.e. we have assumed
+  that batteries produce a constant potential difference across their
+  terminals independent of the current being drawn.
+* Now we will consider real batteries where the voltage across the terminals
+  can decrease if a large enough current is being drawn from the battery.
+* Example
+  * [[battery_and_current.png]]
+  * \[I = \frac{ V_0}{ R + r} \]
+      * EMF of the battery divided by the total resistance.
+  * In turn the voltage which appears at the terminals is as follows
+      * \[V_b = V_0 - I r\]
+      * \[V_b = V_0 - \frac{ V_0 r}{ R + r}\]
+      * \[V_b = V_0 \frac{ \frac{ R}{ r}}{ 1 + \frac{ R}{ r}}\]
 
+
+## Question 2
+The 'real' batteries and the resistors in both cases illustrated above 
+are identical. In which case is the voltage across the terminals of 
+the battery closest to the ideal battery voltage \[V_0\]?
+[[q2.png]]
+
+*  The voltage across the terminals of the battery is closest to ideal in _Case A_
+  * The current supplied by the battery in _Case A_ is smaller than in _Case B_ 
+    since the resistance of the external load in _Case A_ is twice as big as in 
+    _Case B_. If the current supplied by the battery is smaller, the voltage drop 
+    across the internal resistance of the battery will also be smaller, and hence 
+    the voltage across the terminals of the battery will be closer to the ideal 
+    battery voltage.

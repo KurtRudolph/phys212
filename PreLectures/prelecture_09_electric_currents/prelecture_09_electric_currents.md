@@ -112,3 +112,32 @@ What is the voltge across the bigger resistor?
 * \[R_{serire} = R_1 + R_2\]
 * \[C_{parallel} = C_1 + C_2\]
 * \[R_{Parallel} = \frac{ 1}{ R_1} + \frac{ 1}{ R_2}\]
+
+## Power
+[[power.png]]
+* \[P = I V\] or \[P = I^2 R\]
+  * \[P = \frac{ d U}{ d t}\]
+  * \[d U = dq V\]
+      * \[d q = I d t\]
+  * \[d U = I d t V\]
+  * \[P = \frac{ d U}}{ d t} = I V\]
+      * Valid for any device which \[I\] flows accross a 
+        potential difference \[V\]
+* SI Unit is the _Watt_ which is equal to _Volt-Apere_
+  * \[W = V A\]
+
+## Summary
+* Electric Current
+  * \[I \equiv \frac{ d q}{ d t}\]
+* Ohm's Law
+  * \[J = \sigma E\]
+      * where \[\sigma\] is conductivity
+  * \[V = I R\]
+      * found by characiterizing the resistance 
+        \[R = \frac{ 1}{ \sigma} \frac{ L}{ A}\]
+* Resistors in series
+  * \[R_{serire} = R_1 + R_2\]
+* Resistors in parallel
+  * \[R_{Parallel} = \frac{ 1}{ R_1} + \frac{ 1}{ R_2}\]
+* Power
+  * \[P = I V\]

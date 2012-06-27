@@ -75,7 +75,18 @@
   * As we move around the loop from point a to point b 
     we encounter a voltage drop.  Which is equal to the 
     product of the current and the resistance.
-    * \[\Delta V_{R_1} = + I R_1\]
-    * \[\Delta V_{R_2} = + I R_2\]
-    * \[\DELTA V_{batter} = - V_b\]
-    * Hence \[\sum \Delta V_n = I R_1 + I R_2 + (- V_b) = 0\]
+      * \[\Delta V_{R_1} = + I R_1\]
+      * \[\Delta V_{R_2} = + I R_2\]
+      * \[\DELTA V_{batter} = - V_b\]
+      * Hence \[\sum \Delta V_n = I R_1 + I R_2 + (- V_b) = 0\]
+      * As expected we find that \[I = \frac{ V_b}{ R_1 + R_2}\]
+            * This follows that the direction is clockwise.
+
+## Two loop example
+* We now look at a two loop example. 
+  * [[two_loop_circuit.png]]
+  * Analyzing the loops we find three equations and three unknowns.
+      * \[I_1 + I_2 = I 3\] kirchoff's current rule
+      * \[I_3 R_3 + V_2 + I_1 R_1 - V_1 = 0\] outer loop
+      * \[-I_2 R_2 + I_1 R_1 - V_1 = 0\]
+      * [[two_loop_circuit_1.png]]

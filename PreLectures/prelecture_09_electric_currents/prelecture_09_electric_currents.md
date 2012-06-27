@@ -44,3 +44,20 @@
 * We find 
   * \[R = \frac{ 1}{ \sigma} \frac{ L}{ A}\]
   * \[R = \rho \frac{ L}{ A}\]
+
+# Question 1
+Two cylindrical resistors are made from the same material. 
+The shorter one has length \[L\] and diamater \[D\]. The longer 
+one has length \[16L\] and diameter \[4D\].
+
+How do their resistances compare?
+
+[[q1.png]]
+
+* The resistance of the longer one is the same as the 
+  resisitance of the shorter one.
+  * The resistance of each is proportional to its length 
+    divided by its area. Since the longer one has 16 times 
+    the length but also has 16 times the area 
+    (i.e. four times the diameter), its overall resistance 
+    is the same as the shorter one.

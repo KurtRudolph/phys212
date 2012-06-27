@@ -99,6 +99,12 @@ points \[a\] and \[b\].
 [[q1.png]]
 
 * No current flows between \[a\] and \[b\]
-  * Because the halves of the circuit above and below the blue wire are identical, the voltage at a (and hence also at b) is just half the voltage of the battery. This means that the current in the upper resistor labeled R is the same as the current in the lower resistor labeled R, which by Kirchhoff's Current Rule tells us that the current in the blue wire itselfmust be zero. Exactly the same argument can be made at point b.
+  * Because the halves of the circuit above and below the blue wire 
+    are identical, the voltage at \[a\] (and hence also at \[b\]) is 
+    just half the voltage of the battery. This means that the current 
+    in the upper resistor labeled R is the same as the current in the 
+    lower resistor labeled \[R\], which by Kirchhoff's Current Rule 
+    tells us that the current in the blue wire it self must be zero. 
+    Exactly the same argument can be made at point \[b\].
 
 

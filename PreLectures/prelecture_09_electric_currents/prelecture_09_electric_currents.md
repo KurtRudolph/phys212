@@ -61,3 +61,16 @@ How do their resistances compare?
     the length but also has 16 times the area 
     (i.e. four times the diameter), its overall resistance 
     is the same as the shorter one.
+
+# Resistors in Series
+[[/resistors_in_series.png]]
+
+* Resistors in series are equivelent to one large resistor where
+  * \[R_{equivelent} = R_1 + R_2\]
+  * \[L_{equivelent} = L_1 + L_2\]
+  * \[I_{equivelent} = I_1 + I_2\]
+  * \[V_{equivelent} = V_1 + V_2\]
+* and it follows 
+* \[R_{equivelent} = \rho \frac{ L_1 + L_2}{ A}\]
+
+  

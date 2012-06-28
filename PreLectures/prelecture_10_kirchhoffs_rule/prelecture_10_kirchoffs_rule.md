@@ -136,3 +136,10 @@ the battery closest to the ideal battery voltage \[V_0\]?
     across the internal resistance of the battery will also be smaller, and hence 
     the voltage across the terminals of the battery will be closer to the ideal 
     battery voltage.
+
+## Summary
+* Kirchoff's Rules
+  * Voltage Rule \[\sum \Delta V_n = 0\]
+      * any closed loop
+  * Current Rule \[\sum I_{in} = \sum I_{out}
+      * at any node

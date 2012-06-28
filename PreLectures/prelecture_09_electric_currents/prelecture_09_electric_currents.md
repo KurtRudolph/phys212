@@ -63,7 +63,7 @@ How do their resistances compare?
     is the same as the shorter one.
 
 # Resistors in Series
-[[/resistors_in_series.png]]
+[[/images/resistors_in_series.png]]
 
 * Resistors in series are equivelent to one large resistor where
   * \[R_{equivelent} = R_1 + R_2\]
@@ -93,7 +93,7 @@ What is the voltge across the bigger resistor?
 
 ## Resistors in Parallel
   
-[[/resistors_in_parallel.png]]
+[[/images/resistors_in_parallel.png]]
 
 * Cruuent leaving a battery must split into the two resistors
   * \[I = I_1 + I_2\]

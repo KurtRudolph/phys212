@@ -19,7 +19,7 @@
 * We saw last time in the circuit with just a battery and a capacitor that
   * \[V_b = V_c\]
   * \[q = C V_C\]
-  * [[capacitor_only.png]]
+  * [[capcitor_only.png]]
   * This was viewed as being charged instantaniously after the battery was connected to it.
 * We now look at adding a resistor to the circuit.
   * [[qualitative_circuit.png]]

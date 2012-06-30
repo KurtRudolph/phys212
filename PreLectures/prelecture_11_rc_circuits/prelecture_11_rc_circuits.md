@@ -70,9 +70,7 @@ move across the gap between the plates. How can we explain this apparent paradox
           * \[IR + \frac{ q}{ C} - V_b = 0\]
           * \[R \frac{ d q}{ d t} + \frac{ 1}{ C} q - v_b = 0\]
           * exponentail function \[q( t) \prop e^{-a t}\]
-          * \[ q( 0) = 0\] and \[ q( \infty) = C V_b\]
+          * \[q( 0) = 0\] and \[ q( \infty) = C V_b\]
       * \[I( t) = \frac{ V_b}{ R} e^{ -t}{ R C}\]
           * \[I = \frac{ d q}{ d t} = C V_b (-e^{\frac{ -t}{ RC}) \left(-\frac{ 1}{ RC}\right)\]
-      
-  
-
+          * \[I( 0) = \frac{ V_b}{ R}\] and \[I( \infty) = 0\]

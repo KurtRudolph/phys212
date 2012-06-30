@@ -98,3 +98,6 @@ move across the gap between the plates. How can we explain this apparent paradox
       * \[q( t) = q_0 e^{ \frac{ -t}{ R C}}\]
       * \[I( t) = \frac{ V_b}{ R} e^{\frac{ -t}{ R C}}\]
       * \[I( t) = -\frac{ q_0}{ R C} e^{\frac{ -t}{ R C}\]
+
+## Power in a RC Circuit
+* Previously we loo

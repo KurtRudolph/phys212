@@ -114,4 +114,16 @@ move across the gap between the plates. How can we explain this apparent paradox
           * \[U_C( t) = \frac{ 1}{ 2} \frac{ q^2}{ C} = \frac{ 1}{ 2} \frac{ q_0^2}{ C} (1 - e^{\frac{ -t}{ RC}})^2\]
                 * The rate at which the capacitor is storing power
       * \[P_C( t) = V_C( t) I( t) = \frac{ q( t)}{ C} I( t) = \left[\frac{ q_0}{ C}(1 - e^{\frac{ -t}{ R C}}\right] \left[I_0 e^{\frac{ -t}{ R C}}\right]\]
-      
+
+## Summary
+* We applied Kirchoff's voltage rule as a time dependent differential equation.
+  * Kirchhoff's Rules
+      * Voltage Rule \[\sum \Delta V_n = 0\]
+      * Current Rule \[\sum I_{in} = \sum I_{out}\]
+  * Real Batteries
+      * \[V_b = V_0 \frac{ \frac{ R}{ r}}{ 1 + \frac{ R}{ r}\]
+* Next we found these equations were dependent on a time constant \[\tau = R C\]
+* The rate at which energy is being supplied to circuit by the 
+  battery is equal to rate at which the capacitor is storing it 
+  plus the rate at which the resistor is dissipating it.
+  * \[P_{Battery}( t) = P_R( t) + P_C( t)\]

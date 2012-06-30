@@ -15,7 +15,7 @@
     * Close by discussing the energy flow in these circuits.
 
 ## Charging Capacitor: Qualitative Description
-* Simple circuit containign a battery, capacitor and resistor.
+* Simple circuit containing a battery, capacitor and resistor.
 * Last time we saw the circuit with just a battery and a capacitor that
   * \[V_b = V_c\]
   * \[q = C V_C\]
@@ -61,4 +61,18 @@ move across the gap between the plates. How can we explain this apparent paradox
     plates of the capacitor always hold equal and opposite charge, the current is equal 
     in all parts of the circuit, and no actual charge is moving accross the gap of the 
     capacitor.
+
+## Charging Capacitor: Quantitative Description
+* We now look the time dependence of the current and the voltage in the circuit.
+* [[quantitative_circuit.png]]
+  * Moving clockwise around the circuit we find 
+      * \[q( t) = C V_b (1 - e^{frac{ -t}{ R C}})\]
+          * \[IR + \frac{ q}{ C} - V_b = 0\]
+          * \[R \frac{ d q}{ d t} + \frac{ 1}{ C} q - v_b = 0\]
+          * exponentail function \[q( t) \prop e^{-a t}\]
+          * \[ q( 0) = 0\] and \[ q( \infty) = C V_b\]
+      * \[I( t) = \frac{ V_b}{ R} e^{ -t}{ R C}\]
+          * \[I = \frac{ d q}{ d t} = C V_b (-e^{\frac{ -t}{ RC}) \left(-\frac{ 1}{ RC}\right)\]
+      
+  
 

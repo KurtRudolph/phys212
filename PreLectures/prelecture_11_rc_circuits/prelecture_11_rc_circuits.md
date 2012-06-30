@@ -90,3 +90,11 @@ move across the gap between the plates. How can we explain this apparent paradox
       * \[= q_0 e^{ \frac{ -t}{ R C}} \left(-\frac{ 1}{ R C}\right)\]
       * The positive current flows in the oposite direction to what we originally assumed
       * \[|I( 0)| = \frac{ q_0}{ RC}\] and \[I( \infty) = 0\]
+
+## Time Constant
+* \[\tau = RC\] the time constant of the circuit.
+  * As we saw in our exponential function for charging and discharging a circuit \[e\] is dependent on \frac{ -t}{ R C}.
+      * \[q( t) = C V_b (1 - e^{\frac{ -t}{ R C}})\]
+      * \[q( t) = q_0 e^{ \frac{ -t}{ R C}}\]
+      * \[I( t) = \frac{ V_b}{ R} e^{\frac{ -t}{ R C}}\]
+      * \[I( t) = -\frac{ q_0}{ R C} e^{\frac{ -t}{ R C}\]

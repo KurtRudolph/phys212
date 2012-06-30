@@ -74,3 +74,19 @@ move across the gap between the plates. How can we explain this apparent paradox
       * \[I( t) = \frac{ V_b}{ R} e^{ -t}{ R C}\]
           * \[I = \frac{ d q}{ d t} = C V_b (-e^{\frac{ -t}{ RC}) \left(-\frac{ 1}{ RC}\right)\]
           * \[I( 0) = \frac{ V_b}{ R}\] and \[I( \infty) = 0\]
+
+## Discharging the capacitor
+* We now the switch from position A to position B, removing the battery from the circuit.
+* [[discharged_circuit.png]]
+  * Immediately after the switch is moved the charge remains the same, 
+      * \[q( 0) = q_0\]
+      * \[V_C( 0) = \frac{ q_0}{ C}\]
+  * \[q( t) = q_0 e^{\frac{ -t}{ R C}}\]
+      * \[I R + \frac{ q}{ C} = 0\]
+      * \[\frac{ d q}{ d t} R + \frac{ q}{ C} = 0\]
+      * \[q( 0) = q_0\] and \[q( \infty) = 0\]
+  * \[I( t) = -\frac{ q_0}{ R C} e^{\frac{ -t}{ RC}}\]
+      * \[I = \frac{ d q}{ d t}\]
+      * \[= q_0 e^{ \frac{ -t}{ R C}} \left(-\frac{ 1}{ R C}\right)\]
+      * The positive current flows in the oposite direction to what we originally assumed
+      * \[|I( 0)| = \frac{ q_0}{ RC}\] and \[I( \infty) = 0\]

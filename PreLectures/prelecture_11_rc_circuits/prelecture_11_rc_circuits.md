@@ -111,7 +111,7 @@ move across the gap between the plates. How can we explain this apparent paradox
       * \[P_{Battery} = V_b I( t) = V_b I_0 e^{\frac{ -t}{ R C}}\]
       * \[P_R( t) = I^2 R = R I_0^2 e^{\frac{ -2t}{ R C}}\] 
           * The rate at which power is being dissipated by the resistor
-          * \[U_C( t) = \frac{ 1}{ 2} \frac{ q^2}{ C} = \frac{ 1}{ 2} \frac{ q_0^2}{ C} (1 - e^{\frac{ -t}{ RC})^2\]
+          * \[U_C( t) = \frac{ 1}{ 2} \frac{ q^2}{ C} = \frac{ 1}{ 2} \frac{ q_0^2}{ C} (1 - e^{\frac{ -t}{ RC}})^2\]
                 * The rate at which the capacitor is storing power
           * 
       * \[P_C( t) = V_C( t) I( t) = \frac{ q( t)}{ C} I( t) = \left[\frac{ q_0}{ C}(1 - e^{\frac{ -t}{ R C}}\right] \left[I_0 e^{\frac{ -t}{ R C}}\right]\]

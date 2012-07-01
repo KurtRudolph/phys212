@@ -84,7 +84,9 @@ What units result when a velocity \[v\] is multiplied by an area \[A\]?
       * since \[I\] and \[B\] are constant
   * \[= I B (L_{\perp}) = I \vec L \times \vec B\]
   * [[curved_wire.png]]
-  * The force on the wire does not depend on the exact shape of the wire but rather only the distance    between the perpendicular components of the wire.
+  * The force on the wire does not depend on the exact shape of 
+    the wire but rather only the distance between the 
+    perpendicular components of the wire.
 
 ## Question 2
 The above illustration shows three different current segments 
@@ -115,3 +117,5 @@ segment, rank these forces from largest to smallest.
     product of that force and the distance to where the force is applied.
       * [\vec \tau  = \vec r \times \vec F\]
       * Magnitude \[tau = r F \sin \theta\]
+  * Consider the side view of the closed loop rotated on it's axis
+      * [[torque_on_current_loop_side.png]]

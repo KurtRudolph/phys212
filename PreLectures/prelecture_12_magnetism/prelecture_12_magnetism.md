@@ -69,3 +69,48 @@ needle seems to be attracted to the north pole of the planet Earth?
   * Cross product is a good mathematical model for this
       * [[charge_mag_field.png]]
       * \[\vec F = q \vec v \times \vec B\]
+
+## Cross Products
+*  \[|\vec A \times \vec B| = A B \sin \theta\]
+* Right Hand Rules
+  * Version 1
+      * Fingers point in direction of \[\vec A\]
+      * Curl fingers toward \[\vec B\]
+      * Thumb gives direction of \[\vec A \times \vec B\]
+  * Version 2
+      * Point thumb in direction of \[\vec A\]
+      * Point fingers in direction of \[\vec B\]
+      * Palm gives direction of \[\vec A \times \vec B\]
+
+## Question 2
+The picture below shows a cathode ray tube in a magnetic field. 
+A beam of electrons is produced at the cathode and travels with 
+a high velocity toward a fluorescent screen. In the absence of 
+a magnetic field the beam of electrons would hit the screen at 
+the center (labeled 2 in the picture). When the orientation of 
+the magnetic field is in the \[-y\] direction as shown, at 
+which of the points on the screen would the beam arrive?
+
+[[q2.png]]
+
+* \[1\]
+  * Taking the cross product between the velocity of the electrons 
+    (\[+z\] direction) and the magnetic field (\[-y\] direction) results 
+    in a vector pointing in the \[+x\] direction. Since the charge of 
+    the electrons are negative, however, we have to factor in another 
+    minus sign, which makes the resulting force point in the \[-x\] 
+    direction. The beam will therefore strike at the point labeled \[1\].
+
+
+## Velocity Selector
+* [[veloc_selector.png]]
+  * A device oriented with a long narrow channel ensuring that all particles
+    exiting the tube are traveling in the same direction.
+  * As well, the device employs a electric and magnetic fields throughout
+    the channel in order to ensure the particles are traveling at the same speed.
+      * Orient the fields such that \[\vec F_{Electric} = -\vec F_{Magnetic}\]
+      * \[q \vec E = - q \vec v \times \vec B\]
+            * only particle with that unique speed will now exit the channel
+            * particles with all other speeds will be deflectd by the non-zero 
+              combination of the electric and magnetic forces 
+      * \[v = \frac{ E}{ B}\] when \[\vec F_B = -\vec F_B\]

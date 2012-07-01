@@ -136,3 +136,14 @@ to a constant magnetic field. Which partilce moves in the smallest circle?
   * \[R^2 = \frac{ 2 m k}{ (q B)^2}\]
   * Doubling the charge \[q\] and quadrupling the mass \[m\] leaves 
     \[R\] unchanged since both the numerator and denominator increase by \[4\].
+
+
+## Summary: The Main Ideas
+* Introduces observations involving forces exerted by bar magnets, and
+  current carrying wires to indicate the existence of magnetic fields.
+  * [[summary.png]]
+* All magnetic effects are able to be described in terms of magnetic field
+  that is created by the motion of charged particles
+* These magnetic fields create forces on electric charges that are in motion.
+  We introduced the magnetic form for this in terms of the cross product of vectors.
+  * \[\vec F = q \vec v \times \vec B\]

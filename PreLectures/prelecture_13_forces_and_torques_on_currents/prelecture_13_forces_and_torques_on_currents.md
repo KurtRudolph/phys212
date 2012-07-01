@@ -103,3 +103,7 @@ segment, rank these forces from largest to smallest.
 
 ## Foce on a Current Loop
 * \[\vec F_{ClosedLoop} = 0\]
+  * [[closed_loop.png]]
+  * \[\vec F = I \vec L \times B\]
+    * \[\vec F_{12} + \vec F_{34} = 0\]
+    * \[\vec F_{23} + \vec F_{41} = 0\]

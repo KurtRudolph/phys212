@@ -187,3 +187,18 @@ the center of the sticks.
 ## Summary: The Main Ideas
 * First we investigated the force on a current carrying wire by a magnetic field
   * \[\vec F = I \vec L \times \vec B\]
+  * [[summary.png]]
+* We then determined that the same expression holds 
+  for a wire if we define \[L\] between it's two ends.
+  * [[summary_1.png]]
+* A special case is the loop
+  * \[\vec F_{ClosedLoop} = 0\]
+  * [[summary_2.png]]
+* Magnetic Dipole Moment
+  * \[\vec \mu = N I \vec A\]
+  * [[summary_3.png]]
+* Torque on a loop
+  * \[\vec \tau = \vec \mu \times \vec B\]
+* Potential energy
+  * \[\Delta U = - W_{\text{by B field}}\]
+  * \[U( \theta) = -\vec \mu \cdot \vec B\]

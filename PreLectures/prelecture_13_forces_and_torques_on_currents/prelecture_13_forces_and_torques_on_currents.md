@@ -68,5 +68,20 @@ What units result when a velocity \[v\] is multiplied by an area \[A\]?
     this by the charge carried by each one \[q\] we find the charge 
     per unit time flowing in the wire.
   * In other words, the current in the wire 
-    \[I\] is equal to the product \[q n A v_{avg}.
+    \[I\] is equal to the product \[q n A v_{avg}\].
 
+## Force on a curved current segment
+* Consider the wire to be made up of sufficiently small wire segments
+  \[s\] and look at the vector sum of the force on these segments to get
+  the net force on the wire.
+  * \[\vec F_{wire} = \sum \vec F_{i} 
+    = \sum\limits_{i}{ I d \vec s_i \times \vec B}
+    = \int{ I d \vec s \times \vec B}\]
+  * \[= \int I d \vec s_{\|} \times \vec B + \int I d \vec s_{\perp} \times \vec B\]
+  * \[= \int I d \vec s_{\perp} \times \vec B\]
+      * since \[\int I d \vec s_{\|} \times \vec B = 0\]
+  * \[= I B \int d s_{\perp}\]
+      * since \[I\] and \[B\] are constant
+  * \[= I B (L_{\perp}) = I \vec L \times \vec B\]
+  * [curved_wire.png]]
+  * The force on the wire does not depend on the exact shape of the wire but rather only the distance    between the perpendicular components of the wire.

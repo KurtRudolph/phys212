@@ -85,3 +85,21 @@ What units result when a velocity \[v\] is multiplied by an area \[A\]?
   * \[= I B (L_{\perp}) = I \vec L \times \vec B\]
   * [[curved_wire.png]]
   * The force on the wire does not depend on the exact shape of the wire but rather only the distance    between the perpendicular components of the wire.
+
+## Question 2
+The above illustration shows three different current segments 
+\[A\], \[B\] and \[C\] in a uniform magnetic field. The magnitude 
+of the current in each segment is the same. If \[F_A\], \[F_B\], 
+and \[F_C\] are the magnitudes of the magnetic forces on each 
+segment, rank these forces from largest to smallest.
+
+[[q2.png]]
+
+* \[F_B > F_A > F_C\]
+  * If the currents are the same then the force depends on only 
+    on the distance between the ends of the segment as measured 
+    along the direction perpendicular to the magnetic field. This 
+    is zero for \[C\] and is bigger for \[B\] than it is for \[A\].
+
+## Foce on a Current Loop
+* \[\vec F_{ClosedLoop} = 0\]

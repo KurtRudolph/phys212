@@ -83,5 +83,5 @@ What units result when a velocity \[v\] is multiplied by an area \[A\]?
   * \[= I B \int d s_{\perp}\]
       * since \[I\] and \[B\] are constant
   * \[= I B (L_{\perp}) = I \vec L \times \vec B\]
-  * [curved_wire.png]]
+  * [[curved_wire.png]]
   * The force on the wire does not depend on the exact shape of the wire but rather only the distance    between the perpendicular components of the wire.

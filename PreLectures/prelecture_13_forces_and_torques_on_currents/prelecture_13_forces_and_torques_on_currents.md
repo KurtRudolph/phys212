@@ -111,11 +111,79 @@ segment, rank these forces from largest to smallest.
       * \[\vec F_{23} + \vec F_{41} = 0\]
 
 ## Torque on a Current Loop
-* While net force on a loop is zero, torque is usually not zero.
+* While net force on a loop is zero, torque is usually not zero
+* \[\tau_{loop} = I A B \sin \theta\]
   * [[torque_on_current_loop.png]]
   * Recall that the torque on an object is equal to the cross 
     product of that force and the distance to where the force is applied.
-      * [\vec \tau  = \vec r \times \vec F\]
+      * \[\vec \tau  = \vec r \times \vec F\]
       * Magnitude \[tau = r F \sin \theta\]
   * Consider the side view of the closed loop rotated on it's axis
       * [[torque_on_current_loop_side.png]]
+      * \[\tau_{12} = \frac{ h}{ 2} F_{12} \sin \theta\]
+      * \[\tau_{34} = \frac{ h}{ 2} F_{34} \sin \theta\]
+      * both \[\tau_{34}\] and \[\tau_{12}\] tend to rotate the loop clockwise
+      * \[\tau_{total} = \frac{ h}{ 2} (F_{12} + F_{34}) \sin \theta\]
+      * \[= \frac{ h}{ 2} (2 I w B) \sin \theta\]
+            * since \[F_{12} = F_{34} = I w B\]
+      * hence \[\tau_{loop} = I w h B \sin \theta\] where \[w\] is the width 
+        and \[h\] is the height and in turn \[w h\] is the area of the loop.
+      * therefore we are able to generalize this for any loop \[\tau_{loop} = I A B \sin \theta\]
+
+
+## Question 3
+Three cases involving identical forces acting on 
+identical sticks are shown at the right. Compare 
+the magnitudes of torques about an axis through 
+the center of the sticks.
+
+[[q3.png]]
+
+* \[\text{Torque}( A) > \text{Torque}( B) > \text{Torque}( C)\]
+  * The magnitude of the torque due to a force \[F\] is the product 
+    of the magnitude of the force and the lever arm, defined as the 
+    perpendicular distance from the rotation axis to the line defined 
+    by the force. Since the forces are all the same in the cases shown 
+    here, the relative lengths of the lever arms will define the 
+    relative magnitudes of the torques:
+  * [[q3a.png]]
+
+## Dipole Moment of a Current Loop
+* Previously, looked at torque within a loop which is dependent of three things
+  * Current in the loop
+  * Area defined by the loop
+  * Orientation of the loop with respect the magnetic field
+* Now, combine all three of the components which define the torque 
+  into one new quantity the magnetic dipole of a loop.
+  * Area Vector
+      * \[|\vec A|\] is the area of the loop
+      * direction of \[A\] is perpendicular to the plane defined by the loop.
+          * Define the positive direction of \[A\] using the direction of the current
+          * Curl fingers in direction of \[I\]
+          * Thumb points in direction of \[\vec A\]
+  * Magnetic Dipole momoent
+      * \[\vec \mu = I \vec A\]
+      * or for a soy a coil containing \[N\] turns \[\vec \mu = N I \vec A\]
+  * Torque on a loop
+      * \[\vec \tau = \vec \mu \times \vec B\]
+
+
+## Potential Energy of Dipole in B Field
+* \[U(\theta) = -\vec \mu \cdot \vec B\]
+  * we just saw that the torque on a current loop in a magnetic field depends
+    on the orientation of the loop magnetic moment vector with respect to 
+    the magnetic field.
+  * recall \[W = \int \tau d \theta 
+    = \int\limits_{90^{\circ}}^{0^{\circ}}{ (-\mu B \sin \theta) d \theta = \mu B}\]
+  * We can define work between any two starting and stopping points as 
+    \[W = \int\limits_{\theta_1}^{\theta_2}{ (- \mu B \sin \theta) d \theta}\]
+  * looking at potential energy 
+      * \[\Delta U = -W_{\text{by B field}} 
+        = \int\limits_{\theta_1}^{\theta_2}{ (- \mu B \sin \theta) d \theta}\]
+      * \[U( \theta) = \int\limits_{90^{\circ}}^{\theta}{ (- \mu B \sin \theta) d \theta}
+        = -\mu B (\cos \theta - \cos 90^{\circ}) = -\mu B \cos \theta = \vec \mu \cdot \vec B\]
+
+
+## Summary: The Main Ideas
+* First we investigated the force on a current carrying wire by a magnetic field
+  * \[\vec F = I \vec L \times \vec B\]

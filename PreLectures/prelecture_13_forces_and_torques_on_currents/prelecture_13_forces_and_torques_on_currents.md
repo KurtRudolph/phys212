@@ -107,3 +107,11 @@ segment, rank these forces from largest to smallest.
   * \[\vec F = I \vec L \times B\]
       * \[\vec F_{12} + \vec F_{34} = 0\]
       * \[\vec F_{23} + \vec F_{41} = 0\]
+
+## Torque on a Current Loop
+* While net force on a loop is zero, torque is usually not zero.
+  * [[torque_on_current_loop.png]]
+  * Recall that the torque on an object is equal to the cross 
+    product of that force and the distance to where the force is applied.
+      * [\vec \tau  = \vec r \times \vec F\]
+      * Magnitude \[tau = r F \sin \theta\]

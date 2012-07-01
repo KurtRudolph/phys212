@@ -42,3 +42,30 @@ needle seems to be attracted to the north pole of the planet Earth?
 
 * The geographic North pole of the earth is actually the South 
   magnetic pole of the Earth.
+
+## Source of Magnetic Field
+* Electric Currents create magnetic fields
+  * [[no_current_magnetic_field.png]]
+  * [[some_current_magnetic_field.png]]
+  * [[some_current_magnetic_field_1.png]]
+* all electric fields are created by charges in motion. 
+* Passing a current through a wire produces magnetic field
+  and you see according forces between them
+  * [[wire_mag_field.png]]
+      * same direction produces attractive force
+  * [[wire_mag_field_1.png]]
+    * opposite direction produces repulsive force
+
+## Magnetic Force
+* Just saw two wires create an electric force on one another
+* We find that the magnetic field around a wire is always perpendicular
+  to the wire and in a clockwise or counter clockwise direction.
+  * [[mag_force_field_wire.png]]
+* This indicates to us that
+  * Force is perpendicular to current 
+      * \[\vec F \perp \vec I\] and \[\vec F \perp \vec B\]
+          * Both to the direction of the current and the 
+            direction of the magnetic field.
+  * Cross product is a good mathematical model for this
+      * [[charge_mag_field.png]]
+      * \[\vec F = q \vec v \times \vec B\]

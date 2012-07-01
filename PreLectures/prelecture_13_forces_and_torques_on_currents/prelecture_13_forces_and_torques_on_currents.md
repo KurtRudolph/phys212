@@ -32,4 +32,41 @@
             and \[A L\] is the volume of the wire.
       * \[= q n A L \vec v_{avg} \times \vec B\]
           * \[I = n A q v_{avg}\]
-      * The net force is vector sum of the force acting on each of the individual charges carried through the wire.
+      * The net force is vector sum of the force acting on 
+        each of the individual charges carried through the wire.
+      * Since the charges are constrained within the wire it is also the
+        net force on the wire.
+
+## Question 1
+What units result when a velocity \[v\] is multiplied by an area \[A\]?
+
+* Volume per second
+  * The units of velocity are \[\frac{ m}{ s}\] and the units of area 
+    are \[m^2\], and when we multiply these together we get \[\frac{ m^3}{ s}\]
+    which is volume per second.
+  * A simple and useful way to picture this is to think of water flowing in a 
+    garden hose. If the speed of the water is known, 
+    \[v = 10 \frac{ m}{ s} = 1,000 \frac{ cm}{ s}\] for example, 
+    and the cross-sectional area of the hose is also known,
+    \[A = 10 cm^2\] for example, then the volume of water that 
+    travels past any point of the hose is every second is 
+    \[v A = 10,000 \frac{ cm^3}{ s} = 10 \frac{ liters}{ s}\]. 
+    In other words, if we know the velocity of the water and the 
+    area of the hose we can easily figure out the volume of water 
+    transported by the hose per unit time. If we multiply this by 
+    the density of water, i.e.
+    \[10 \frac{ liters}{ s} \frac{ kg}{ liter} = 10 \frac{ kg}{ s}\],
+    then we immediately discover how much mass is moving past a point 
+    in the hose the hose per unit time.
+  * This has an exact analogy with current in a wire. Think of the wire 
+    as the hose and the current flowing in the wire as the water. The 
+    average velocity of the charges \[v_{avg}\] times the area of the 
+    wire \[A\] tells us the volume of the charge carriers that moves 
+    through the wire per unit time. If we multiply this by the number 
+    density of the charge carriers n we find the number of charge 
+    carriers per unit time flowing in the wire, and if we multiply 
+    this by the charge carried by each one \[q\] we find the charge 
+    per unit time flowing in the wire.
+  * In other words, the current in the wire 
+    \[I\] is equal to the product \[q n A v_{avg}.
+

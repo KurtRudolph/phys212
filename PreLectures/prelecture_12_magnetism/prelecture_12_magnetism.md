@@ -114,3 +114,25 @@ which of the points on the screen would the beam arrive?
             * particles with all other speeds will be deflectd by the non-zero 
               combination of the electric and magnetic forces 
       * \[v = \frac{ E}{ B}\] when \[\vec F_B = -\vec F_B\]
+
+## Motion in an Uniform B Field
+* [[b_field.png]]
+  * Force on th particle is the magnetic force \[\vec F_B = q \vec v \times \vec B\]
+  * suppose the force of the magnetic field is perpendicular to the velocity
+      * \[F_B = q v B\]
+      * This gives rise to a centripetal acceleration of constant magnitude 
+        \[a_c = \frac{ v^2}{ R}\]
+      * [[cent_accel.png]]
+      * which gives us \[\frac{ q v B}{ m} = \frac{ v^2}{ R}\]
+      * hence \[R = \frac{ m v}{ q B}\] the radius of the circle
+
+## Question 3
+Particle \[A\] has twice the charge and \[4\] times the mass of particle \[B\]. 
+Suppose \[A\] and \[B\] have the same kinetic energy \[K\] and move perpendicular 
+to a constant magnetic field. Which partilce moves in the smallest circle? 
+(It may help you to recall that \[K\] can be expressed as \frac{ p^2}{ 2m}.)
+
+* Particles \[A\] and \[B\] move in circles of the same radius
+  * \[R^2 = \frac{ 2 m k}{ (q B)^2}\]
+  * Doubling the charge \[q\] and quadrupling the mass \[m\] leaves 
+    \[R\] unchanged since both the numerator and denominator increase by \[4\].

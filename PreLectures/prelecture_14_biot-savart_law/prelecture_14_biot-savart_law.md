@@ -58,3 +58,36 @@
       * Similar to that of the electric field of an infinite line of charge
       * Charge Element  \[d \vec E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ d q}{ r^2} \hat r\]
       * Current Element \[d \vec B = \frac{ \mu_0 I}{ 4 \pi} \frac{ d \vec s \times \hat r}{ r^2}\]
+  * Right Hand Rule
+      * Place thumb in direction of \[I\]
+      * Fingers curl in direction of \[B\]
+
+## Question 1
+The magnitude of the magnetic field at a point a distance \[d\] to the 
+right of a long straight wire carrying current \[i\] out of the plane 
+of the page is \[B_1\] (Case 1 below - the red dot represents the wire). 
+Suppose a second current carrying wire identical to the first is placed 
+the same distance to the right of the point (Case 2 below).
+
+Compare the magnitude of the total magnetic field at the point 
+in Case 2 (\[B_2\]), with that in Case 1 (\[B_1\]).
+
+[[q1.png]]
+
+* \[B_2 = 0\]
+  * As illustrated in the picture below, the fields from the two identical 
+    wires cancel at a point halfway between them. This is easy to understand 
+    since the magnitude of the fields from each wire is the same (the currents 
+    in the wires and the distance from the wires is the same for both), but 
+    directions of the field from the two wires is opposite (using the right 
+    hand rule).
+  * [[q2a.png]]-
+
+## Force Between Two Parallel Wires
+* \[F_2 = F_1 = \frac{ \mu_0}{ 2 \pi d} I_1 I_2 L\]
+      * \[\vec F_1 = -\vec F_2\]
+  * [[force_between_two_parallel_wires.png]]
+  * Since we know the form of the magnetic field of a 
+    long strait wire \[B = \frac{ \mu_0 I}{ 2 \pi R}\]
+  * Now we can look at two parallel current carrying wires, we interpret this
+    by looking at the magnetic field produced by each wire.

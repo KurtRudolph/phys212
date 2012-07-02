@@ -47,4 +47,4 @@
     = \frac{ \mu_0 I}{ 4 \pi} \int\limits_{-\frac{ \pi}{ 2}}^{\frac{ \pi}{ 2}}{ \frac{ \cos \alpha}{ r^2} \frac{ R}{ \cos^2 \alpha} d \alpha \hat z}
     = \frac{ \mu_0 I}{ 4 \pi} \int\limits_{-\frac{ \pi}{ 2}}^{\frac{ \pi}{ 2}}{ \frac{ \cos \alpha}{ \left(\frac{ R}{ \cos \alpha}\right)^2} \frac{ R}{ \cos^2 \alpha} d \alpha \hat z}
     = \frac{ \mu_0 I}{ 4 \pi} \int\limits_{-\frac{ \pi}{ 2}}^{\frac{ \pi}{ 2}}{ \cos \alpha d \alpha \hat z}
-    =  \frac{ \mu_0 I}{ 4 \pi R} 2 = \frac{ \mu_0 I}{ 2 \pi R}
+    =  \frac{ \mu_0 I}{ 4 \pi R} 2 = \frac{ \mu_0 I}{ 2 \pi R}\]

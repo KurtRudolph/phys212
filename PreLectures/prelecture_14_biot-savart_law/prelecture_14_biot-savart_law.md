@@ -50,4 +50,4 @@
   * \[=  \frac{ \mu_0 I}{ 4 \pi R} 2 = \frac{ \mu_0 I}{ 2 \pi R}\]
 
 ## Infinite Straight Wire: A Discussion
-* 
+*

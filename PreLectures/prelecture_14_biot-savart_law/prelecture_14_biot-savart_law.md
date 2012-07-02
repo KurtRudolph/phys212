@@ -50,4 +50,11 @@
   * \[=  \frac{ \mu_0 I}{ 4 \pi R} 2 = \frac{ \mu_0 I}{ 2 \pi R}\]
 
 ## Infinite Straight Wire: A Discussion
-*
+* We now want to discuss some of the features of this result for the magnetic field
+  of an infinite linear current.
+  * \[B = \frac{ \mu_0 I}{ 2 \pi R}\]
+  * The magnitude of the field is proportional to \[\frac{ I}{ R}\]
+      * [[discusion_prop_mag_i_r.png]]
+      * Similar to that of the electric field of an infinite line of charge
+      * Charge Element  \[d \vec E = \frac{ 1}{ 4 \pi \varepsilon_0} \frac{ d q}{ r^2} \hat r\]
+      * Current Element \[d \vec B = \frac{ \mu_0 I}{ 4 \pi} \frac{ d \vec s \times \hat r}{ r^2}\]

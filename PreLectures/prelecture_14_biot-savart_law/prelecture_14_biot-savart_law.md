@@ -42,9 +42,9 @@
       * \[x = R \tan \alpha\]
       * \[ds = dx = \frac{ R}{ \cos^2 \alpha} d \alpha\]
   * For all segment the magnetic fiel is out of the screen
-  * \[\vec B = \frac{ \mu_0 I}{ 4 \pi} \int \frac{ d \vec s \times \hat r}{ r^2} 
-    = \frac{ \mu_0 I}{ 4 \pi} \int \frac{ \sin \theta ds}{ r^2} \hat z
-    = \frac{ \mu_0 I}{ 4 \pi} \int\limits_{-\frac{ \pi}{ 2}}^{\frac{ \pi}{ 2}}{ \frac{ \cos \alpha}{ r^2} \frac{ R}{ \cos^2 \alpha} d \alpha \hat z}
-    = \frac{ \mu_0 I}{ 4 \pi} \int\limits_{-\frac{ \pi}{ 2}}^{\frac{ \pi}{ 2}}{ \frac{ \cos \alpha}{ \left(\frac{ R}{ \cos \alpha}\right)^2} \frac{ R}{ \cos^2 \alpha} d \alpha \hat z}
-    = \frac{ \mu_0 I}{ 4 \pi} \int\limits_{-\frac{ \pi}{ 2}}^{\frac{ \pi}{ 2}}{ \cos \alpha d \alpha \hat z}
-    =  \frac{ \mu_0 I}{ 4 \pi R} 2 = \frac{ \mu_0 I}{ 2 \pi R}\]
+  * \[\vec B = \frac{ \mu_0 I}{ 4 \pi} \int \frac{ d \vec s \times \hat r}{ r^2}\]
+  * \[= \frac{ \mu_0 I}{ 4 \pi} \int \frac{ \sin \theta ds}{ r^2} \hat z\]
+  * \[= \frac{ \mu_0 I}{ 4 \pi} \int\limits_{-\frac{ \pi}{ 2}}^{\frac{ \pi}{ 2}}{ \frac{ \cos \alpha}{ r^2} \frac{ R}{ \cos^2 \alpha} d \alpha \hat z}\]
+  * \[= \frac{ \mu_0 I}{ 4 \pi} \int\limits_{-\frac{ \pi}{ 2}}^{\frac{ \pi}{ 2}}{ \frac{ \cos \alpha}{ \left(\frac{ R}{ \cos \alpha}\right)^2} \frac{ R}{ \cos^2 \alpha} d \alpha \hat z}\]
+  * \[= \frac{ \mu_0 I}{ 4 \pi} \int\limits_{-\frac{ \pi}{ 2}}^{\frac{ \pi}{ 2}}{ \cos \alpha d \alpha \hat z}\]
+  * \[=  \frac{ \mu_0 I}{ 4 \pi R} 2 = \frac{ \mu_0 I}{ 2 \pi R}\]

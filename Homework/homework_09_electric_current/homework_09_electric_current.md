@@ -74,3 +74,33 @@ through \[R_4\] equal to zero?
   * \[I_2 = \frac{ V_2}{ R_2}\] would be decreased by half if 
     \[R_2\] were doubled, hence \[R_3\] needs to be decreased.
 
+
+## Circuit 2 with Resistors and a Battery
+A circuit is constructed with five resistors and a battery 
+as shown. The values for the resistors are: \[R_1 = R_5 = 63.0 \Omega\], 
+\[R_2 = 81.0 \Omega\], \[R_3 = 64.0 \Omega\], and \[R_4 = 130.0 \Omega\]. 
+The battery voltage is \[V = 12.0 V\].
+
+[[circuit_2.png]]
+
+Let
+* \[V_b = V = 12.0 V\]
+* \[R_1 = R_5 = 63.0 \Omega\]
+* \[R_2 = 81.0 \Omega\]
+* \[R_3 = 64.0 \Omega\]
+* \[R_4 = 130.0 \Omega\]
+
+## 1)
+What is \[R_{ab}\], the equivalent resistance between points \[a\] and \[b\]?
+
+* \[R_{ab} = \left(\frac{ 1}{ R_2 + R_3} + \frac{ 1}{ R_4}\right)^{-1}\]
+  * Correct
+
+* \[R_2 + R_3\]
+  * It looks like you have calculated the equivalent resistance of \[R_2\] 
+    and \[R_3\] in series. These resistors are not the only resistors connected
+    between \[a\] and \[b\]. Try redrawing the circuit after finding \[R_{23} to 
+    see what else you must take into account.
+
+
+

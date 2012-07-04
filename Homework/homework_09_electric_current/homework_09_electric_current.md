@@ -23,4 +23,4 @@ the current that flows through resistor \[R_4\], is zero.
 ### 1)
 What is \[I_1\], the magnitude of the current that flows through the resistor \[R_1\]?
 
-*
+* 

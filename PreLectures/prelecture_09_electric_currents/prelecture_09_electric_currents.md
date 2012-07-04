@@ -120,7 +120,7 @@ What is the voltge across the bigger resistor?
   * \[d U = dq V\]
       * \[d q = I d t\]
   * \[d U = I d t V\]
-  * \[P = \frac{ d U}}{ d t} = I V\]
+  * \[P = \frac{ d U}{ d t} = I V\]
       * Valid for any device which \[I\] flows accross a 
         potential difference \[V\]
 * SI Unit is the _Watt_ which is equal to _Volt-Apere_

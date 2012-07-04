@@ -90,7 +90,7 @@ Let
 * \[R_3 = 64.0 \Omega\]
 * \[R_4 = 130.0 \Omega\]
 
-## 1)
+### 1)
 What is \[R_{ab}\], the equivalent resistance between points \[a\] and \[b\]?
 
 * \[R_{ab} = \left(\frac{ 1}{ R_2 + R_3} + \frac{ 1}{ R_4}\right)^{-1}\]
@@ -103,4 +103,15 @@ What is \[R_{ab}\], the equivalent resistance between points \[a\] and \[b\]?
     see what else you must take into account.
 
 
+### 2)
+What is \[R_{ac}, the equivalent resistance between points \[a\] and \[c\]?
 
+* \[R_{ac} = R_1 + R_{ab} = R_1 + \left(\frac{ 1}{ R_2 + R_3} + \frac{ 1}{ R_4}\right)^{-1}\]
+
+### 3)
+What is \[I_5\], the current that flows through resistor \[R_5\]?
+
+* \[I_5 = I_{equiv} - I_{ac}\]
+  * \[I_{equiv} = \frac{ V_b}{ R_{equiv}\]
+      * \[R_{equiv} = R_1 + \left(\frac{ 1}{ R_2 + R_3} + \frac{ 1}{ R_4}\right)^{-1} + R_5\]
+  * \[I_b =   \]

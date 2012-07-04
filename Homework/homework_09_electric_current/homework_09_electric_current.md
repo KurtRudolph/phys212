@@ -36,7 +36,9 @@ What is \[I_1\], the magnitude of the current that flows through the resistor \[
 ### 2)
 What is \[V_2\], the magnitude of the voltage across the resistor \[R_2\]?
 
-* \[I_2\]
+* \[V_2 = V_b - I_1 R_3\]
+  * Since \[I_4 = 0\] we are able to say \[V_1 = V_2\].
+  * \[V_b = R_1 I_{1,2} + R_2 I_{1,2}\]
   * \[v_{drop} = I_1 R_1\]
   * \[R_{equiv} = \left(\frac{ 1}{ R_1 + R_3} + \frac{ 1}{ R_2 + R_x}\right)^{-1}\]
   * \[ \]
@@ -51,3 +53,8 @@ What is \[V_2\], the magnitude of the voltage across the resistor \[R_2\]?
   * The voltage across \[R_2\] is not equal to the battery voltage. Think 
     about the voltage across \[R_4\]. What does that tell you about \[V_1\] and 
     \[V_2\]?
+
+### 3)
+What is \[I_2\], the magnitude of the current that flows through the resistor \[R_2\]?
+
+* \[I_2 = \frac{ V_2}{ R_2}\]

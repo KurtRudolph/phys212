@@ -24,6 +24,7 @@ Let
 What is \[I_1\], the magnitude of the current that flows through the resistor \[R_1\]?
 
 * \[I_1 = \frac{ V_b}{ R_1 + R_3}\]
+  * Correct
 
 * \[\frac{ v}{ R_1}\]
   * It looks like you have calculated the current assuming that 

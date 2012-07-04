@@ -37,6 +37,9 @@ What is \[V_2\], the magnitude of the voltage across the resistor \[R_2\]?
 
 * \[I_2\]
   * \[v_{drop} = I_1 R_1\]
+  * \[R_{equiv} = \left(\frac{ 1}{ R_1 + R_3} + \frac{ 1}{ R_2 + R_x}\right)^{-1}\]
+  * \[ \]
+  * \[I_2 = \frac{ V_b}{ R_2 + R_x}\]
 
 * \[0\]
   * The voltage across \[R_2\] is not equal to zero since the current 

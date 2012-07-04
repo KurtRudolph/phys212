@@ -38,11 +38,6 @@ What is \[V_2\], the magnitude of the voltage across the resistor \[R_2\]?
 
 * \[V_2 = V_b - I_1 R_3\]
   * Since \[I_4 = 0\] we are able to say \[V_1 = V_2\].
-  * \[V_b = R_1 I_{1,2} + R_2 I_{1,2}\]
-  * \[v_{drop} = I_1 R_1\]
-  * \[R_{equiv} = \left(\frac{ 1}{ R_1 + R_3} + \frac{ 1}{ R_2 + R_x}\right)^{-1}\]
-  * \[ \]
-  * \[I_2 = \frac{ V_b}{ R_2 + R_x}\]
 
 * \[0\]
   * The voltage across \[R_2\] is not equal to zero since the current 
@@ -58,3 +53,24 @@ What is \[V_2\], the magnitude of the voltage across the resistor \[R_2\]?
 What is \[I_2\], the magnitude of the current that flows through the resistor \[R_2\]?
 
 * \[I_2 = \frac{ V_2}{ R_2}\]
+
+### 4)
+What is \[R_X\], the value of the unknown resistor \[R_X\]?
+
+* \[R_X = \frac{ I_1 R_3}{ I_1}\]
+
+### 5)
+What is \[V_1\], the magnitude of the voltage across the resistor \[R_1\]?
+
+* \[V_1 = V_2\]
+  * Since \[I_4 = 0\] we are able to say \[V_1 = V_2\].
+
+### 6)
+If the value of the resistor \[R_2\] were doubled, how would the value of 
+the resistor \[R_3\] have to change in order to keep the current 
+through \[R_4\] equal to zero?
+
+* \[R_3\] would need to be decreased
+  * \[I_2 = \frac{ V_2}{ R_2}\] would be decreased by half if 
+    \[R_2\] were doubled, hence \[R_3\] needs to be decreased.
+

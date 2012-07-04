@@ -102,7 +102,7 @@ What is the voltge across the bigger resistor?
       * \[V_b = V_1 = V_2\]
   * Hence \[I_b = \frac{ V_b}{ R_1} + \frac{ V_b}{ R_2}\]
 
-* \[\frac{ 1}{ R_{equivelent} = \frac{ 1}{ R_1} + \frac{ 1}{ R_2}\]
+* \[\frac{ 1}{ R_{equivelent}} = \frac{ 1}{ R_1} + \frac{ 1}{ R_2}\]
 * \[I_{equivelent} = I_1 + I_2\]
 * \[V_{equivelent} = V_1 = V_2\]
 

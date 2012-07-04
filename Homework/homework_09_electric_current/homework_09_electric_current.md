@@ -99,12 +99,12 @@ What is \[R_{ab}\], the equivalent resistance between points \[a\] and \[b\]?
 * \[R_2 + R_3\]
   * It looks like you have calculated the equivalent resistance of \[R_2\] 
     and \[R_3\] in series. These resistors are not the only resistors connected
-    between \[a\] and \[b\]. Try redrawing the circuit after finding \[R_{23} to 
+    between \[a\] and \[b\]. Try redrawing the circuit after finding \[R_{23}\] to 
     see what else you must take into account.
 
 
 ### 2)
-What is \[R_{ac}, the equivalent resistance between points \[a\] and \[c\]?
+What is \[R_{ac}\], the equivalent resistance between points \[a\] and \[c\]?
 
 * \[R_{ac} = R_1 + R_{ab} = R_1 + \left(\frac{ 1}{ R_2 + R_3} + \frac{ 1}{ R_4}\right)^{-1}\]
 

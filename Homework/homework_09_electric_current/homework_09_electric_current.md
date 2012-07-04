@@ -27,7 +27,7 @@ What is \[I_1\], the magnitude of the current that flows through the resistor \[
   * \[I_b = I_1 + I_2\]
   * \[V_b = V_1 = V_2\]
   * \[I_b = \frac{ V_b}{ R_1} + \frac{ V_b}{ R_2}\]
-  * \[\]
+  * \[ p\]
 
 * \[\frac{ v}{ R_1}\]
   * It looks like you have calculated the current assuming that 

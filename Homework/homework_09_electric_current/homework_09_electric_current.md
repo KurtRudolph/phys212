@@ -23,4 +23,15 @@ the current that flows through resistor \[R_4\], is zero.
 ### 1)
 What is \[I_1\], the magnitude of the current that flows through the resistor \[R_1\]?
 
-* 
+* \[I = I_1 + I_2\]
+  * \[I_b = I_1 + I_2\]
+  * \[V_b = V_1 = V_2\]
+  * \[I_b = \frac{ V_b}{ R_1} + \frac{ V_b}{ R_2}\]
+  * \[\]
+
+* \[\frac{ v}{ R_1}\]
+  * It looks like you have calculated the current assuming that 
+    the voltage across \[R_1\] is the battery voltage, which it 
+    is not. The current does not return directly to the battery 
+    after leaving \[R_1\]. Where does it go before returning to 
+    the battery?

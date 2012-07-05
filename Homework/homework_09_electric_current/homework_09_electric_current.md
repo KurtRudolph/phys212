@@ -118,7 +118,7 @@ What is \[I_5\], the current that flows through resistor \[R_5\]?
   * \[V_b = V_0 - V_1\]
       * \[V_1 = R_1 I_1 = R_1 \frac{ V_0}{ R_equiv}\]
   * \[V_a = V_0 - V_1 - V_4\]
-      * \[V_4 = R_4 I_4 = R_4 \frac{ V_b}{ }\]
+      * \[V_4 = R_4 I_4 = R_4 \frac{ V_b}{ R_4 + R_5 }\]
 
 
 ### 5)

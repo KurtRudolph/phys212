@@ -84,7 +84,7 @@ The battery voltage is \[V = 12.0 V\].
 [[circuit_2.png]]
 
 Let
-* \[V_b = V = 12.0 V\]
+* \[V_0 = V = 12.0 V\]
 * \[R_1 = R_5 = 63.0 \Omega\]
 * \[R_2 = 81.0 \Omega\]
 * \[R_3 = 64.0 \Omega\]
@@ -112,6 +112,16 @@ What is \[R_{ac}\], the equivalent resistance between points \[a\] and \[c\]?
 What is \[I_5\], the current that flows through resistor \[R_5\]?
 
 * \[I_5 = I_{equiv} - I_{ac}\]
-  * \[I_{equiv} = \frac{ V_b}{ R_{equiv}\]
-      * \[R_{equiv} = R_1 + \left(\frac{ 1}{ R_2 + R_3} + \frac{ 1}{ R_4}\right)^{-1} + R_5\]
-  * \[I_b =   \]
+  * \[I_{equiv} = \frac{ V_0}{ R_{equiv}}\]
+      * R_{equiv} = R_1 + \left(\frac{ 1}{ R_2 + R_3} + \frac{ 1}{ R_4}\right)^{-1} + R_5}
+  * \[I_{ac} = I_1 - I_{bc} \]
+  * \[V_b = V_0 - V_1\]
+      * \[V_1 = R_1 I_1 = R_1 \frac{ V_0}{ R_equiv}\]
+  * \[V_a = V_0 - V_1 - V_4\]
+      * \[V_4 = R_4 I_4 = R_4 \frac{ V_b}{ }\]
+
+
+### 5)
+What is \[I_1\], the current that flows through the resistor \[R_1\]?
+
+* \[I_1 = \frac{ V_0}{ R_equiv}\]

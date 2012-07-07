@@ -163,8 +163,15 @@ directions of the arrows.
 
 [[circuit_two_bat_six_resis.png]]
 
-### 1) 
-What is \[V_4\], the magnitude of the voltage across the resistor \[R_4\]?
 
+## Non-Ideal Battery
+A circuit is constructed with five resistors and one real battery as shown above 
+right. We model. The real battery as an ideal emf \[V = 12.0 V\] in series with 
+an internal resistance \[r\] as shown above left. The values for the resistors 
+are: \[R_1 = R_3 = 43.0 \Omega, R_4 = R_5 = 84.0 \Omega, R_2 = 150.0 \Omega\]. 
+The measured voltage across the terminals of the batery is \[V_{battery} = 11.8 V\].
 
+[[non-ideal_battery.png]]
+
+### 1
 

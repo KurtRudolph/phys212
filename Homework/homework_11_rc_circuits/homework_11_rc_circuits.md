@@ -34,3 +34,20 @@ battery voltage is \[V = 24.0 V\].
 The switch has been open for a long time when at time \[t = 0\], 
 the switch is closed. What is \[I_1( 0)\], the magnitude of the 
 current through the resistor \[R_1\] just after the switch is closed?
+
+
+## Two Loop RC Circuit 2
+A circuit is constructed with four resistors, one capacitor, 
+one battery and a switch as shown. The values for the resistors 
+are: \[R_1 = R_2 = 43.0 \Omega, R_3 = 112.0 \Omega, R_4 = 104.0 \Omega\]. 
+The capacitance is \[C = 30.0 \mu F\] and the battery voltage is 
+\[V = 12.0 V\]. The positive terminal of the battery is indicated 
+with a \[+\] sign.
+
+[[2_loop_rc_circ_2.png]]
+
+### 1)
+The switch has been open for a long time when at time \[t = 0\], 
+the switch is closed. What is \[I_4( 0)\], the magnitude of the 
+current through the resistor \[R_4\] just after the switch is closed?
+

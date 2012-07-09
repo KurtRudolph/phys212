@@ -25,7 +25,7 @@ print( r_3 * v/r_equiv_infty * c/mu)
 
 t = 548.0
 q_0 = r_3 * v/r_equiv_infty * c
-print( q_0 * e**(-t/(r_equiv_infty * c)) /mu)
+print( q_0 * e**(-t/(r_4 * c)) /mu)
 
 # 4)
 i_1, i_2, i_3 = symbols('i_1 i_2 i_3')

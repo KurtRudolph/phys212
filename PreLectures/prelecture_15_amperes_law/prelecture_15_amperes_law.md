@@ -73,7 +73,7 @@ around the closed paths compare?
               = \frac{ \mu_0 I}{ 2}\]
                   * \[B_{ba} = \frac{ \mu_0 I}{ 2 \pi R_ba}\]
             * \[\oint\limits_{d}^{a} \vec B \cdot d \vec l 
-              = \[frac{ \frac{ \mu_0 I}{ 2}\]
+              = \frac{ \mu_0 I}{ 2}\]
       * \[\oint\limits_{loop} \vec B \cdot d \vec l
         = \mu_0 I\]
             * Note that this is identical to a perfectly circular path.

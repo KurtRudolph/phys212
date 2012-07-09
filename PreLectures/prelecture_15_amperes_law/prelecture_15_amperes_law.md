@@ -78,3 +78,48 @@ around the closed paths compare?
         = \mu_0 I\]
             * Note that this is identical to a perfectly circular path.
     
+## Example: Integrating with Semicircles II
+* Consider magnetic field produced by an infinite strait wire carrying
+  current \[I\], 
+  * flip the path so it no longer contains the current carrying wire
+      * [[flipped_path.png]]
+  * \[\oint\limits_{loop} \vec B \cdot d \vec l = 0 \]
+
+## Ampere's Law
+* The result of Ampere's Law is general
+  * \[\oint\limits_{loop} \vec B \cdot d \vec l = \mu_0 I_{enclosed} \]
+
+## Question 2
+A long straight wire (the red dot in the diagram below) carries 
+current \[I\] directly out of the plane of the page. Consider the 
+two closed integration paths shown in Case 1 and Case 2:
+
+[[q2.png]]
+
+How do the magnitudes of the \[\oint\limits_{loop} \vec B \cdot d \vec l\] 
+around the closed paths compare?
+
+* It is the same in both cases
+  * This is easily seen by shading in the areas enclosed by the closed paths in both cases:
+    * [[q2a.png]]
+  * Since neither path encloses any current, neither can have a non-zero 
+    \[\oint\limits_{loop} \vec B \cdot d \vec l\].
+
+## Magnetic Field Inside of a Wire
+[[mag_field_inside_wire.png]]
+\[\oint\limits_{loop} \vec B \cdot d \vec l = B\oint\limits_{loop} d l = B (2 \pi r)\]
+
+\[= \mu_0 I_{enclosed} = \mu_0 I \frac{ \pi r^2}{ \pi a^2}\]
+
+Hence 
+
+\[B = \frac{ \mu_0 I}{ 2 \pi a^2} r\] for \[ r < a\]
+
+\[B = \frac{ \mu_0 I}{ 2 \pi r}\] for \[ r > a\]
+
+
+## Magnetic Field and Infinite Sheet of Current
+[[infinite_sheet_current.png]]
+
+* \[B = \frac{ 1}{ 2} \mu_0 n I\]
+  * \[n \equiv \frac{ number_of_wires}{ unit_length}

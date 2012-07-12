@@ -1,11 +1,12 @@
 from sympy import *
 from mpmath import *
 
-d = .008
-i = 0.25
+d = .08
+I = 0.25
 B = 1.3
 
 
-mu = i
+A = sqrt(3) * d**2/4
+mu = I * A
 
-print(- mu * B)
+print(- mu * B * cos( radians(180)))

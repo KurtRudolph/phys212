@@ -14,3 +14,16 @@ Position I to Position II? (Note, the coil is rotated out of the plane of
 the page, not simply spun in the plane) 
 
 \[W_{I to II} =\]
+
+
+## Loop Torque
+A uniform magnetic field \[B = 1.8 T\] points in the \[+x\] direction. A square loop with 
+sides of length \[d = 20.0 cm, N=12.0 turns\], and current \[I = 0.85 A/turn\] pivots without 
+friction around a pin about the \[z\]-axis as shown in the figure below.(The \[z\]-axis points 
+out of the page in the left hand panel.) 
+
+[[loop_torque.png]]
+
+A mass M is hung from one side of the loop (C or D), and the loop is in equilibrium when it 
+makes an angle of 30.0° with respect to the x-z plane. Determine the size of the mass. Enter 
+a positive number if it is hung from C and a negative number if it is hung from D. M =

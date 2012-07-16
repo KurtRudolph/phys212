@@ -6,7 +6,7 @@
 ## Faraday's Law
 \[\Phi_B =  \int \vec B \cdot d \vec A\]
 
-\[\varepsilon_emf = - \frac{ d \Phi_B}{ d t}\]
+\[\varepsilon_{emf} = - \frac{ d \Phi_B}{ d t}\]
 
 ## L Circuits
 ### For an inductor

@@ -5,7 +5,7 @@
 #define MU_0 4 * PI * 10
 
 int main() {
-const double 
+const long double 
   pi = 3.13159265,
   mu_0 = 4 * pi * pow(10.0, -7),
   t = 1.5 * pow(10.0, -9),

@@ -4,9 +4,9 @@
 #define PI 3.14159265
 
 int main () {
-  double  phi_1 = 46.3 * PI/180,
-          h     = .18,
-          d     = .457;
+  double  phi_1 = 42.3 * PI/180,
+          h     = .10,
+          d     = .264;
 
   double d_hat = d - (h / tan( 30. * PI/180));
   printf( "d_hat = %fl\n", d_hat);
@@ -30,7 +30,7 @@ int main () {
   printf( "phi_1_max = %lf\n", phi_1_max * 180/PI);
 
 // 5)
-  double n_violet = 1.34;
+  double n_violet = 1.53;
   double phi_2_violet =  PI/3 - sin( PI/3 - phi_1) / n_violet;
 
   if( phi_2 > phi_2_violet)

@@ -5,10 +5,10 @@
 
 int main( ){
 
-  double  x_1 = -.650,
-          x_2 = 1.32,
-          y_1 = .0206,
-          n   = 1.65;
+  double  x_1 = -.67,
+          x_2 = 1.093,
+          y_1 = .0446,
+          n   = 1.61;
 //1)
   double f_lens = 1 / (-1 / x_1 + 1 / x_2);
   printf( "f_lens = %lf\n", f_lens * 100);
@@ -22,7 +22,7 @@ int main( ){
   printf( "R = %lf\n", R * 100);
 
 //4)
-  double x_1_new = -.192;
+  double x_1_new = -.233;
   double x_2_new = 1 / (1 / f_lens + 1 / x_1_new);
   printf( "x_2_new = %lf\n", x_2_new * 100);
 

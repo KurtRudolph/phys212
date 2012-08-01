@@ -46,7 +46,7 @@ int main () {
   printf( "phi_2_v = %lf\n", phi_2_v * 180/PI);
   
   //sin( phi_3_v) = n * sin(phi_2_v)
-  double phi_3_v =  PI/2 - asin( n * sin( PI/2 - phi_2_v));
+  double phi_3_v =  PI/2 - asin( n_violet * sin( PI/2 - phi_2_v));
   printf( "phi_3 = %lf\n", phi_3_v * 180/PI);
 
   return 0;

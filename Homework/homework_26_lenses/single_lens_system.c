@@ -22,7 +22,7 @@ int main( ){
   printf( "R = %lf\n", R * 100);
 
 //4)
-  double x_1_new = -192;
+  double x_1_new = -.192;
   double x_2_new = 1 / (1 / f_lens + 1 / x_1_new);
   printf( "x_2_new = %lf\n", x_2_new * 100);
 

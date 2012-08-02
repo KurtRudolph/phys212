@@ -3,11 +3,11 @@
 
 int main( ){ 
 
-  double  x_2 = .307,
-          y_2 = .035,
-          f   = .52;
+  double  x_2 = -.267,
+          y_2 = .059,
+          f   = .46;
 
-  double x_1 = f * x_2 / ( x_2 - f);
+  double x_1 = f * x_2 / ( x_2 - f) - f;
   printf( "x_1 = %lf\n", x_1 * 100);
 
   double y_1 = -x_1 * y_2 / x_2;

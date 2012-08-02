@@ -5,9 +5,9 @@
 
 int main(){
 
-  double  x_2 = -.91,
-          x_1 = -1.27,
-          y_1 = .0306;
+  double  x_2 = -.838,
+          x_1 = -1.18,
+          y_1 = .0546;
 
 //1)
   double f = fabs( 1 / (1 / x_1 + 1/x_2));
@@ -18,14 +18,14 @@ int main(){
   printf( "y_2 = %lf\n", -y_2 * 100);
 
 //3)
-  double x_image_new_2 = -1.82;
+  double x_image_new_2 = -1.676;
   double x_image_new_1 = 1 / (1 / f + 1 / x_image_new_2);
   double y_image_new_2 = x_image_new_2 * y_1 / x_image_new_1;
 
   printf( "y_image_new_2 = %lf\n", y_image_new_2 * 100);
 
 //4)
-  double x_1_new = -.26;
+  double x_1_new = -.23;
   double y_1_new = y_1;
 
   double x_2_new = 1 / (1 / f + 1 / x_1_new);

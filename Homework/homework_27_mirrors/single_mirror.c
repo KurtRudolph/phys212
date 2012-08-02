@@ -18,7 +18,20 @@ int main(){
   printf( "y_2 = %lf\n", -y_2 * 100);
 
 //3)
-  double x_image_new = -1.82
+  double x_image_new_2 = -1.82;
+  double x_image_new_1 = 1 / (1 / f + 1 / x_image_new_2);
+  double y_image_new_2 = x_image_new_2 * y_1 / x_image_new_1;
+
+  printf( "y_image_new_2 = %lf\n", y_image_new_2 * 100);
+
+//4)
+  double x_1_new = -.26;
+  double y_1_new = y_1;
+
+  double x_2_new = 1 / (1 / f + 1 / x_1_new);
+  double y_2_new = x_2_new * y_1_new / x_1_new;
+
+  printf( "y_2_new = %lf\n", -y_2_new * 100);
   
   return 0;
 }
